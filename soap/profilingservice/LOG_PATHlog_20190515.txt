@@ -1,0 +1,142 @@
+[Wed 2019-05-15 09:43:38 PM] [client 127.0.0.1] Select * from attraction_site where reference='871400e4-a9c8-4321-8c73-0e3ed63f4760'
+ [Wed 2019-05-15 09:43:38 PM] [client 127.0.0.1] Select * from site_category where attraction_site=6
+ [Wed 2019-05-15 09:43:38 PM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Wed 2019-05-15 09:43:38 PM] [client 127.0.0.1] 
+ [Wed 2019-05-15 09:43:38 PM] [client 127.0.0.1] Array
+[Wed 2019-05-15 09:43:38 PM] [client 127.0.0.1] Select * from site_activity where attraction_site=6
+ [Wed 2019-05-15 09:43:38 PM] [client 127.0.0.1] Select * from site_rating where attraction_reference="871400e4-a9c8-4321-8c73-0e3ed63f4760"
+ [Wed 2019-05-15 09:43:38 PM] [client 127.0.0.1] Rate0
+ [Wed 2019-05-15 09:43:38 PM] [client 127.0.0.1] Rate0
+ [Wed 2019-05-15 09:43:38 PM] [client 127.0.0.1] Rate4
+ [Wed 2019-05-15 09:44:55 PM] [client 127.0.0.1] Select * from attraction_site where reference='871400e4-a9c8-4321-8c73-0e3ed63f4760'
+ [Wed 2019-05-15 09:44:55 PM] [client 127.0.0.1] Select * from site_category where attraction_site=6
+ [Wed 2019-05-15 09:44:55 PM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Wed 2019-05-15 09:44:55 PM] [client 127.0.0.1] 
+ [Wed 2019-05-15 09:44:55 PM] [client 127.0.0.1] Array
+[Wed 2019-05-15 09:44:55 PM] [client 127.0.0.1] Select * from site_activity where attraction_site=6
+ [Wed 2019-05-15 09:44:55 PM] [client 127.0.0.1] Select * from site_rating where attraction_reference="871400e4-a9c8-4321-8c73-0e3ed63f4760"
+ [Wed 2019-05-15 09:44:55 PM] [client 127.0.0.1] Rate0
+ [Wed 2019-05-15 09:44:55 PM] [client 127.0.0.1] Rate0
+ [Wed 2019-05-15 09:44:55 PM] [client 127.0.0.1] Rate4
+ [Wed 2019-05-15 09:45:15 PM] [client 127.0.0.1] Select * from attraction_site where reference='871400e4-a9c8-4321-8c73-0e3ed63f4760'
+ [Wed 2019-05-15 09:45:16 PM] [client 127.0.0.1] Select * from site_category where attraction_site=6
+ [Wed 2019-05-15 09:45:16 PM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Wed 2019-05-15 09:45:16 PM] [client 127.0.0.1] 
+ [Wed 2019-05-15 09:45:16 PM] [client 127.0.0.1] Array
+[Wed 2019-05-15 09:45:16 PM] [client 127.0.0.1] Select * from site_activity where attraction_site=6
+ [Wed 2019-05-15 09:45:16 PM] [client 127.0.0.1] Select * from site_rating where attraction_reference="871400e4-a9c8-4321-8c73-0e3ed63f4760"
+ [Wed 2019-05-15 09:45:16 PM] [client 127.0.0.1] Rate0
+ [Wed 2019-05-15 09:45:16 PM] [client 127.0.0.1] Rate0
+ [Wed 2019-05-15 09:45:16 PM] [client 127.0.0.1] Rate4
+ [Wed 2019-05-15 09:45:39 PM] [client 127.0.0.1] Select * from attraction_site where reference='871400e4-a9c8-4321-8c73-0e3ed63f4760'
+ [Wed 2019-05-15 09:45:39 PM] [client 127.0.0.1] Select * from site_category where attraction_site=6
+ [Wed 2019-05-15 09:45:39 PM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Wed 2019-05-15 09:45:39 PM] [client 127.0.0.1] 
+ [Wed 2019-05-15 09:45:39 PM] [client 127.0.0.1] Array
+[Wed 2019-05-15 09:45:39 PM] [client 127.0.0.1] Select * from site_activity where attraction_site=6
+ [Wed 2019-05-15 09:45:39 PM] [client 127.0.0.1] Select * from site_rating where attraction_reference="871400e4-a9c8-4321-8c73-0e3ed63f4760"
+ [Wed 2019-05-15 09:45:40 PM] [client 127.0.0.1] 0Rate0
+ [Wed 2019-05-15 09:45:40 PM] [client 127.0.0.1] 1Rate0
+ [Wed 2019-05-15 09:45:40 PM] [client 127.0.0.1] 2Rate4
+ [Wed 2019-05-15 09:46:04 PM] [client 127.0.0.1] Select * from attraction_site where reference='871400e4-a9c8-4321-8c73-0e3ed63f4760'
+ [Wed 2019-05-15 09:46:04 PM] [client 127.0.0.1] Select * from site_category where attraction_site=6
+ [Wed 2019-05-15 09:46:04 PM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Wed 2019-05-15 09:46:04 PM] [client 127.0.0.1] 
+ [Wed 2019-05-15 09:46:04 PM] [client 127.0.0.1] Array
+[Wed 2019-05-15 09:46:04 PM] [client 127.0.0.1] Select * from site_activity where attraction_site=6
+ [Wed 2019-05-15 09:46:04 PM] [client 127.0.0.1] Select * from site_rating where attraction_reference="871400e4-a9c8-4321-8c73-0e3ed63f4760"
+ [Wed 2019-05-15 09:46:04 PM] [client 127.0.0.1] 1Rate0
+ [Wed 2019-05-15 09:46:04 PM] [client 127.0.0.1] 2Rate0
+ [Wed 2019-05-15 09:46:04 PM] [client 127.0.0.1] 3Rate4
+ [Wed 2019-05-15 09:46:31 PM] [client 127.0.0.1] Select * from attraction_site where reference='871400e4-a9c8-4321-8c73-0e3ed63f4760'
+ [Wed 2019-05-15 09:46:31 PM] [client 127.0.0.1] Select * from site_category where attraction_site=6
+ [Wed 2019-05-15 09:46:31 PM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Wed 2019-05-15 09:46:31 PM] [client 127.0.0.1] 
+ [Wed 2019-05-15 09:46:31 PM] [client 127.0.0.1] Array
+[Wed 2019-05-15 09:46:31 PM] [client 127.0.0.1] Select * from site_activity where attraction_site=6
+ [Wed 2019-05-15 09:46:31 PM] [client 127.0.0.1] Select * from site_rating where attraction_reference="871400e4-a9c8-4321-8c73-0e3ed63f4760"
+ [Wed 2019-05-15 09:46:31 PM] [client 127.0.0.1] 1Rate0
+ [Wed 2019-05-15 09:46:31 PM] [client 127.0.0.1] 2Rate0
+ [Wed 2019-05-15 09:46:31 PM] [client 127.0.0.1] 3Rate4
+ [Wed 2019-05-15 09:47:05 PM] [client 127.0.0.1] Select * from attraction_site where reference='871400e4-a9c8-4321-8c73-0e3ed63f4760'
+ [Wed 2019-05-15 09:47:05 PM] [client 127.0.0.1] Select * from site_category where attraction_site=6
+ [Wed 2019-05-15 09:47:05 PM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Wed 2019-05-15 09:47:05 PM] [client 127.0.0.1] 
+ [Wed 2019-05-15 09:47:05 PM] [client 127.0.0.1] Array
+[Wed 2019-05-15 09:47:05 PM] [client 127.0.0.1] Select * from site_activity where attraction_site=6
+ [Wed 2019-05-15 09:47:05 PM] [client 127.0.0.1] Select * from site_rating where attraction_reference="871400e4-a9c8-4321-8c73-0e3ed63f4760"
+ [Wed 2019-05-15 09:47:05 PM] [client 127.0.0.1] 1Rate0
+ [Wed 2019-05-15 09:47:05 PM] [client 127.0.0.1] 2Rate0
+ [Wed 2019-05-15 09:47:05 PM] [client 127.0.0.1] 3Rate4
+ [Wed 2019-05-15 09:47:05 PM] [client 127.0.0.1] 4FFFFFFF8
+ [Wed 2019-05-15 09:47:45 PM] [client 127.0.0.1] Select * from attraction_site where reference='871400e4-a9c8-4321-8c73-0e3ed63f4760'
+ [Wed 2019-05-15 09:47:45 PM] [client 127.0.0.1] Select * from site_category where attraction_site=6
+ [Wed 2019-05-15 09:47:45 PM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Wed 2019-05-15 09:47:45 PM] [client 127.0.0.1] 
+ [Wed 2019-05-15 09:47:45 PM] [client 127.0.0.1] Array
+[Wed 2019-05-15 09:47:45 PM] [client 127.0.0.1] Select * from site_activity where attraction_site=6
+ [Wed 2019-05-15 09:47:45 PM] [client 127.0.0.1] Select * from site_rating where attraction_reference="871400e4-a9c8-4321-8c73-0e3ed63f4760"
+ [Wed 2019-05-15 09:47:45 PM] [client 127.0.0.1] 1Rate0
+ [Wed 2019-05-15 09:47:45 PM] [client 127.0.0.1] 2Rate0
+ [Wed 2019-05-15 09:47:45 PM] [client 127.0.0.1] 3Rate4
+ [Wed 2019-05-15 09:47:45 PM] [client 127.0.0.1] 4FFFFFFF8
+ [Wed 2019-05-15 09:47:45 PM] [client 127.0.0.1] AAAAAAQ2
+ [Wed 2019-05-15 09:48:20 PM] [client 127.0.0.1] Select * from attraction_site where reference='871400e4-a9c8-4321-8c73-0e3ed63f4760'
+ [Wed 2019-05-15 09:48:20 PM] [client 127.0.0.1] Select * from site_category where attraction_site=6
+ [Wed 2019-05-15 09:48:20 PM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Wed 2019-05-15 09:48:20 PM] [client 127.0.0.1] 
+ [Wed 2019-05-15 09:48:20 PM] [client 127.0.0.1] Array
+[Wed 2019-05-15 09:48:20 PM] [client 127.0.0.1] Select * from site_activity where attraction_site=6
+ [Wed 2019-05-15 09:48:20 PM] [client 127.0.0.1] Select * from site_rating where attraction_reference="871400e4-a9c8-4321-8c73-0e3ed63f4760"
+ [Wed 2019-05-15 09:48:20 PM] [client 127.0.0.1] 0Rate0
+ [Wed 2019-05-15 09:48:20 PM] [client 127.0.0.1] 1Rate0
+ [Wed 2019-05-15 09:48:20 PM] [client 127.0.0.1] 2Rate4
+ [Wed 2019-05-15 09:48:20 PM] [client 127.0.0.1] 3FFFFFFF8
+ [Wed 2019-05-15 09:48:20 PM] [client 127.0.0.1] AAAAAAQ2.6666666666667
+ [Wed 2019-05-15 09:49:51 PM] [client 127.0.0.1] Select * from attraction_site where reference='871400e4-a9c8-4321-8c73-0e3ed63f4760'
+ [Wed 2019-05-15 09:49:51 PM] [client 127.0.0.1] Select * from site_category where attraction_site=6
+ [Wed 2019-05-15 09:49:51 PM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Wed 2019-05-15 09:49:51 PM] [client 127.0.0.1] 
+ [Wed 2019-05-15 09:49:51 PM] [client 127.0.0.1] Array
+[Wed 2019-05-15 09:49:51 PM] [client 127.0.0.1] Select * from site_activity where attraction_site=6
+ [Wed 2019-05-15 09:49:51 PM] [client 127.0.0.1] Select * from site_rating where attraction_reference="871400e4-a9c8-4321-8c73-0e3ed63f4760"
+ [Wed 2019-05-15 09:49:52 PM] [client 127.0.0.1] 0Rate0
+ [Wed 2019-05-15 09:49:52 PM] [client 127.0.0.1] 1Rate0
+ [Wed 2019-05-15 09:49:52 PM] [client 127.0.0.1] 2Rate4
+ [Wed 2019-05-15 09:51:04 PM] [client 127.0.0.1] Select * from attraction_site where reference='871400e4-a9c8-4321-8c73-0e3ed63f4760'
+ [Wed 2019-05-15 09:51:04 PM] [client 127.0.0.1] Select * from site_category where attraction_site=6
+ [Wed 2019-05-15 09:51:04 PM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Wed 2019-05-15 09:51:04 PM] [client 127.0.0.1] 
+ [Wed 2019-05-15 09:51:04 PM] [client 127.0.0.1] Array
+[Wed 2019-05-15 09:51:04 PM] [client 127.0.0.1] Select * from site_activity where attraction_site=6
+ [Wed 2019-05-15 09:51:04 PM] [client 127.0.0.1] Select * from site_rating where attraction_reference="871400e4-a9c8-4321-8c73-0e3ed63f4760"
+ [Wed 2019-05-15 09:51:04 PM] [client 127.0.0.1] 0Rate0
+ [Wed 2019-05-15 09:51:04 PM] [client 127.0.0.1] 1Rate0
+ [Wed 2019-05-15 09:51:04 PM] [client 127.0.0.1] 2Rate4
+ [Wed 2019-05-15 10:03:27 PM] [client ::1] Select * from attraction_site where reference='b0ec1bbb-b304-4c3b-9c34-7230c1581dc6'
+ [Wed 2019-05-15 10:03:27 PM] [client ::1] Select * from site_category where attraction_site=4
+ [Wed 2019-05-15 10:03:27 PM] [client ::1] Select * from category where code='CAT002'
+ [Wed 2019-05-15 10:03:27 PM] [client ::1] 
+ [Wed 2019-05-15 10:03:27 PM] [client ::1] Array
+[Wed 2019-05-15 10:03:27 PM] [client ::1] Select * from site_activity where attraction_site=4
+ [Wed 2019-05-15 10:03:27 PM] [client ::1] Select * from site_rating where attraction_reference="b0ec1bbb-b304-4c3b-9c34-7230c1581dc6"
+ [Wed 2019-05-15 10:03:28 PM] [client ::1] Select * from attraction_site where reference='assets'
+ [Wed 2019-05-15 10:03:28 PM] [client ::1] Select * from attraction_site where reference='assets'
+ [Wed 2019-05-15 10:03:28 PM] [client ::1] Select * from attraction_site where reference='assets'
+ [Wed 2019-05-15 10:03:28 PM] [client ::1] Select * from attraction_site where reference='assets'
+ [Wed 2019-05-15 10:03:29 PM] [client ::1] Select * from attraction_site where reference='assets'
+ [Wed 2019-05-15 10:03:29 PM] [client ::1] Select * from attraction_site where reference='assets'
+ [Wed 2019-05-15 10:03:29 PM] [client ::1] Select * from attraction_site where reference='assets'
+ [Wed 2019-05-15 10:03:48 PM] [client ::1] Select * from attraction_site where reference='b0ec1bbb-b304-4c3b-9c34-7230c1581dc6'
+ [Wed 2019-05-15 10:03:48 PM] [client ::1] Select * from site_category where attraction_site=4
+ [Wed 2019-05-15 10:03:48 PM] [client ::1] Select * from category where code='CAT002'
+ [Wed 2019-05-15 10:03:48 PM] [client ::1] 
+ [Wed 2019-05-15 10:03:48 PM] [client ::1] Array
+[Wed 2019-05-15 10:03:48 PM] [client ::1] Select * from site_activity where attraction_site=4
+ [Wed 2019-05-15 10:03:48 PM] [client ::1] Select * from site_rating where attraction_reference="b0ec1bbb-b304-4c3b-9c34-7230c1581dc6"
+ [Wed 2019-05-15 10:03:48 PM] [client ::1] Select * from attraction_site where reference='assets'
+ [Wed 2019-05-15 10:03:48 PM] [client ::1] Select * from attraction_site where reference='assets'
+ [Wed 2019-05-15 10:03:48 PM] [client ::1] Select * from attraction_site where reference='assets'
+ [Wed 2019-05-15 10:03:48 PM] [client ::1] Select * from attraction_site where reference='assets'
+ [Wed 2019-05-15 10:03:48 PM] [client ::1] Select * from attraction_site where reference='assets'
+ 

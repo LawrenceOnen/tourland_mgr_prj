@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<wsdl:definitions xmlns:tns="http://www.tourland.com/SubscriptionService/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="SubscriptionService" targetNamespace="http://www.tourland.com/SubscriptionService/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/">
+    <wsdl:types><xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" targetNamespace="http://www.tourland.com/SubscriptionService/">
+	<xsd:element name="saveSubscriber" type="tns:subscriberDetail">
+
+	</xsd:element>
+	<xsd:element name="saveSubscriberResponse">
+	<xsd:complexType>
+		<xsd:sequence>
+		<xsd:element name="status" type="xsd:string"></xsd:element>
+			<xsd:element name="statusCode" type="xsd:string"></xsd:element>
+			<xsd:element name="message" type="xsd:string"></xsd:element>
+		</xsd:sequence>
+	</xsd:complexType>
+	
+	</xsd:element>
+	<xsd:complexType name="subscriberDetail">
+		<xsd:sequence>
+			<xsd:element name="name" type="xsd:string"></xsd:element>
+			<xsd:element name="email" type="xsd:string"></xsd:element>
+			<xsd:element name="country" type="xsd:string"></xsd:element>
+			<xsd:element name="subscriptionDate" type="xsd:string"></xsd:element>
+			<xsd:element name="siteCategory" type="tns:siteCategory"></xsd:element>
+			<xsd:element name="reference" type="xsd:string" maxOccurs="1" minOccurs="0"></xsd:element>
+		</xsd:sequence>
+	</xsd:complexType>
+	<xsd:element name="getSubscriber">
+		<xsd:complexType>
+			<xsd:sequence>
+
+				<xsd:element name="reference" type="xsd:string"></xsd:element>
+				<xsd:element name="name" type="xsd:string"></xsd:element>
+				<xsd:element name="siteType" type="tns:siteCategory"></xsd:element>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+	<xsd:element name="getSubscriberResponse">
+		<xsd:complexType>
+			<xsd:sequence>
+
+				<xsd:element name="status" type="xsd:string"></xsd:element>
+				<xsd:element name="statusCode" type="xsd:string"></xsd:element>
+				<xsd:element name="response"
+					type="tns:subscriberList" maxOccurs="1" minOccurs="1">
+				</xsd:element>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>	
+
+	
+	<xsd:complexType name="siteCategory">
+		<xsd:sequence>
+			<xsd:element name="category" type="xsd:string" maxOccurs="unbounded" minOccurs="1"></xsd:element>
+		</xsd:sequence>
+	</xsd:complexType>
+	
+	
+
+	<xsd:complexType name="subscriberList">
+		<xsd:sequence>
+			<xsd:element name="subscriber" type="tns:subscriberDetail" maxOccurs="unbounded" minOccurs="0"></xsd:element>
+		</xsd:sequence>
+	</xsd:complexType>
+</xsd:schema></wsdl:types>
+    <wsdl:message name="saveSubscriberRequest">
+    	<wsdl:part name="parameters" element="tns:saveSubscriber"></wsdl:part>
+    </wsdl:message>
+    <wsdl:message name="saveSubscriberResponse">
+    	<wsdl:part name="parameters" element="tns:saveSubscriberResponse"></wsdl:part>
+    </wsdl:message>
+    <wsdl:message name="getSubscriberRequest">
+    	<wsdl:part name="parameters" element="tns:getSubscriber"></wsdl:part>
+    </wsdl:message>
+    <wsdl:message name="getSubscriberResponse">
+    	<wsdl:part name="parameters" element="tns:getSubscriberResponse"></wsdl:part>
+    </wsdl:message>
+    <wsdl:portType name="Subscription">
+    	<wsdl:operation name="saveSubscriber">
+    		<wsdl:input message="tns:saveSubscriberRequest"></wsdl:input>
+    		<wsdl:output message="tns:saveSubscriberResponse"></wsdl:output>
+    	</wsdl:operation>
+    	<wsdl:operation name="getSubscriber">
+    		<wsdl:input message="tns:getSubscriberRequest"></wsdl:input>
+    		<wsdl:output message="tns:getSubscriberResponse"></wsdl:output>
+    	</wsdl:operation>
+    </wsdl:portType>
+    <wsdl:binding name="NewBinding" type="tns:Subscription">
+    	<soap:binding style="document"
+    		transport="http://schemas.xmlsoap.org/soap/http" />
+    	<wsdl:operation name="saveSubscriber">
+    		<soap:operation
+    			soapAction="http://www.tourland.com/SubscriptionService/saveSubscriber" />
+    		<wsdl:input>
+    			<soap:body use="literal" />
+    		</wsdl:input>
+    		<wsdl:output>
+    			<soap:body use="literal" />
+    		</wsdl:output>
+    	</wsdl:operation>
+    	<wsdl:operation name="getSubscriber">
+    		<soap:operation
+    			soapAction="http://www.tourland.com/SubscriptionService/getSubscriber" />
+    		<wsdl:input>
+    			<soap:body use="literal" />
+    		</wsdl:input>
+    		<wsdl:output>
+    			<soap:body use="literal" />
+    		</wsdl:output>
+    	</wsdl:operation>
+    </wsdl:binding>
+    <wsdl:service name="SubscriptionService">
+		<wsdl:port name="NewPort" binding="tns:NewBinding">
+			<soap:address location="http://localhost/soap/subscriptionservice/" />
+		</wsdl:port>
+	</wsdl:service></wsdl:definitions>

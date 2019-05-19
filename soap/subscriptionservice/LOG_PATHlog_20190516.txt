@@ -1,0 +1,184 @@
+[Thu 2019-05-16 06:56:07 AM] [client 127.0.0.1] Category 
+ [Thu 2019-05-16 06:56:07 AM] [client 127.0.0.1] Category 
+ [Thu 2019-05-16 06:56:43 AM] [client 127.0.0.1] Category CAT001
+ [Thu 2019-05-16 06:56:43 AM] [client 127.0.0.1] Category CAT001
+ [Thu 2019-05-16 06:59:08 AM] [client 127.0.0.1] Select * from subscriber where email='email@mail.com'
+ [Thu 2019-05-16 06:59:08 AM] [client 127.0.0.1] Category CAT001
+ [Thu 2019-05-16 06:59:08 AM] [client 127.0.0.1] Category CAT001
+ [Thu 2019-05-16 06:59:10 AM] [client 127.0.0.1] Select * from subscriber where email='email@mail.com'
+ [Thu 2019-05-16 06:59:10 AM] [client 127.0.0.1] Category CAT001
+ [Thu 2019-05-16 06:59:10 AM] [client 127.0.0.1] Category CAT001
+ [Thu 2019-05-16 06:59:31 AM] [client 127.0.0.1] Select * from subscriber where email='email@mail.com'
+ [Thu 2019-05-16 06:59:42 AM] [client 127.0.0.1] Select * from subscriber where email='email@mail.com'
+ [Thu 2019-05-16 07:00:44 AM] [client 127.0.0.1] Select * from subscriber where email='email@mail.com'
+ [Thu 2019-05-16 07:00:46 AM] [client 127.0.0.1] Select * from subscriber where email='email@mail.com'
+ [Thu 2019-05-16 07:01:08 AM] [client 127.0.0.1] Select * from subscriber where email='email@mail.com'
+ [Thu 2019-05-16 07:01:08 AM] [client 127.0.0.1] Category CAT001
+ [Thu 2019-05-16 07:01:08 AM] [client 127.0.0.1] Category CAT001
+ [Thu 2019-05-16 07:01:43 AM] [client 127.0.0.1] Select * from subscriber where email='email@mail.com'
+ [Thu 2019-05-16 07:02:57 AM] [client 127.0.0.1] Select * from subscriber where email='email@mail.com'
+ [Thu 2019-05-16 07:02:58 AM] [client 127.0.0.1] Select * from subscriber where email='email@mail.com'
+ [Thu 2019-05-16 07:03:28 AM] [client 127.0.0.1] Select * from subscriber where email='email@mail.com'
+ [Thu 2019-05-16 07:03:29 AM] [client 127.0.0.1] Select * from subscriber where email='email@mail.com'
+ [Thu 2019-05-16 07:03:50 AM] [client 127.0.0.1] Select * from subscriber where email='email@mail.com'
+ [Thu 2019-05-16 07:04:22 AM] [client 127.0.0.1] Select * from subscriber where email='email@mail.com'
+ [Thu 2019-05-16 07:04:48 AM] [client 127.0.0.1] Select * from subscriber where email='email@mail.com'
+ [Thu 2019-05-16 07:05:14 AM] [client 127.0.0.1] Select * from subscriber where email='email@mail.com'
+ [Thu 2019-05-16 07:05:15 AM] [client 127.0.0.1] Category CAT001
+ [Thu 2019-05-16 07:05:15 AM] [client 127.0.0.1] Category CAT001
+ [Thu 2019-05-16 07:05:53 AM] [client 127.0.0.1] Select * from subscriber where email='email@mail.com'
+ [Thu 2019-05-16 07:05:53 AM] [client 127.0.0.1] Category CAT001
+ [Thu 2019-05-16 07:05:53 AM] [client 127.0.0.1] Category CAT001
+ [Thu 2019-05-16 07:06:02 AM] [client 127.0.0.1] Select * from subscriber where email='emails@mail.com'
+ [Thu 2019-05-16 07:06:02 AM] [client 127.0.0.1] Category CAT001
+ [Thu 2019-05-16 07:06:02 AM] [client 127.0.0.1] Category CAT001
+ [Thu 2019-05-16 07:06:47 AM] [client 127.0.0.1] Select * from subscriber where email='emails@mail.com'
+ [Thu 2019-05-16 07:06:47 AM] [client 127.0.0.1] Category CAT001
+ [Thu 2019-05-16 07:06:47 AM] [client 127.0.0.1] Category CAT001
+ [Thu 2019-05-16 07:07:29 AM] [client 127.0.0.1] Select * from subscriber where email='emails@mail.com'
+ [Thu 2019-05-16 07:07:30 AM] [client 127.0.0.1] Category CAT001
+ [Thu 2019-05-16 07:07:30 AM] [client 127.0.0.1] Category CAT001
+ [Thu 2019-05-16 07:07:42 AM] [client 127.0.0.1] Select * from subscriber where email='emailwer@mail.com'
+ [Thu 2019-05-16 07:07:42 AM] [client 127.0.0.1] Category CAT001
+ [Thu 2019-05-16 07:07:42 AM] [client 127.0.0.1] Category CAT001
+ [Thu 2019-05-16 07:09:26 AM] [client 127.0.0.1] Select * from subscriber where email='emailwer@mail.com'
+ [Thu 2019-05-16 07:09:26 AM] [client 127.0.0.1] Category CAT001
+ [Thu 2019-05-16 07:09:26 AM] [client 127.0.0.1] Category CAT001
+ [Thu 2019-05-16 07:09:38 AM] [client 127.0.0.1] Select * from subscriber where email='emweeer@mail.com'
+ [Thu 2019-05-16 07:09:38 AM] [client 127.0.0.1] Category CAT001
+ [Thu 2019-05-16 07:09:38 AM] [client 127.0.0.1] Category CAT001
+ [Thu 2019-05-16 07:10:05 AM] [client 127.0.0.1] Select * from subscriber where email='emweeer@mail.com'
+ [Thu 2019-05-16 07:10:05 AM] [client 127.0.0.1] Category CAT001
+ [Thu 2019-05-16 07:10:05 AM] [client 127.0.0.1] Category CAT001
+ [Thu 2019-05-16 07:10:49 AM] [client 127.0.0.1] Select * from subscriber where email='emweeer@mail.com'
+ [Thu 2019-05-16 07:10:49 AM] [client 127.0.0.1] Category CAT001
+ [Thu 2019-05-16 07:10:50 AM] [client 127.0.0.1] Category CAT001
+ [Thu 2019-05-16 07:11:23 AM] [client 127.0.0.1] Select * from subscriber where email='emweeer@mail.com'
+ [Thu 2019-05-16 07:19:37 AM] [client 127.0.0.1] Select * from subscriber where email='emweeer@mail.com'
+ [Thu 2019-05-16 07:19:43 AM] [client 127.0.0.1] Select * from subscriber where email='emtyeer@mail.com'
+ [Thu 2019-05-16 07:19:43 AM] [client 127.0.0.1] Category CAT001
+ [Thu 2019-05-16 07:19:43 AM] [client 127.0.0.1] Category CAT001
+ [Thu 2019-05-16 07:21:16 AM] [client 127.0.0.1] Select * from subscriber where email='emtyeer@mail.com'
+ [Thu 2019-05-16 07:21:16 AM] [client 127.0.0.1] Category CAT001
+ [Thu 2019-05-16 07:21:16 AM] [client 127.0.0.1] Category CAT001
+ [Thu 2019-05-16 07:27:05 AM] [client 127.0.0.1] Select * from subscriber where reference=''
+ [Thu 2019-05-16 07:29:10 AM] [client 127.0.0.1] Select * from subscriber where reference=''
+ [Thu 2019-05-16 07:29:28 AM] [client 127.0.0.1] Select * from subscriber where reference=''
+ [Thu 2019-05-16 07:29:47 AM] [client 127.0.0.1] Select * from subscriber where reference=''
+ [Thu 2019-05-16 07:30:36 AM] [client 127.0.0.1] Select * from subscriber
+ [Thu 2019-05-16 07:31:21 AM] [client 127.0.0.1] Select * from subscriber
+ [Thu 2019-05-16 07:31:39 AM] [client 127.0.0.1] Select * from subscriber
+ [Thu 2019-05-16 07:31:53 AM] [client 127.0.0.1] Select * from subscriber where email='emtyeeeer@mail.com'
+ [Thu 2019-05-16 07:31:53 AM] [client 127.0.0.1] Category CAT001
+ [Thu 2019-05-16 07:31:53 AM] [client 127.0.0.1] Category CAT001
+ [Thu 2019-05-16 07:32:34 AM] [client 127.0.0.1] Select * from subscriber
+ [Thu 2019-05-16 07:35:16 AM] [client 127.0.0.1] Select * from subscriber
+ [Thu 2019-05-16 07:35:38 AM] [client 127.0.0.1] Select * from subscriber
+ [Thu 2019-05-16 07:57:59 AM] [client 127.0.0.1] Select * from subscriber
+ [Thu 2019-05-16 07:57:59 AM] [client 127.0.0.1] Select * from site_category where subscriber_reference=
+ [Thu 2019-05-16 07:58:23 AM] [client 127.0.0.1] Select * from subscriber
+ [Thu 2019-05-16 07:58:23 AM] [client 127.0.0.1] Select * from site_category where subscriber_reference=790a8036-b1ca-48f1-a45d-0f615db42d63
+ [Thu 2019-05-16 07:58:51 AM] [client 127.0.0.1] Select * from subscriber
+ [Thu 2019-05-16 07:58:51 AM] [client 127.0.0.1] Select * from site_category where subscriber_reference='790a8036-b1ca-48f1-a45d-0f615db42d63'
+ [Thu 2019-05-16 07:58:51 AM] [client 127.0.0.1] Select * from site_category where subscriber_reference='c4eac256-cd29-49fa-a7fb-7d9ddba3e4b6'
+ [Thu 2019-05-16 07:59:34 AM] [client 127.0.0.1] Select * from subscriber
+ [Thu 2019-05-16 08:00:02 AM] [client 127.0.0.1] Select * from subscriber
+ [Thu 2019-05-16 08:00:02 AM] [client 127.0.0.1] Select * from site_category where subscriber_reference='790a8036-b1ca-48f1-a45d-0f615db42d63'
+ [Thu 2019-05-16 08:00:02 AM] [client 127.0.0.1] Select * from site_category where subscriber_reference='c4eac256-cd29-49fa-a7fb-7d9ddba3e4b6'
+ [Thu 2019-05-16 08:00:58 AM] [client 127.0.0.1] Select * from subscriber
+ [Thu 2019-05-16 08:00:58 AM] [client 127.0.0.1] Select * from site_category where subscriber_reference='790a8036-b1ca-48f1-a45d-0f615db42d63'
+ [Thu 2019-05-16 08:00:58 AM] [client 127.0.0.1] Select * from site_category where subscriber_reference='c4eac256-cd29-49fa-a7fb-7d9ddba3e4b6'
+ [Thu 2019-05-16 08:00:59 AM] [client 127.0.0.1] Select * from subscriber
+ [Thu 2019-05-16 08:00:59 AM] [client 127.0.0.1] Select * from site_category where subscriber_reference='790a8036-b1ca-48f1-a45d-0f615db42d63'
+ [Thu 2019-05-16 08:00:59 AM] [client 127.0.0.1] Select * from site_category where subscriber_reference='c4eac256-cd29-49fa-a7fb-7d9ddba3e4b6'
+ [Thu 2019-05-16 08:01:59 AM] [client 127.0.0.1] Select * from subscriber
+ [Thu 2019-05-16 08:01:59 AM] [client 127.0.0.1] Select * from site_category where subscriber_reference='790a8036-b1ca-48f1-a45d-0f615db42d63'
+ [Thu 2019-05-16 08:01:59 AM] [client 127.0.0.1] Select * from site_category where subscriber_reference='c4eac256-cd29-49fa-a7fb-7d9ddba3e4b6'
+ [Thu 2019-05-16 08:02:02 AM] [client 127.0.0.1] Select * from subscriber
+ [Thu 2019-05-16 08:02:02 AM] [client 127.0.0.1] Select * from site_category where subscriber_reference='790a8036-b1ca-48f1-a45d-0f615db42d63'
+ [Thu 2019-05-16 08:02:02 AM] [client 127.0.0.1] Select * from site_category where subscriber_reference='c4eac256-cd29-49fa-a7fb-7d9ddba3e4b6'
+ [Thu 2019-05-16 08:02:29 AM] [client 127.0.0.1] Select * from subscriber
+ [Thu 2019-05-16 08:02:29 AM] [client 127.0.0.1] Select * from site_category where subscriber_reference='790a8036-b1ca-48f1-a45d-0f615db42d63'
+ [Thu 2019-05-16 08:03:01 AM] [client 127.0.0.1] Select * from subscriber
+ [Thu 2019-05-16 08:03:01 AM] [client 127.0.0.1] Select * from site_category where subscriber_reference='790a8036-b1ca-48f1-a45d-0f615db42d63'
+ [Thu 2019-05-16 08:03:01 AM] [client 127.0.0.1] Select * from site_category where subscriber_reference='c4eac256-cd29-49fa-a7fb-7d9ddba3e4b6'
+ [Thu 2019-05-16 08:04:06 AM] [client 127.0.0.1] Select * from subscriber
+ [Thu 2019-05-16 08:04:06 AM] [client 127.0.0.1] Select * from site_category where subscriber_reference='790a8036-b1ca-48f1-a45d-0f615db42d63'
+ [Thu 2019-05-16 08:04:06 AM] [client 127.0.0.1] Select * from site_category where subscriber_reference='c4eac256-cd29-49fa-a7fb-7d9ddba3e4b6'
+ [Thu 2019-05-16 08:04:27 AM] [client 127.0.0.1] Select * from subscriber
+ [Thu 2019-05-16 08:04:27 AM] [client 127.0.0.1] Select * from site_category where subscriber_reference='790a8036-b1ca-48f1-a45d-0f615db42d63'
+ [Thu 2019-05-16 08:04:27 AM] [client 127.0.0.1] Select * from site_category where subscriber_reference='c4eac256-cd29-49fa-a7fb-7d9ddba3e4b6'
+ [Thu 2019-05-16 08:06:19 AM] [client 127.0.0.1] Select * from subscriber
+ [Thu 2019-05-16 08:06:19 AM] [client 127.0.0.1] Select * from site_category where subscriber_reference='790a8036-b1ca-48f1-a45d-0f615db42d63'
+ [Thu 2019-05-16 08:06:19 AM] [client 127.0.0.1] Select * from site_category where subscriber_reference='c4eac256-cd29-49fa-a7fb-7d9ddba3e4b6'
+ [Thu 2019-05-16 08:06:32 AM] [client 127.0.0.1] Select * from subscriber
+ [Thu 2019-05-16 08:06:32 AM] [client 127.0.0.1] Select * from site_category where subscriber_reference='790a8036-b1ca-48f1-a45d-0f615db42d63'
+ [Thu 2019-05-16 08:06:32 AM] [client 127.0.0.1] Select * from site_category where subscriber_reference='c4eac256-cd29-49fa-a7fb-7d9ddba3e4b6'
+ [Thu 2019-05-16 08:08:32 AM] [client 127.0.0.1] Select * from subscriber
+ [Thu 2019-05-16 08:08:32 AM] [client 127.0.0.1] Select * from site_category where subscriber_reference='790a8036-b1ca-48f1-a45d-0f615db42d63'
+ [Thu 2019-05-16 08:08:32 AM] [client 127.0.0.1] Select * from site_category where subscriber_reference='c4eac256-cd29-49fa-a7fb-7d9ddba3e4b6'
+ [Thu 2019-05-16 08:08:42 AM] [client 127.0.0.1] Select * from subscriber
+ [Thu 2019-05-16 08:08:42 AM] [client 127.0.0.1] Select * from site_category where subscriber_reference='790a8036-b1ca-48f1-a45d-0f615db42d63'
+ [Thu 2019-05-16 08:08:42 AM] [client 127.0.0.1] Select * from site_category where subscriber_reference='c4eac256-cd29-49fa-a7fb-7d9ddba3e4b6'
+ [Thu 2019-05-16 08:58:58 AM] [client 127.0.0.1] Select * from subscriber
+ [Thu 2019-05-16 08:58:58 AM] [client 127.0.0.1] Select * from site_category where subscriber_reference='790a8036-b1ca-48f1-a45d-0f615db42d63'
+ [Thu 2019-05-16 08:58:58 AM] [client 127.0.0.1] Select * from site_category where subscriber_reference='c4eac256-cd29-49fa-a7fb-7d9ddba3e4b6'
+ [Thu 2019-05-16 09:40:27 AM] [client ::1] Select * from subscriber where email=''
+ [Thu 2019-05-16 09:41:25 AM] [client ::1] Select * from subscriber where email=''
+ [Thu 2019-05-16 09:41:36 AM] [client ::1] Select * from subscriber where email=''
+ [Thu 2019-05-16 09:42:07 AM] [client ::1] Select * from subscriber where email=''
+ [Thu 2019-05-16 09:43:06 AM] [client ::1] Select * from subscriber where email=''
+ [Thu 2019-05-16 09:43:48 AM] [client ::1] Select * from subscriber where email=''
+ [Thu 2019-05-16 09:44:08 AM] [client ::1] Select * from subscriber where email=''
+ [Thu 2019-05-16 09:44:14 AM] [client ::1] Select * from subscriber where email=''
+ [Thu 2019-05-16 09:44:28 AM] [client ::1] Select * from subscriber where email=''
+ [Thu 2019-05-16 09:44:42 AM] [client ::1] Select * from subscriber where email=''
+ [Thu 2019-05-16 09:45:39 AM] [client ::1] Select * from subscriber where email=''
+ [Thu 2019-05-16 09:45:52 AM] [client ::1] Select * from subscriber where email=''
+ [Thu 2019-05-16 09:45:57 AM] [client ::1] Select * from subscriber where email=''
+ [Thu 2019-05-16 09:46:03 AM] [client ::1] Select * from subscriber where email=''
+ [Thu 2019-05-16 09:46:04 AM] [client ::1] Select * from subscriber where email=''
+ [Thu 2019-05-16 09:46:20 AM] [client ::1] Select * from subscriber where email=''
+ [Thu 2019-05-16 09:47:02 AM] [client ::1] Select * from subscriber where email=''
+ [Thu 2019-05-16 09:49:59 AM] [client ::1] Select * from subscriber where email=''
+ [Thu 2019-05-16 09:50:21 AM] [client ::1] Select * from subscriber where email=''
+ [Thu 2019-05-16 09:50:30 AM] [client ::1] Select * from subscriber where email=''
+ [Thu 2019-05-16 09:52:43 AM] [client ::1] Select * from subscriber where email=''
+ [Thu 2019-05-16 09:54:38 AM] [client ::1] Select * from subscriber where email=''
+ [Thu 2019-05-16 09:56:51 AM] [client ::1] Select * from subscriber where email=''
+ [Thu 2019-05-16 09:57:56 AM] [client ::1] Select * from subscriber where email=''
+ [Thu 2019-05-16 10:02:50 AM] [client ::1] Select * from subscriber where email=''
+ [Thu 2019-05-16 10:02:51 AM] [client ::1] Select * from subscriber where email=''
+ [Thu 2019-05-16 10:02:51 AM] [client ::1] Select * from subscriber where email=''
+ [Thu 2019-05-16 10:02:58 AM] [client ::1] Select * from subscriber where email=''
+ [Thu 2019-05-16 10:07:15 AM] [client ::1] Select * from subscriber where email=''
+ [Thu 2019-05-16 10:16:55 AM] [client ::1] Select * from subscriber where email=''
+ [Thu 2019-05-16 10:16:59 AM] [client ::1] Select * from subscriber where email=''
+ [Thu 2019-05-16 10:17:04 AM] [client ::1] Select * from subscriber where email=''
+ [Thu 2019-05-16 10:17:44 AM] [client ::1] Select * from subscriber where email=''
+ [Thu 2019-05-16 10:22:04 AM] [client ::1] Select * from subscriber where email=''
+ [Thu 2019-05-16 10:27:27 AM] [client 127.0.0.1] Select * from subscriber where email='emtyeeeer@mail.com'
+ [Thu 2019-05-16 10:31:19 AM] [client 127.0.0.1] Select * from subscriber where email='emtyeeeer@mail.com'
+ [Thu 2019-05-16 10:46:00 AM] [client ::1] Select * from subscriber where email='geoffrey.w.ndungu@gmail.com'
+ [Thu 2019-05-16 10:46:44 AM] [client ::1] Select * from subscriber where email='geoffrey.w.ndungu@gmail.com'
+ [Thu 2019-05-16 11:03:04 AM] [client ::1] Select * from subscriber where email='geoffrey.w.ndungu@gmail.com'
+ [Thu 2019-05-16 11:03:33 AM] [client ::1] Select * from subscriber where email='geoffrey.w.ndungu@gmail.com'
+ [Thu 2019-05-16 11:04:02 AM] [client ::1] Select * from subscriber where email='geoffrey.w.ndungu@gmail.com'
+ [Thu 2019-05-16 11:04:09 AM] [client ::1] Select * from subscriber where email='geoffrey.w.ndungu@gmail.com'
+ [Thu 2019-05-16 11:04:19 AM] [client ::1] Select * from subscriber where email='geoffreey.w.ndungu@gmail.com'
+ [Thu 2019-05-16 11:04:19 AM] [client ::1] Category CAT001
+ [Thu 2019-05-16 11:04:19 AM] [client ::1] Category CAT002
+ [Thu 2019-05-16 11:04:19 AM] [client ::1] Category CAT003
+ [Thu 2019-05-16 11:04:19 AM] [client ::1] Category CAT004
+ [Thu 2019-05-16 11:04:46 AM] [client ::1] Select * from subscriber where email='geoffreeey.w.ndungu@gmail.com'
+ [Thu 2019-05-16 11:07:17 AM] [client ::1] Select * from subscriber where email='geoffrey.w.ndungu@gmail.com'
+ [Thu 2019-05-16 11:07:39 AM] [client ::1] Select * from subscriber where email='geoffrey.w.ndungu@gmail.com'
+ [Thu 2019-05-16 11:08:47 AM] [client ::1] Select * from subscriber where email='geoffrey.w.ndungu@gmail.com'
+ [Thu 2019-05-16 02:49:13 PM] [client ::1] Select * from subscriber where email='geoffrey.w.ndungu@gmail.com'
+ [Thu 2019-05-16 04:00:21 PM] [client ::1] Select * from subscriber where email='geoffrey.w.ndungu@gmail.com'
+ [Thu 2019-05-16 04:00:38 PM] [client ::1] Select * from subscriber where email='geoffrooey.w.ndungu@gmail.com'
+ [Thu 2019-05-16 04:00:38 PM] [client ::1] Category CAT001
+ [Thu 2019-05-16 04:00:38 PM] [client ::1] Category CAT002
+ [Thu 2019-05-16 04:00:38 PM] [client ::1] Category CAT003
+ [Thu 2019-05-16 04:00:38 PM] [client ::1] Category CAT004
+ 

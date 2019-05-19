@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<wsdl:definitions xmlns:tns="http://www.example.org/ProfilingService/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="ProfilingService" targetNamespace="http://www.example.org/ProfilingService/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/">
+    <wsdl:types><xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" targetNamespace="http://www.example.org/ProfilingService/">
+	
+  	<xsd:element name="saveAttractionSite">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element name="name" type="xsd:string" />
+				<xsd:element name="location" type="xsd:string"></xsd:element>
+				<xsd:element name="phoneNumber" type="xsd:string" />
+				<xsd:element name="email" type="xsd:string" />
+				<xsd:element name="address" type="xsd:string" />
+				<xsd:element name="gpsCoordinate" type="xsd:string" />
+				<xsd:element name="category" type="tns:siteCategory"></xsd:element>
+				<xsd:element name="description" type="xsd:string"></xsd:element>
+				<xsd:element name="opening_time" type="xsd:string"></xsd:element>
+				<xsd:element name="closing_time" type="xsd:string"></xsd:element>
+				<xsd:element name="website" type="xsd:string" />
+				<xsd:element name="image" type="xsd:string"></xsd:element>
+				<xsd:element name="activity"
+					type="tns:activitiesType">
+				</xsd:element>
+				<xsd:element name="reference" type="xsd:string" />
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+	<xsd:element name="saveAttractionSiteResponse">
+		<xsd:complexType>
+			<xsd:sequence>
+
+				<xsd:element name="status" type="xsd:string"></xsd:element>
+				<xsd:element name="statusCode" type="xsd:string"></xsd:element>
+				<xsd:element name="response" type="xsd:string"></xsd:element>
+				<xsd:element name="reference" type="xsd:string"></xsd:element>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+            <xsd:element name="getAttractionSite">
+            	<xsd:complexType>
+            		<xsd:sequence>
+            			<xsd:element name="reference"
+            				type="xsd:string">
+            			</xsd:element>
+            			<xsd:element name="location"
+            				type="xsd:string">
+            			</xsd:element>
+            			<xsd:element name="name" type="xsd:string">
+            			</xsd:element>
+            			<xsd:element name="category"
+            				type="xsd:string">
+            			</xsd:element>
+            		</xsd:sequence>
+            	</xsd:complexType>
+            </xsd:element>
+            <xsd:element name="getAttractionSiteResponse"
+            	type="tns:NewType">
+
+            </xsd:element>
+
+            <xsd:complexType name="siteDetails">
+            		<xsd:sequence>
+
+            			<xsd:element name="reference"
+            				type="xsd:string">
+            			</xsd:element>
+            			<xsd:element name="name" type="xsd:string">
+            			</xsd:element>
+            			<xsd:element name="phoneNumber"
+            				type="xsd:string">
+            			</xsd:element>
+            			<xsd:element name="address" type="xsd:string">
+            			</xsd:element>
+            			<xsd:element name="email" type="xsd:string">
+            			</xsd:element>
+            			<xsd:element name="location"
+            				type="xsd:string">
+            			</xsd:element>
+            			<xsd:element name="description"
+            				type="xsd:string">
+            			</xsd:element>
+            			<xsd:element name="opening_time"
+            				type="xsd:string">
+            			</xsd:element>
+            			<xsd:element name="closing_time"
+            				type="xsd:string">
+            			</xsd:element>
+            			<xsd:element name="gpsCoordinates"
+            				type="xsd:string">
+            			</xsd:element>
+            			<xsd:element name="website" type="xsd:string"
+            				maxOccurs="1" minOccurs="0">
+            			</xsd:element>
+            			<xsd:element name="image"
+            				type="xsd:string">
+            			</xsd:element>
+            			<xsd:element name="category"
+            				type="tns:categoryList" maxOccurs="1" minOccurs="1">
+            			</xsd:element>
+            			<xsd:element name="activities"
+            				type="tns:activityList" maxOccurs="1" minOccurs="1">
+            			</xsd:element>
+            			<xsd:element name="weather"
+            				type="tns:weatherInfo">
+            			</xsd:element>
+            			<xsd:element name="rating" type="xsd:string">
+            			</xsd:element>
+            		</xsd:sequence>
+            </xsd:complexType>
+
+            <xsd:complexType name="activitiesType">
+            	<xsd:sequence>
+            		<xsd:element name="detail" type="tns:activityInformation" maxOccurs="unbounded" minOccurs="0"></xsd:element>
+            	</xsd:sequence>
+            </xsd:complexType>
+            
+            <xsd:complexType name="siteList">
+            	<xsd:sequence>
+            		<xsd:element name="activity" type="xsd:string" maxOccurs="unbounded" minOccurs="0"></xsd:element>
+            	</xsd:sequence>
+            </xsd:complexType>
+            
+            <xsd:complexType name="imageList">
+            	<xsd:sequence>
+            		<xsd:element name="image" type="xsd:string" maxOccurs="unbounded" minOccurs="0"></xsd:element>
+            	</xsd:sequence>
+            </xsd:complexType>
+            
+            <xsd:complexType name="NewType">
+            	<xsd:sequence>
+            		<xsd:element name="status" type="xsd:string"></xsd:element>
+            		<xsd:element name="statusCode" type="xsd:string"></xsd:element>
+            		<xsd:element name="response"
+            			type="tns:getSite" maxOccurs="1" minOccurs="1">
+            		</xsd:element>
+
+            	</xsd:sequence>
+            </xsd:complexType>
+            <xsd:element name="saveRating">
+            	<xsd:complexType>
+            		<xsd:sequence>
+
+            			<xsd:element name="reference"
+            				type="xsd:string">
+            			</xsd:element>
+            			<xsd:element name="rate"
+            				type="xsd:string">
+            			</xsd:element>
+            		</xsd:sequence>
+            	</xsd:complexType>
+            </xsd:element>
+            <xsd:element name="saveRatingResponse">
+            	<xsd:complexType>
+            		<xsd:sequence>
+
+            			<xsd:element name="status" type="xsd:string"></xsd:element>
+            			<xsd:element name="message" type="xsd:string">
+            			</xsd:element>
+            			<xsd:element name="statusCode"
+            				type="xsd:string">
+            			</xsd:element>
+            		</xsd:sequence>
+            	</xsd:complexType>
+            </xsd:element>
+            <xsd:element name="saveServiceProvider"
+            	type="tns:serviceProviderDetails">
+
+            </xsd:element>
+            <xsd:element name="saveServiceProviderResponse">
+            	<xsd:complexType>
+            		<xsd:sequence>
+
+            			<xsd:element name="status" type="xsd:string"></xsd:element>
+						<xsd:element name="statusCode" type="xsd:string"></xsd:element>
+						<xsd:element name="response" type="xsd:string"></xsd:element>
+						<xsd:element name="reference" type="xsd:string"></xsd:element>
+            		</xsd:sequence>
+            	</xsd:complexType>
+            </xsd:element>
+
+            <xsd:complexType name="serviceProviderDetails">
+            	<xsd:sequence>
+            		<xsd:element name="name" type="xsd:string"></xsd:element>
+            		<xsd:element name="phoneNumber" type="xsd:string"></xsd:element>
+            		<xsd:element name="email" type="xsd:string"></xsd:element>
+            		<xsd:element name="address" type="xsd:string"></xsd:element>
+            		<xsd:element name="location" type="xsd:string"></xsd:element>
+            		<xsd:element name="website" type="xsd:string"></xsd:element>
+            		<xsd:element name="image" type="xsd:string"></xsd:element>
+            		<xsd:element name="category" type="xsd:string"></xsd:element>
+            		<xsd:element name="gpsCoordinates"
+            			type="xsd:string">
+            		</xsd:element>
+            		<xsd:element name="reference" type="xsd:string"></xsd:element>
+            	</xsd:sequence>
+            </xsd:complexType>
+
+            <xsd:element name="getServiceProvider">
+            	<xsd:complexType>
+            		<xsd:sequence>
+
+            			<xsd:element name="reference"
+            				type="xsd:string" maxOccurs="1" minOccurs="0">
+            			</xsd:element>
+            			<xsd:element name="name" type="xsd:string" maxOccurs="1" minOccurs="0"></xsd:element>
+            			<xsd:element name="category"
+            				type="xsd:string" maxOccurs="1" minOccurs="0">
+            			</xsd:element>
+            			<xsd:element name="location"
+            				type="xsd:string" maxOccurs="1" minOccurs="0">
+            			</xsd:element>
+            		</xsd:sequence>
+            	</xsd:complexType>
+            </xsd:element>
+            <xsd:element name="getServiceProviderResponse">
+            	<xsd:complexType>
+            		<xsd:sequence>
+
+            			<xsd:element name="status" type="xsd:string">
+            			</xsd:element>
+            			<xsd:element name="statusCode"
+            				type="xsd:string">
+            			</xsd:element>
+            			<xsd:element name="response"
+            				type="tns:serviceProviders" maxOccurs="1" minOccurs="1">
+            			</xsd:element>
+
+            		</xsd:sequence>
+            	</xsd:complexType>
+            </xsd:element>
+
+            <xsd:complexType name="siteCategory">
+            	<xsd:sequence>
+            		<xsd:element name="item" type="tns:categoryList" maxOccurs="unbounded" minOccurs="1"></xsd:element>
+            	</xsd:sequence>
+            </xsd:complexType>
+
+            <xsd:complexType name="activityInformation">
+            	<xsd:sequence>
+            		<xsd:element name="name" type="xsd:string"></xsd:element>
+            		<xsd:element name="description" type="xsd:string"></xsd:element>
+            	</xsd:sequence>
+            </xsd:complexType>
+
+            <xsd:complexType name="getSite">
+            	<xsd:sequence>
+            		<xsd:element name="site" type="tns:siteDetails" maxOccurs="unbounded" minOccurs="0"></xsd:element>
+            	</xsd:sequence>
+            </xsd:complexType>
+
+            <xsd:complexType name="activityList">
+            	<xsd:sequence>
+            		<xsd:element name="activity" type="tns:activitiesType" maxOccurs="unbounded" minOccurs="1"></xsd:element>
+            	</xsd:sequence>
+            </xsd:complexType>
+            <xsd:element name="saveCategory">
+            	<xsd:complexType>
+            		<xsd:sequence>
+
+            			<xsd:element name="name" type="xsd:string"></xsd:element>
+            			<xsd:element name="code"
+            				type="xsd:string">
+            			</xsd:element>
+            		</xsd:sequence>
+            	</xsd:complexType>
+            </xsd:element>
+            <xsd:element name="saveCategoryResponse">
+            	<xsd:complexType>
+            		<xsd:sequence>
+
+            			<xsd:element name="status" type="xsd:string"></xsd:element>
+            			<xsd:element name="statusCode"
+            				type="xsd:string">
+            			</xsd:element>
+            			<xsd:element name="message"
+            				type="xsd:string">
+            			</xsd:element>
+            		</xsd:sequence>
+            	</xsd:complexType>
+            </xsd:element>
+
+            <xsd:complexType name="categoryList">
+            	<xsd:sequence>
+            		<xsd:element name="item" type="tns:categoryItem" maxOccurs="unbounded" minOccurs="0"></xsd:element>
+            	</xsd:sequence>
+            </xsd:complexType>
+
+            <xsd:complexType name="categoryItem">
+            	<xsd:sequence>
+            		<xsd:element name="name" type="xsd:string"></xsd:element>
+            		<xsd:element name="code" type="xsd:string"></xsd:element>
+            	</xsd:sequence>
+            </xsd:complexType>
+
+            <xsd:complexType name="NewType1"></xsd:complexType>
+        
+            <xsd:complexType name="serviceProviders">
+            	<xsd:sequence>
+            		<xsd:element name="serviceProvider" type="tns:serviceProviderDetails" maxOccurs="unbounded" minOccurs="0"></xsd:element>
+            	</xsd:sequence>
+            </xsd:complexType>
+            <xsd:element name="getAttractionCategory">
+            	<xsd:complexType>
+            		<xsd:sequence>
+
+            			<xsd:element name="code" type="xsd:string"></xsd:element>
+            		</xsd:sequence>
+            	</xsd:complexType>
+            </xsd:element>
+            <xsd:element name="getAttractionCategoryResponse">
+            	<xsd:complexType>
+            		<xsd:sequence>
+
+            			<xsd:element name="status" type="xsd:string">
+            			</xsd:element>
+            			<xsd:element name="statusCode"
+            				type="xsd:string">
+            			</xsd:element>
+            			<xsd:element name="response"
+            				type="tns:categoryList" maxOccurs="1" minOccurs="1">
+            			</xsd:element>
+
+            		</xsd:sequence>
+            	</xsd:complexType>
+            </xsd:element>
+            <xsd:element name="getProviderCategory">
+            	<xsd:complexType>
+            		<xsd:sequence>
+
+            			<xsd:element name="code" type="xsd:string"></xsd:element>
+            		</xsd:sequence>
+            	</xsd:complexType>
+            </xsd:element>
+            <xsd:element name="getProviderCategoryResponse">
+            	<xsd:complexType>
+            		<xsd:sequence>
+
+            			<xsd:element name="status" type="xsd:string"></xsd:element>
+            			<xsd:element name="statusCode"
+            				type="xsd:string">
+            			</xsd:element>
+            			<xsd:element name="response"
+            				type="tns:categoryList">
+            			</xsd:element>
+            		</xsd:sequence>
+            	</xsd:complexType>
+            </xsd:element>
+
+            <xsd:complexType name="weatherInfo">
+            	<xsd:sequence>
+            		<xsd:element name="main" type="xsd:string"></xsd:element>
+            		<xsd:element name="description" type="xsd:string"></xsd:element>
+            		<xsd:element name="icon" type="xsd:string"></xsd:element>
+            		<xsd:element name="temp" type="xsd:string"></xsd:element>
+            		<xsd:element name="humidity" type="xsd:string"></xsd:element>
+            	</xsd:sequence>
+            </xsd:complexType>
+</xsd:schema></wsdl:types>
+    <wsdl:message name="saveAttractionSiteRequest">
+    	<wsdl:part name="parameters" element="tns:saveAttractionSite"></wsdl:part>
+    </wsdl:message>
+    <wsdl:message name="saveAttractionSiteResponse">
+    	<wsdl:part name="parameters" element="tns:saveAttractionSiteResponse"></wsdl:part>
+    </wsdl:message>
+    <wsdl:message name="getAttractionSiteRequest">
+    	<wsdl:part name="parameters" element="tns:getAttractionSite"></wsdl:part>
+    </wsdl:message>
+    <wsdl:message name="getAttractionSiteResponse">
+    	<wsdl:part name="parameters" element="tns:getAttractionSiteResponse"></wsdl:part>
+    </wsdl:message>
+   
+    <wsdl:message name="saveRatingRequest">
+    	<wsdl:part name="parameters" element="tns:saveRating"></wsdl:part>
+    </wsdl:message>
+    <wsdl:message name="saveRatingResponse">
+    	<wsdl:part name="parameters" element="tns:saveRatingResponse"></wsdl:part>
+    </wsdl:message>
+    <wsdl:message name="saveServiceProviderRequest">
+    	<wsdl:part name="parameters" element="tns:saveServiceProvider"></wsdl:part>
+    </wsdl:message>
+    <wsdl:message name="saveServiceProviderResponse">
+    	<wsdl:part name="parameters" element="tns:saveServiceProviderResponse"></wsdl:part>
+    </wsdl:message>
+    <wsdl:message name="getServiceProviderRequest">
+    	<wsdl:part name="parameters" element="tns:getServiceProvider"></wsdl:part>
+    </wsdl:message>
+    <wsdl:message name="getServiceProviderResponse">
+    	<wsdl:part name="parameters" element="tns:getServiceProviderResponse"></wsdl:part>
+    </wsdl:message>
+    <wsdl:message name="saveCategoryRequest">
+    	<wsdl:part name="parameters" element="tns:saveCategory"></wsdl:part>
+    </wsdl:message>
+    <wsdl:message name="saveCategoryResponse">
+    	<wsdl:part name="parameters" element="tns:saveCategoryResponse"></wsdl:part>
+    </wsdl:message>
+    <wsdl:message name="getAttractionCategoryRequest">
+    	<wsdl:part name="parameters" element="tns:getAttractionCategory"></wsdl:part>
+    </wsdl:message>
+    <wsdl:message name="getAttractionCategoryResponse">
+    	<wsdl:part name="parameters" element="tns:getAttractionCategoryResponse"></wsdl:part>
+    </wsdl:message>
+    <wsdl:message name="getProviderCategoryRequest">
+    	<wsdl:part name="parameters" element="tns:getProviderCategory"></wsdl:part>
+    </wsdl:message>
+    <wsdl:message name="getProviderCategoryResponse">
+    	<wsdl:part name="parameters" element="tns:getProviderCategoryResponse"></wsdl:part>
+    </wsdl:message>
+    <wsdl:portType name="AttractionSite">
+    	<wsdl:operation name="saveAttractionSite">
+    		<wsdl:input message="tns:saveAttractionSiteRequest"></wsdl:input>
+    		<wsdl:output message="tns:saveAttractionSiteResponse"></wsdl:output>
+    	</wsdl:operation>
+    	<wsdl:operation name="getAttractionSite">
+    		<wsdl:input message="tns:getAttractionSiteRequest"></wsdl:input>
+    		<wsdl:output message="tns:getAttractionSiteResponse"></wsdl:output>
+    	</wsdl:operation>    	<wsdl:operation name="saveRating">    		<wsdl:input message="tns:saveRatingRequest"></wsdl:input>    		<wsdl:output message="tns:saveRatingResponse"></wsdl:output>
+    	</wsdl:operation>
+    	<wsdl:operation name="saveServiceProvider">
+    		<wsdl:input message="tns:saveServiceProviderRequest"></wsdl:input>
+    		<wsdl:output message="tns:saveServiceProviderResponse"></wsdl:output>
+    	</wsdl:operation>
+    	<wsdl:operation name="getServiceProvider">
+    		<wsdl:input message="tns:getServiceProviderRequest"></wsdl:input>
+    		<wsdl:output message="tns:getServiceProviderResponse"></wsdl:output>
+    	</wsdl:operation>
+    	<wsdl:operation name="saveCategory">
+    		<wsdl:input message="tns:saveCategoryRequest"></wsdl:input>
+    		<wsdl:output message="tns:saveCategoryResponse"></wsdl:output>
+    	</wsdl:operation>
+    	<wsdl:operation name="getAttractionCategory">
+    		<wsdl:input message="tns:getAttractionCategoryRequest"></wsdl:input>
+    		<wsdl:output message="tns:getAttractionCategoryResponse"></wsdl:output>
+    	</wsdl:operation>
+    	<wsdl:operation name="getProviderCategory">
+    		<wsdl:input message="tns:getProviderCategoryRequest"></wsdl:input>
+    		<wsdl:output message="tns:getProviderCategoryResponse"></wsdl:output>
+    	</wsdl:operation>
+    </wsdl:portType>
+    <wsdl:binding name="ProfileBinding" type="tns:AttractionSite">
+    	<soap:binding style="document"
+    		transport="http://schemas.xmlsoap.org/soap/http" />
+    	<wsdl:operation name="saveAttractionSite">
+    		<wsdl:input></wsdl:input>
+    		<wsdl:output></wsdl:output>
+    	</wsdl:operation>
+    	<wsdl:operation name="getAttractionSite">
+    		<soap:operation
+    			soapAction="http://www.example.org/ProfilingService/getAttractionSite" />
+    		<wsdl:input>
+    			<soap:body use="literal" />
+    		</wsdl:input>
+    		<wsdl:output>
+    			<soap:body use="literal" />
+    		</wsdl:output>
+    	</wsdl:operation>
+    	<wsdl:operation name="saveRating">
+    		<soap:operation
+    			soapAction="http://www.example.org/ProfilingService/saveRating" />
+    		<wsdl:input>
+    			<soap:body use="literal" />
+    		</wsdl:input>
+    		<wsdl:output>
+    			<soap:body use="literal" />
+    		</wsdl:output>
+    	</wsdl:operation>
+    	<wsdl:operation name="saveServiceProvider">
+    		<soap:operation
+    			soapAction="http://www.example.org/ProfilingService/saveServiceProvider" />
+    		<wsdl:input>
+    			<soap:body use="literal" />
+    		</wsdl:input>
+    		<wsdl:output>
+    			<soap:body use="literal" />
+    		</wsdl:output>
+    	</wsdl:operation>
+    	<wsdl:operation name="getServiceProvider">
+    		<soap:operation
+    			soapAction="http://www.example.org/ProfilingService/getServiceProvider" />
+    		<wsdl:input>
+    			<soap:body use="literal" />
+    		</wsdl:input>
+    		<wsdl:output>
+    			<soap:body use="literal" />
+    		</wsdl:output>
+    	</wsdl:operation>
+    	<wsdl:operation name="saveCategory">
+    		<soap:operation
+    			soapAction="http://www.example.org/ProfilingService/saveCategory" />
+    		<wsdl:input>
+    			<soap:body use="literal" />
+    		</wsdl:input>
+    		<wsdl:output>
+    			<soap:body use="literal" />
+    		</wsdl:output>
+    	</wsdl:operation>
+    	<wsdl:operation name="getAttractionCategory">
+    		<soap:operation
+    			soapAction="http://www.example.org/ProfilingService/getAttractionCategory" />
+    		<wsdl:input>
+    			<soap:body use="literal" />
+    		</wsdl:input>
+    		<wsdl:output>
+    			<soap:body use="literal" />
+    		</wsdl:output>
+    	</wsdl:operation>
+    	<wsdl:operation name="getProviderCategory">
+    		<soap:operation
+    			soapAction="http://www.example.org/ProfilingService/getProviderCategory" />
+    		<wsdl:input>
+    			<soap:body use="literal" />
+    		</wsdl:input>
+    		<wsdl:output>
+    			<soap:body use="literal" />
+    		</wsdl:output>
+    	</wsdl:operation>
+    </wsdl:binding>
+    <wsdl:service name="ProfilingService">
+		<wsdl:port name="NewPort" binding="tns:ProfileBinding">
+			<soap:address location="http://localhost/soap/profilingservice" />
+		</wsdl:port>
+	</wsdl:service></wsdl:definitions>

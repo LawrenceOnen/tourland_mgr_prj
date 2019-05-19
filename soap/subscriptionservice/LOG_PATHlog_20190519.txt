@@ -1,0 +1,10 @@
+[Sun 2019-05-19 05:30:47 AM] [client 127.0.0.1] Select * from subscriber
+ [Sun 2019-05-19 05:30:47 AM] [client 127.0.0.1] Select * from site_category where subscriber_reference='790a8036-b1ca-48f1-a45d-0f615db42d63'
+ [Sun 2019-05-19 05:30:47 AM] [client 127.0.0.1] Select * from site_category where subscriber_reference='c4eac256-cd29-49fa-a7fb-7d9ddba3e4b6'
+ [Sun 2019-05-19 05:30:47 AM] [client 127.0.0.1] Select * from site_category where subscriber_reference='18d4042f-03af-4622-9fdd-1f7522166db9'
+ [Sun 2019-05-19 05:30:47 AM] [client 127.0.0.1] Select * from site_category where subscriber_reference='8cb3439a-f770-442a-8e3f-5703525fa62d'
+ [Sun 2019-05-19 05:30:47 AM] [client 127.0.0.1] Select * from site_category where subscriber_reference='e09c172b-0cca-4fbd-be34-959f67a49876'
+ [Sun 2019-05-19 05:30:47 AM] [client 127.0.0.1] Select * from site_category where subscriber_reference='864b641b-433e-423d-9025-e088f99ce17c'
+ [Sun 2019-05-19 05:30:47 AM] [client 127.0.0.1] Select * from site_category where subscriber_reference='ce890906-8b7d-4764-abed-df162e479859'
+ [Sun 2019-05-19 05:33:03 AM] [client 127.0.0.1] Select * from subscriber where email='benji@gamil.com'
+ 

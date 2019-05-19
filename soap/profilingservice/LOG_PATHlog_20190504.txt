@@ -1,0 +1,1308 @@
+[Sat 2019-05-04 10:55:01 AM] [client 127.0.0.1] Select * from attraction_site
+ [Sat 2019-05-04 10:55:01 AM] [client 127.0.0.1] Select * from site_category where attraction_site=2
+ [Sat 2019-05-04 10:58:28 AM] [client 127.0.0.1] Select * from attraction_site
+ [Sat 2019-05-04 10:58:28 AM] [client 127.0.0.1] Select * from site_category where attraction_site=2
+ [Sat 2019-05-04 10:58:28 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=2
+ [Sat 2019-05-04 10:58:28 AM] [client 127.0.0.1] Select * from site_category where attraction_site=3
+ [Sat 2019-05-04 10:58:28 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=3
+ [Sat 2019-05-04 10:58:28 AM] [client 127.0.0.1] Select * from site_category where attraction_site=4
+ [Sat 2019-05-04 10:58:28 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=4
+ [Sat 2019-05-04 10:58:28 AM] [client 127.0.0.1] Select * from site_category where attraction_site=5
+ [Sat 2019-05-04 10:58:28 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=5
+ [Sat 2019-05-04 10:58:28 AM] [client 127.0.0.1] Select * from site_category where attraction_site=6
+ [Sat 2019-05-04 10:58:28 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=6
+ [Sat 2019-05-04 10:58:28 AM] [client 127.0.0.1] Select * from site_category where attraction_site=7
+ [Sat 2019-05-04 10:58:28 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=7
+ [Sat 2019-05-04 10:58:28 AM] [client 127.0.0.1] Select * from site_category where attraction_site=8
+ [Sat 2019-05-04 10:58:28 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=8
+ [Sat 2019-05-04 10:58:28 AM] [client 127.0.0.1] Select * from site_category where attraction_site=9
+ [Sat 2019-05-04 10:58:28 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=9
+ [Sat 2019-05-04 10:58:28 AM] [client 127.0.0.1] Select * from site_category where attraction_site=10
+ [Sat 2019-05-04 10:58:28 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=10
+ [Sat 2019-05-04 10:58:29 AM] [client 127.0.0.1] Select * from site_category where attraction_site=11
+ [Sat 2019-05-04 10:58:29 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=11
+ [Sat 2019-05-04 10:58:29 AM] [client 127.0.0.1] Select * from site_category where attraction_site=12
+ [Sat 2019-05-04 10:58:29 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=12
+ [Sat 2019-05-04 10:58:29 AM] [client 127.0.0.1] Select * from site_category where attraction_site=13
+ [Sat 2019-05-04 10:58:29 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=13
+ [Sat 2019-05-04 10:58:29 AM] [client 127.0.0.1] Select * from site_category where attraction_site=14
+ [Sat 2019-05-04 10:58:29 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=14
+ [Sat 2019-05-04 10:58:29 AM] [client 127.0.0.1] Select * from site_category where attraction_site=15
+ [Sat 2019-05-04 10:58:29 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=15
+ [Sat 2019-05-04 10:58:29 AM] [client 127.0.0.1] Select * from site_category where attraction_site=16
+ [Sat 2019-05-04 10:58:29 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=16
+ [Sat 2019-05-04 10:58:29 AM] [client 127.0.0.1] Select * from site_category where attraction_site=17
+ [Sat 2019-05-04 10:58:29 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=17
+ [Sat 2019-05-04 10:58:29 AM] [client 127.0.0.1] Select * from site_category where attraction_site=18
+ [Sat 2019-05-04 10:58:29 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=18
+ [Sat 2019-05-04 10:58:29 AM] [client 127.0.0.1] Select * from site_category where attraction_site=19
+ [Sat 2019-05-04 10:58:29 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=19
+ [Sat 2019-05-04 10:58:29 AM] [client 127.0.0.1] Select * from site_category where attraction_site=20
+ [Sat 2019-05-04 10:58:29 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=20
+ [Sat 2019-05-04 10:58:29 AM] [client 127.0.0.1] Select * from site_category where attraction_site=21
+ [Sat 2019-05-04 10:58:29 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=21
+ [Sat 2019-05-04 10:58:29 AM] [client 127.0.0.1] Select * from site_category where attraction_site=22
+ [Sat 2019-05-04 10:58:29 AM] [client 127.0.0.1] Select * from category where code=CAT001
+ [Sat 2019-05-04 10:59:40 AM] [client 127.0.0.1] Select * from attraction_site
+ [Sat 2019-05-04 10:59:40 AM] [client 127.0.0.1] Select * from site_category where attraction_site=2
+ [Sat 2019-05-04 10:59:40 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=2
+ [Sat 2019-05-04 10:59:40 AM] [client 127.0.0.1] Select * from site_category where attraction_site=3
+ [Sat 2019-05-04 10:59:40 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=3
+ [Sat 2019-05-04 10:59:40 AM] [client 127.0.0.1] Select * from site_category where attraction_site=4
+ [Sat 2019-05-04 10:59:40 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=4
+ [Sat 2019-05-04 10:59:40 AM] [client 127.0.0.1] Select * from site_category where attraction_site=5
+ [Sat 2019-05-04 10:59:40 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=5
+ [Sat 2019-05-04 10:59:40 AM] [client 127.0.0.1] Select * from site_category where attraction_site=6
+ [Sat 2019-05-04 10:59:40 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=6
+ [Sat 2019-05-04 10:59:40 AM] [client 127.0.0.1] Select * from site_category where attraction_site=7
+ [Sat 2019-05-04 10:59:40 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=7
+ [Sat 2019-05-04 10:59:40 AM] [client 127.0.0.1] Select * from site_category where attraction_site=8
+ [Sat 2019-05-04 10:59:40 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=8
+ [Sat 2019-05-04 10:59:40 AM] [client 127.0.0.1] Select * from site_category where attraction_site=9
+ [Sat 2019-05-04 10:59:40 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=9
+ [Sat 2019-05-04 10:59:40 AM] [client 127.0.0.1] Select * from site_category where attraction_site=10
+ [Sat 2019-05-04 10:59:40 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=10
+ [Sat 2019-05-04 10:59:40 AM] [client 127.0.0.1] Select * from site_category where attraction_site=11
+ [Sat 2019-05-04 10:59:40 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=11
+ [Sat 2019-05-04 10:59:40 AM] [client 127.0.0.1] Select * from site_category where attraction_site=12
+ [Sat 2019-05-04 10:59:40 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=12
+ [Sat 2019-05-04 10:59:40 AM] [client 127.0.0.1] Select * from site_category where attraction_site=13
+ [Sat 2019-05-04 10:59:40 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=13
+ [Sat 2019-05-04 10:59:40 AM] [client 127.0.0.1] Select * from site_category where attraction_site=14
+ [Sat 2019-05-04 10:59:40 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=14
+ [Sat 2019-05-04 10:59:40 AM] [client 127.0.0.1] Select * from site_category where attraction_site=15
+ [Sat 2019-05-04 10:59:40 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=15
+ [Sat 2019-05-04 10:59:40 AM] [client 127.0.0.1] Select * from site_category where attraction_site=16
+ [Sat 2019-05-04 10:59:40 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=16
+ [Sat 2019-05-04 10:59:40 AM] [client 127.0.0.1] Select * from site_category where attraction_site=17
+ [Sat 2019-05-04 10:59:40 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=17
+ [Sat 2019-05-04 10:59:40 AM] [client 127.0.0.1] Select * from site_category where attraction_site=18
+ [Sat 2019-05-04 10:59:40 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=18
+ [Sat 2019-05-04 10:59:40 AM] [client 127.0.0.1] Select * from site_category where attraction_site=19
+ [Sat 2019-05-04 10:59:40 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=19
+ [Sat 2019-05-04 10:59:40 AM] [client 127.0.0.1] Select * from site_category where attraction_site=20
+ [Sat 2019-05-04 10:59:40 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=20
+ [Sat 2019-05-04 10:59:40 AM] [client 127.0.0.1] Select * from site_category where attraction_site=21
+ [Sat 2019-05-04 10:59:40 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=21
+ [Sat 2019-05-04 10:59:40 AM] [client 127.0.0.1] Select * from site_category where attraction_site=22
+ [Sat 2019-05-04 10:59:40 AM] [client 127.0.0.1] Select * from category where code=%s and 0=CAT001
+ [Sat 2019-05-04 11:00:18 AM] [client 127.0.0.1] Select * from attraction_site
+ [Sat 2019-05-04 11:00:18 AM] [client 127.0.0.1] Select * from site_category where attraction_site=2
+ [Sat 2019-05-04 11:00:18 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=2
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_category where attraction_site=3
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=3
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_category where attraction_site=4
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=4
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_category where attraction_site=5
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=5
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_category where attraction_site=6
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=6
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_category where attraction_site=7
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=7
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_category where attraction_site=8
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=8
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_category where attraction_site=9
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=9
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_category where attraction_site=10
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=10
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_category where attraction_site=11
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=11
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_category where attraction_site=12
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=12
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_category where attraction_site=13
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=13
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_category where attraction_site=14
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=14
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_category where attraction_site=15
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=15
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_category where attraction_site=16
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=16
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_category where attraction_site=17
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=17
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_category where attraction_site=18
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=18
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_category where attraction_site=19
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=19
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_category where attraction_site=20
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=20
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_category where attraction_site=21
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=21
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_category where attraction_site=22
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=22
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_category where attraction_site=23
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=23
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_category where attraction_site=24
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=24
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_category where attraction_site=25
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=25
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_category where attraction_site=26
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=26
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_category where attraction_site=27
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=27
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_category where attraction_site=28
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=28
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_category where attraction_site=29
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=29
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_category where attraction_site=30
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=30
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_category where attraction_site=31
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=31
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_category where attraction_site=32
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=32
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_category where attraction_site=33
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=33
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_category where attraction_site=34
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=34
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_category where attraction_site=35
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=35
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_category where attraction_site=36
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=36
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_category where attraction_site=37
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=37
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_category where attraction_site=38
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=38
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_category where attraction_site=39
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=39
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_category where attraction_site=40
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=40
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_category where attraction_site=41
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=41
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_category where attraction_site=42
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=42
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_category where attraction_site=43
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=43
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_category where attraction_site=44
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=44
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_category where attraction_site=45
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=45
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_category where attraction_site=46
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=46
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_category where attraction_site=47
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=47
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_category where attraction_site=48
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=48
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_category where attraction_site=49
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=49
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_category where attraction_site=50
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=50
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_category where attraction_site=51
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from category where code='CAT002'
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=51
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_category where attraction_site=52
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from category where code='CAT002'
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=52
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_category where attraction_site=53
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from category where code='CAT002'
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:00:19 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=53
+ [Sat 2019-05-04 11:03:32 AM] [client 127.0.0.1] Select * from attraction_site
+ [Sat 2019-05-04 11:03:32 AM] [client 127.0.0.1] Select * from site_category where attraction_site=2
+ [Sat 2019-05-04 11:03:32 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=2
+ [Sat 2019-05-04 11:03:32 AM] [client 127.0.0.1] Select * from site_category where attraction_site=3
+ [Sat 2019-05-04 11:03:32 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=3
+ [Sat 2019-05-04 11:03:32 AM] [client 127.0.0.1] Select * from site_category where attraction_site=4
+ [Sat 2019-05-04 11:03:32 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=4
+ [Sat 2019-05-04 11:03:32 AM] [client 127.0.0.1] Select * from site_category where attraction_site=5
+ [Sat 2019-05-04 11:03:32 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=5
+ [Sat 2019-05-04 11:03:32 AM] [client 127.0.0.1] Select * from site_category where attraction_site=6
+ [Sat 2019-05-04 11:03:32 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=6
+ [Sat 2019-05-04 11:03:32 AM] [client 127.0.0.1] Select * from site_category where attraction_site=7
+ [Sat 2019-05-04 11:03:32 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=7
+ [Sat 2019-05-04 11:03:32 AM] [client 127.0.0.1] Select * from site_category where attraction_site=8
+ [Sat 2019-05-04 11:03:32 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=8
+ [Sat 2019-05-04 11:03:32 AM] [client 127.0.0.1] Select * from site_category where attraction_site=9
+ [Sat 2019-05-04 11:03:32 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=9
+ [Sat 2019-05-04 11:03:32 AM] [client 127.0.0.1] Select * from site_category where attraction_site=10
+ [Sat 2019-05-04 11:03:32 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=10
+ [Sat 2019-05-04 11:03:32 AM] [client 127.0.0.1] Select * from site_category where attraction_site=11
+ [Sat 2019-05-04 11:03:32 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=11
+ [Sat 2019-05-04 11:03:32 AM] [client 127.0.0.1] Select * from site_category where attraction_site=12
+ [Sat 2019-05-04 11:03:32 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=12
+ [Sat 2019-05-04 11:03:32 AM] [client 127.0.0.1] Select * from site_category where attraction_site=13
+ [Sat 2019-05-04 11:03:32 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=13
+ [Sat 2019-05-04 11:03:32 AM] [client 127.0.0.1] Select * from site_category where attraction_site=14
+ [Sat 2019-05-04 11:03:32 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=14
+ [Sat 2019-05-04 11:03:32 AM] [client 127.0.0.1] Select * from site_category where attraction_site=15
+ [Sat 2019-05-04 11:03:32 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=15
+ [Sat 2019-05-04 11:03:32 AM] [client 127.0.0.1] Select * from site_category where attraction_site=16
+ [Sat 2019-05-04 11:03:32 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=16
+ [Sat 2019-05-04 11:03:32 AM] [client 127.0.0.1] Select * from site_category where attraction_site=17
+ [Sat 2019-05-04 11:03:32 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=17
+ [Sat 2019-05-04 11:03:32 AM] [client 127.0.0.1] Select * from site_category where attraction_site=18
+ [Sat 2019-05-04 11:03:32 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=18
+ [Sat 2019-05-04 11:03:32 AM] [client 127.0.0.1] Select * from site_category where attraction_site=19
+ [Sat 2019-05-04 11:03:32 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=19
+ [Sat 2019-05-04 11:03:32 AM] [client 127.0.0.1] Select * from site_category where attraction_site=20
+ [Sat 2019-05-04 11:03:32 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=20
+ [Sat 2019-05-04 11:03:32 AM] [client 127.0.0.1] Select * from site_category where attraction_site=21
+ [Sat 2019-05-04 11:03:32 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=21
+ [Sat 2019-05-04 11:03:32 AM] [client 127.0.0.1] Select * from site_category where attraction_site=22
+ [Sat 2019-05-04 11:03:32 AM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Sat 2019-05-04 11:03:32 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:03:32 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:03:32 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=22
+ [Sat 2019-05-04 11:03:32 AM] [client 127.0.0.1] Select * from site_category where attraction_site=23
+ [Sat 2019-05-04 11:03:32 AM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Sat 2019-05-04 11:03:32 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:03:32 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:03:32 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=23
+ [Sat 2019-05-04 11:03:32 AM] [client 127.0.0.1] Select * from site_category where attraction_site=24
+ [Sat 2019-05-04 11:03:32 AM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Sat 2019-05-04 11:03:32 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:03:32 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:03:32 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=24
+ [Sat 2019-05-04 11:03:32 AM] [client 127.0.0.1] Select * from site_category where attraction_site=25
+ [Sat 2019-05-04 11:03:32 AM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Sat 2019-05-04 11:03:32 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:03:32 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:03:32 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=25
+ [Sat 2019-05-04 11:03:32 AM] [client 127.0.0.1] Select * from site_category where attraction_site=26
+ [Sat 2019-05-04 11:03:32 AM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Sat 2019-05-04 11:03:32 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:03:32 AM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Sat 2019-05-04 11:03:32 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:03:32 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:03:32 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:03:32 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=26
+ [Sat 2019-05-04 11:03:32 AM] [client 127.0.0.1] Select * from site_category where attraction_site=27
+ [Sat 2019-05-04 11:03:32 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=27
+ [Sat 2019-05-04 11:03:32 AM] [client 127.0.0.1] Select * from site_category where attraction_site=28
+ [Sat 2019-05-04 11:03:32 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=28
+ [Sat 2019-05-04 11:03:32 AM] [client 127.0.0.1] Select * from site_category where attraction_site=29
+ [Sat 2019-05-04 11:03:32 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=29
+ [Sat 2019-05-04 11:03:32 AM] [client 127.0.0.1] Select * from site_category where attraction_site=30
+ [Sat 2019-05-04 11:03:33 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=30
+ [Sat 2019-05-04 11:03:33 AM] [client 127.0.0.1] Select * from site_category where attraction_site=31
+ [Sat 2019-05-04 11:03:33 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=31
+ [Sat 2019-05-04 11:03:33 AM] [client 127.0.0.1] Select * from site_category where attraction_site=32
+ [Sat 2019-05-04 11:03:33 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=32
+ [Sat 2019-05-04 11:03:33 AM] [client 127.0.0.1] Select * from site_category where attraction_site=33
+ [Sat 2019-05-04 11:03:33 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=33
+ [Sat 2019-05-04 11:03:33 AM] [client 127.0.0.1] Select * from site_category where attraction_site=34
+ [Sat 2019-05-04 11:03:33 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=34
+ [Sat 2019-05-04 11:03:33 AM] [client 127.0.0.1] Select * from site_category where attraction_site=35
+ [Sat 2019-05-04 11:03:33 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=35
+ [Sat 2019-05-04 11:03:33 AM] [client 127.0.0.1] Select * from site_category where attraction_site=36
+ [Sat 2019-05-04 11:03:33 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=36
+ [Sat 2019-05-04 11:03:33 AM] [client 127.0.0.1] Select * from site_category where attraction_site=37
+ [Sat 2019-05-04 11:03:33 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=37
+ [Sat 2019-05-04 11:03:33 AM] [client 127.0.0.1] Select * from site_category where attraction_site=38
+ [Sat 2019-05-04 11:03:33 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=38
+ [Sat 2019-05-04 11:03:33 AM] [client 127.0.0.1] Select * from site_category where attraction_site=39
+ [Sat 2019-05-04 11:03:33 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=39
+ [Sat 2019-05-04 11:03:33 AM] [client 127.0.0.1] Select * from site_category where attraction_site=40
+ [Sat 2019-05-04 11:03:33 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=40
+ [Sat 2019-05-04 11:03:33 AM] [client 127.0.0.1] Select * from site_category where attraction_site=41
+ [Sat 2019-05-04 11:03:33 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=41
+ [Sat 2019-05-04 11:03:33 AM] [client 127.0.0.1] Select * from site_category where attraction_site=42
+ [Sat 2019-05-04 11:03:33 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=42
+ [Sat 2019-05-04 11:03:33 AM] [client 127.0.0.1] Select * from site_category where attraction_site=43
+ [Sat 2019-05-04 11:03:33 AM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Sat 2019-05-04 11:03:33 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:03:33 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:03:33 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=43
+ [Sat 2019-05-04 11:03:33 AM] [client 127.0.0.1] Select * from site_category where attraction_site=44
+ [Sat 2019-05-04 11:03:33 AM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Sat 2019-05-04 11:03:33 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:03:33 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:03:33 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=44
+ [Sat 2019-05-04 11:03:33 AM] [client 127.0.0.1] Select * from site_category where attraction_site=45
+ [Sat 2019-05-04 11:03:33 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=45
+ [Sat 2019-05-04 11:03:33 AM] [client 127.0.0.1] Select * from site_category where attraction_site=46
+ [Sat 2019-05-04 11:03:33 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=46
+ [Sat 2019-05-04 11:03:33 AM] [client 127.0.0.1] Select * from site_category where attraction_site=47
+ [Sat 2019-05-04 11:03:33 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=47
+ [Sat 2019-05-04 11:03:33 AM] [client 127.0.0.1] Select * from site_category where attraction_site=48
+ [Sat 2019-05-04 11:03:33 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=48
+ [Sat 2019-05-04 11:03:33 AM] [client 127.0.0.1] Select * from site_category where attraction_site=49
+ [Sat 2019-05-04 11:03:33 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=49
+ [Sat 2019-05-04 11:03:33 AM] [client 127.0.0.1] Select * from site_category where attraction_site=50
+ [Sat 2019-05-04 11:03:33 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=50
+ [Sat 2019-05-04 11:03:33 AM] [client 127.0.0.1] Select * from site_category where attraction_site=51
+ [Sat 2019-05-04 11:03:33 AM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Sat 2019-05-04 11:03:33 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:03:33 AM] [client 127.0.0.1] Select * from category where code='CAT002'
+ [Sat 2019-05-04 11:03:33 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:03:33 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:03:33 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:03:33 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=51
+ [Sat 2019-05-04 11:03:33 AM] [client 127.0.0.1] Select * from site_category where attraction_site=52
+ [Sat 2019-05-04 11:03:33 AM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Sat 2019-05-04 11:03:33 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:03:33 AM] [client 127.0.0.1] Select * from category where code='CAT002'
+ [Sat 2019-05-04 11:03:33 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:03:33 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:03:33 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:03:33 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=52
+ [Sat 2019-05-04 11:03:33 AM] [client 127.0.0.1] Select * from site_category where attraction_site=53
+ [Sat 2019-05-04 11:03:33 AM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Sat 2019-05-04 11:03:33 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:03:33 AM] [client 127.0.0.1] Select * from category where code='CAT002'
+ [Sat 2019-05-04 11:03:33 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:03:33 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:03:33 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:03:33 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=53
+ [Sat 2019-05-04 11:06:32 AM] [client 127.0.0.1] Select * from attraction_site
+ [Sat 2019-05-04 11:06:32 AM] [client 127.0.0.1] Select * from site_category where attraction_site=2
+ [Sat 2019-05-04 11:06:32 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=2
+ [Sat 2019-05-04 11:06:32 AM] [client 127.0.0.1] Select * from site_category where attraction_site=3
+ [Sat 2019-05-04 11:06:32 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=3
+ [Sat 2019-05-04 11:06:32 AM] [client 127.0.0.1] Select * from site_category where attraction_site=4
+ [Sat 2019-05-04 11:06:32 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=4
+ [Sat 2019-05-04 11:06:32 AM] [client 127.0.0.1] Select * from site_category where attraction_site=5
+ [Sat 2019-05-04 11:06:32 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=5
+ [Sat 2019-05-04 11:06:32 AM] [client 127.0.0.1] Select * from site_category where attraction_site=6
+ [Sat 2019-05-04 11:06:32 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=6
+ [Sat 2019-05-04 11:06:32 AM] [client 127.0.0.1] Select * from site_category where attraction_site=7
+ [Sat 2019-05-04 11:06:32 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=7
+ [Sat 2019-05-04 11:06:32 AM] [client 127.0.0.1] Select * from site_category where attraction_site=8
+ [Sat 2019-05-04 11:06:32 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=8
+ [Sat 2019-05-04 11:06:32 AM] [client 127.0.0.1] Select * from site_category where attraction_site=9
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=9
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from site_category where attraction_site=10
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=10
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from site_category where attraction_site=11
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=11
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from site_category where attraction_site=12
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=12
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from site_category where attraction_site=13
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=13
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from site_category where attraction_site=14
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=14
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from site_category where attraction_site=15
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=15
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from site_category where attraction_site=16
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=16
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from site_category where attraction_site=17
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=17
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from site_category where attraction_site=18
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=18
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from site_category where attraction_site=19
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=19
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from site_category where attraction_site=20
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=20
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from site_category where attraction_site=21
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=21
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from site_category where attraction_site=22
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=22
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from site_category where attraction_site=23
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=23
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from site_category where attraction_site=24
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=24
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from site_category where attraction_site=25
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=25
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from site_category where attraction_site=26
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=26
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from site_category where attraction_site=27
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=27
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from site_category where attraction_site=28
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=28
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from site_category where attraction_site=29
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=29
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from site_category where attraction_site=30
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=30
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from site_category where attraction_site=31
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=31
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from site_category where attraction_site=32
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=32
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from site_category where attraction_site=33
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=33
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from site_category where attraction_site=34
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=34
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from site_category where attraction_site=35
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=35
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from site_category where attraction_site=36
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=36
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from site_category where attraction_site=37
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=37
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from site_category where attraction_site=38
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=38
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from site_category where attraction_site=39
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=39
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from site_category where attraction_site=40
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=40
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from site_category where attraction_site=41
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=41
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from site_category where attraction_site=42
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=42
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from site_category where attraction_site=43
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=43
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from site_category where attraction_site=44
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=44
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from site_category where attraction_site=45
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=45
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from site_category where attraction_site=46
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=46
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from site_category where attraction_site=47
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=47
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from site_category where attraction_site=48
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=48
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from site_category where attraction_site=49
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=49
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from site_category where attraction_site=50
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=50
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from site_category where attraction_site=51
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from category where code='CAT002'
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=51
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from site_category where attraction_site=52
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from category where code='CAT002'
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=52
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from site_category where attraction_site=53
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from category where code='CAT002'
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:06:33 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=53
+ [Sat 2019-05-04 11:08:39 AM] [client 127.0.0.1] Select * from attraction_site
+ [Sat 2019-05-04 11:08:39 AM] [client 127.0.0.1] Select * from site_category where attraction_site=2
+ [Sat 2019-05-04 11:08:39 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=2
+ [Sat 2019-05-04 11:08:39 AM] [client 127.0.0.1] Select * from site_category where attraction_site=3
+ [Sat 2019-05-04 11:08:39 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=3
+ [Sat 2019-05-04 11:08:39 AM] [client 127.0.0.1] Select * from site_category where attraction_site=4
+ [Sat 2019-05-04 11:08:39 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=4
+ [Sat 2019-05-04 11:08:39 AM] [client 127.0.0.1] Select * from site_category where attraction_site=5
+ [Sat 2019-05-04 11:08:39 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=5
+ [Sat 2019-05-04 11:08:39 AM] [client 127.0.0.1] Select * from site_category where attraction_site=6
+ [Sat 2019-05-04 11:08:39 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=6
+ [Sat 2019-05-04 11:08:39 AM] [client 127.0.0.1] Select * from site_category where attraction_site=7
+ [Sat 2019-05-04 11:08:39 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=7
+ [Sat 2019-05-04 11:08:39 AM] [client 127.0.0.1] Select * from site_category where attraction_site=8
+ [Sat 2019-05-04 11:08:39 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=8
+ [Sat 2019-05-04 11:08:39 AM] [client 127.0.0.1] Select * from site_category where attraction_site=9
+ [Sat 2019-05-04 11:08:39 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=9
+ [Sat 2019-05-04 11:08:39 AM] [client 127.0.0.1] Select * from site_category where attraction_site=10
+ [Sat 2019-05-04 11:08:39 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=10
+ [Sat 2019-05-04 11:08:39 AM] [client 127.0.0.1] Select * from site_category where attraction_site=11
+ [Sat 2019-05-04 11:08:39 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=11
+ [Sat 2019-05-04 11:08:39 AM] [client 127.0.0.1] Select * from site_category where attraction_site=12
+ [Sat 2019-05-04 11:08:39 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=12
+ [Sat 2019-05-04 11:08:39 AM] [client 127.0.0.1] Select * from site_category where attraction_site=13
+ [Sat 2019-05-04 11:08:39 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=13
+ [Sat 2019-05-04 11:08:39 AM] [client 127.0.0.1] Select * from site_category where attraction_site=14
+ [Sat 2019-05-04 11:08:39 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=14
+ [Sat 2019-05-04 11:08:39 AM] [client 127.0.0.1] Select * from site_category where attraction_site=15
+ [Sat 2019-05-04 11:08:39 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=15
+ [Sat 2019-05-04 11:08:39 AM] [client 127.0.0.1] Select * from site_category where attraction_site=16
+ [Sat 2019-05-04 11:08:39 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=16
+ [Sat 2019-05-04 11:08:39 AM] [client 127.0.0.1] Select * from site_category where attraction_site=17
+ [Sat 2019-05-04 11:08:39 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=17
+ [Sat 2019-05-04 11:08:39 AM] [client 127.0.0.1] Select * from site_category where attraction_site=18
+ [Sat 2019-05-04 11:08:39 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=18
+ [Sat 2019-05-04 11:08:39 AM] [client 127.0.0.1] Select * from site_category where attraction_site=19
+ [Sat 2019-05-04 11:08:39 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=19
+ [Sat 2019-05-04 11:08:39 AM] [client 127.0.0.1] Select * from site_category where attraction_site=20
+ [Sat 2019-05-04 11:08:39 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=20
+ [Sat 2019-05-04 11:08:39 AM] [client 127.0.0.1] Select * from site_category where attraction_site=21
+ [Sat 2019-05-04 11:08:39 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=21
+ [Sat 2019-05-04 11:08:39 AM] [client 127.0.0.1] Select * from site_category where attraction_site=22
+ [Sat 2019-05-04 11:08:39 AM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Sat 2019-05-04 11:08:39 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:08:39 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:08:39 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=22
+ [Sat 2019-05-04 11:08:39 AM] [client 127.0.0.1] Select * from site_category where attraction_site=23
+ [Sat 2019-05-04 11:08:39 AM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Sat 2019-05-04 11:08:39 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:08:39 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:08:39 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=23
+ [Sat 2019-05-04 11:08:39 AM] [client 127.0.0.1] Select * from site_category where attraction_site=24
+ [Sat 2019-05-04 11:08:39 AM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Sat 2019-05-04 11:08:39 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:08:39 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:08:39 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=24
+ [Sat 2019-05-04 11:08:39 AM] [client 127.0.0.1] Select * from site_category where attraction_site=25
+ [Sat 2019-05-04 11:08:39 AM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Sat 2019-05-04 11:08:39 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:08:39 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:08:39 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=25
+ [Sat 2019-05-04 11:08:39 AM] [client 127.0.0.1] Select * from site_category where attraction_site=26
+ [Sat 2019-05-04 11:08:39 AM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Sat 2019-05-04 11:08:39 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:08:39 AM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Sat 2019-05-04 11:08:39 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:08:39 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:08:39 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:08:39 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=26
+ [Sat 2019-05-04 11:08:39 AM] [client 127.0.0.1] Select * from site_category where attraction_site=27
+ [Sat 2019-05-04 11:08:39 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=27
+ [Sat 2019-05-04 11:08:39 AM] [client 127.0.0.1] Select * from site_category where attraction_site=28
+ [Sat 2019-05-04 11:08:39 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=28
+ [Sat 2019-05-04 11:08:39 AM] [client 127.0.0.1] Select * from site_category where attraction_site=29
+ [Sat 2019-05-04 11:08:39 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=29
+ [Sat 2019-05-04 11:08:39 AM] [client 127.0.0.1] Select * from site_category where attraction_site=30
+ [Sat 2019-05-04 11:08:39 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=30
+ [Sat 2019-05-04 11:08:39 AM] [client 127.0.0.1] Select * from site_category where attraction_site=31
+ [Sat 2019-05-04 11:08:39 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=31
+ [Sat 2019-05-04 11:08:39 AM] [client 127.0.0.1] Select * from site_category where attraction_site=32
+ [Sat 2019-05-04 11:08:39 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=32
+ [Sat 2019-05-04 11:08:40 AM] [client 127.0.0.1] Select * from site_category where attraction_site=33
+ [Sat 2019-05-04 11:08:40 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=33
+ [Sat 2019-05-04 11:08:40 AM] [client 127.0.0.1] Select * from site_category where attraction_site=34
+ [Sat 2019-05-04 11:08:40 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=34
+ [Sat 2019-05-04 11:08:40 AM] [client 127.0.0.1] Select * from site_category where attraction_site=35
+ [Sat 2019-05-04 11:08:40 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=35
+ [Sat 2019-05-04 11:08:40 AM] [client 127.0.0.1] Select * from site_category where attraction_site=36
+ [Sat 2019-05-04 11:08:40 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=36
+ [Sat 2019-05-04 11:08:40 AM] [client 127.0.0.1] Select * from site_category where attraction_site=37
+ [Sat 2019-05-04 11:08:40 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=37
+ [Sat 2019-05-04 11:08:40 AM] [client 127.0.0.1] Select * from site_category where attraction_site=38
+ [Sat 2019-05-04 11:08:40 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=38
+ [Sat 2019-05-04 11:08:40 AM] [client 127.0.0.1] Select * from site_category where attraction_site=39
+ [Sat 2019-05-04 11:08:40 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=39
+ [Sat 2019-05-04 11:08:40 AM] [client 127.0.0.1] Select * from site_category where attraction_site=40
+ [Sat 2019-05-04 11:08:40 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=40
+ [Sat 2019-05-04 11:08:40 AM] [client 127.0.0.1] Select * from site_category where attraction_site=41
+ [Sat 2019-05-04 11:08:40 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=41
+ [Sat 2019-05-04 11:08:40 AM] [client 127.0.0.1] Select * from site_category where attraction_site=42
+ [Sat 2019-05-04 11:08:40 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=42
+ [Sat 2019-05-04 11:08:40 AM] [client 127.0.0.1] Select * from site_category where attraction_site=43
+ [Sat 2019-05-04 11:08:40 AM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Sat 2019-05-04 11:08:40 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:08:40 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:08:40 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=43
+ [Sat 2019-05-04 11:08:40 AM] [client 127.0.0.1] Select * from site_category where attraction_site=44
+ [Sat 2019-05-04 11:08:40 AM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Sat 2019-05-04 11:08:40 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:08:40 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:08:40 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=44
+ [Sat 2019-05-04 11:08:40 AM] [client 127.0.0.1] Select * from site_category where attraction_site=45
+ [Sat 2019-05-04 11:08:40 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=45
+ [Sat 2019-05-04 11:08:40 AM] [client 127.0.0.1] Select * from site_category where attraction_site=46
+ [Sat 2019-05-04 11:08:40 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=46
+ [Sat 2019-05-04 11:08:40 AM] [client 127.0.0.1] Select * from site_category where attraction_site=47
+ [Sat 2019-05-04 11:08:40 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=47
+ [Sat 2019-05-04 11:08:40 AM] [client 127.0.0.1] Select * from site_category where attraction_site=48
+ [Sat 2019-05-04 11:08:40 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=48
+ [Sat 2019-05-04 11:08:40 AM] [client 127.0.0.1] Select * from site_category where attraction_site=49
+ [Sat 2019-05-04 11:08:40 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=49
+ [Sat 2019-05-04 11:08:40 AM] [client 127.0.0.1] Select * from site_category where attraction_site=50
+ [Sat 2019-05-04 11:08:40 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=50
+ [Sat 2019-05-04 11:08:40 AM] [client 127.0.0.1] Select * from site_category where attraction_site=51
+ [Sat 2019-05-04 11:08:40 AM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Sat 2019-05-04 11:08:40 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:08:40 AM] [client 127.0.0.1] Select * from category where code='CAT002'
+ [Sat 2019-05-04 11:08:40 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:08:40 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:08:40 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:08:40 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=51
+ [Sat 2019-05-04 11:08:40 AM] [client 127.0.0.1] Select * from site_category where attraction_site=52
+ [Sat 2019-05-04 11:08:40 AM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Sat 2019-05-04 11:08:40 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:08:40 AM] [client 127.0.0.1] Select * from category where code='CAT002'
+ [Sat 2019-05-04 11:08:40 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:08:40 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:08:40 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:08:40 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=52
+ [Sat 2019-05-04 11:08:40 AM] [client 127.0.0.1] Select * from site_category where attraction_site=53
+ [Sat 2019-05-04 11:08:40 AM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Sat 2019-05-04 11:08:40 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:08:40 AM] [client 127.0.0.1] Select * from category where code='CAT002'
+ [Sat 2019-05-04 11:08:40 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:08:40 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:08:40 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:08:40 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=53
+ [Sat 2019-05-04 11:15:52 AM] [client 127.0.0.1] Select * from attraction_site
+ [Sat 2019-05-04 11:15:52 AM] [client 127.0.0.1] Select * from site_category where attraction_site=2
+ [Sat 2019-05-04 11:15:52 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=2
+ [Sat 2019-05-04 11:15:52 AM] [client 127.0.0.1] Select * from site_category where attraction_site=3
+ [Sat 2019-05-04 11:15:52 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=3
+ [Sat 2019-05-04 11:15:52 AM] [client 127.0.0.1] Select * from site_category where attraction_site=4
+ [Sat 2019-05-04 11:15:52 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=4
+ [Sat 2019-05-04 11:15:52 AM] [client 127.0.0.1] Select * from site_category where attraction_site=5
+ [Sat 2019-05-04 11:15:52 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=5
+ [Sat 2019-05-04 11:15:52 AM] [client 127.0.0.1] Select * from site_category where attraction_site=6
+ [Sat 2019-05-04 11:15:52 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=6
+ [Sat 2019-05-04 11:15:52 AM] [client 127.0.0.1] Select * from site_category where attraction_site=7
+ [Sat 2019-05-04 11:15:52 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=7
+ [Sat 2019-05-04 11:15:52 AM] [client 127.0.0.1] Select * from site_category where attraction_site=8
+ [Sat 2019-05-04 11:15:52 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=8
+ [Sat 2019-05-04 11:15:52 AM] [client 127.0.0.1] Select * from site_category where attraction_site=9
+ [Sat 2019-05-04 11:15:52 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=9
+ [Sat 2019-05-04 11:15:52 AM] [client 127.0.0.1] Select * from site_category where attraction_site=10
+ [Sat 2019-05-04 11:15:52 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=10
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from site_category where attraction_site=11
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=11
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from site_category where attraction_site=12
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=12
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from site_category where attraction_site=13
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=13
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from site_category where attraction_site=14
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=14
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from site_category where attraction_site=15
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=15
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from site_category where attraction_site=16
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=16
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from site_category where attraction_site=17
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=17
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from site_category where attraction_site=18
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=18
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from site_category where attraction_site=19
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=19
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from site_category where attraction_site=20
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=20
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from site_category where attraction_site=21
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=21
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from site_category where attraction_site=22
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=22
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from site_category where attraction_site=23
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=23
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from site_category where attraction_site=24
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=24
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from site_category where attraction_site=25
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=25
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from site_category where attraction_site=26
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=26
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from site_category where attraction_site=27
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=27
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from site_category where attraction_site=28
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=28
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from site_category where attraction_site=29
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=29
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from site_category where attraction_site=30
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=30
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from site_category where attraction_site=31
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=31
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from site_category where attraction_site=32
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=32
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from site_category where attraction_site=33
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=33
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from site_category where attraction_site=34
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=34
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from site_category where attraction_site=35
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=35
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from site_category where attraction_site=36
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=36
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from site_category where attraction_site=37
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=37
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from site_category where attraction_site=38
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=38
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from site_category where attraction_site=39
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=39
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from site_category where attraction_site=40
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=40
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from site_category where attraction_site=41
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=41
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from site_category where attraction_site=42
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=42
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from site_category where attraction_site=43
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=43
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from site_category where attraction_site=44
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=44
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from site_category where attraction_site=45
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=45
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from site_category where attraction_site=46
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=46
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from site_category where attraction_site=47
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=47
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from site_category where attraction_site=48
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=48
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from site_category where attraction_site=49
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=49
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from site_category where attraction_site=50
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=50
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from site_category where attraction_site=51
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from category where code='CAT002'
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=51
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from site_category where attraction_site=52
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Select * from category where code='CAT002'
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:15:53 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:15:54 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=52
+ [Sat 2019-05-04 11:15:54 AM] [client 127.0.0.1] Select * from site_category where attraction_site=53
+ [Sat 2019-05-04 11:15:54 AM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Sat 2019-05-04 11:15:54 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:15:54 AM] [client 127.0.0.1] Select * from category where code='CAT002'
+ [Sat 2019-05-04 11:15:54 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:15:54 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:15:54 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:15:54 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=53
+ [Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] Select * from attraction_site
+ [Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] Select * from site_category where attraction_site=2
+ [Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=2
+ [Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] Select * from site_category where attraction_site=3
+ [Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=3
+ [Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] Select * from site_category where attraction_site=4
+ [Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=4
+ [Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] Select * from site_category where attraction_site=5
+ [Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=5
+ [Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] Select * from site_category where attraction_site=6
+ [Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=6
+ [Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] Select * from site_category where attraction_site=7
+ [Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=7
+ [Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] Select * from site_category where attraction_site=8
+ [Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=8
+ [Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] Select * from site_category where attraction_site=9
+ [Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=9
+ [Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] Select * from site_category where attraction_site=10
+ [Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=10
+ [Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] Select * from site_category where attraction_site=11
+ [Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=11
+ [Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] Select * from site_category where attraction_site=12
+ [Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=12
+ [Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] Select * from site_category where attraction_site=13
+ [Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=13
+ [Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] Select * from site_category where attraction_site=14
+ [Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=14
+ [Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] Select * from site_category where attraction_site=15
+ [Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=15
+ [Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] Select * from site_category where attraction_site=16
+ [Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=16
+ [Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] Select * from site_category where attraction_site=17
+ [Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=17
+ [Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] Select * from site_category where attraction_site=18
+ [Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=18
+ [Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] Select * from site_category where attraction_site=19
+ [Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=19
+ [Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] Select * from site_category where attraction_site=20
+ [Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=20
+ [Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] Select * from site_category where attraction_site=21
+ [Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=21
+ [Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] Select * from site_category where attraction_site=22
+ [Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=22
+ [Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] Select * from site_category where attraction_site=23
+ [Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=23
+ [Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] Select * from site_category where attraction_site=24
+ [Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=24
+ [Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] Select * from site_category where attraction_site=25
+ [Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=25
+ [Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] Select * from site_category where attraction_site=26
+ [Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=26
+ [Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] Select * from site_category where attraction_site=27
+ [Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=27
+ [Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] Select * from site_category where attraction_site=28
+ [Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=28
+ [Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] Select * from site_category where attraction_site=29
+ [Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=29
+ [Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] Select * from site_category where attraction_site=30
+ [Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=30
+ [Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] Select * from site_category where attraction_site=31
+ [Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=31
+ [Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] Select * from site_category where attraction_site=32
+ [Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=32
+ [Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] Select * from site_category where attraction_site=33
+ [Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=33
+ [Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] Select * from site_category where attraction_site=34
+ [Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=34
+ [Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] Select * from site_category where attraction_site=35
+ [Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=35
+ [Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] Select * from site_category where attraction_site=36
+ [Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=36
+ [Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] Select * from site_category where attraction_site=37
+ [Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=37
+ [Sat 2019-05-04 11:25:49 AM] [client 127.0.0.1] Select * from site_category where attraction_site=38
+ [Sat 2019-05-04 11:25:50 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=38
+ [Sat 2019-05-04 11:25:50 AM] [client 127.0.0.1] Select * from site_category where attraction_site=39
+ [Sat 2019-05-04 11:25:50 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=39
+ [Sat 2019-05-04 11:25:50 AM] [client 127.0.0.1] Select * from site_category where attraction_site=40
+ [Sat 2019-05-04 11:25:50 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=40
+ [Sat 2019-05-04 11:25:50 AM] [client 127.0.0.1] Select * from site_category where attraction_site=41
+ [Sat 2019-05-04 11:25:50 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=41
+ [Sat 2019-05-04 11:25:50 AM] [client 127.0.0.1] Select * from site_category where attraction_site=42
+ [Sat 2019-05-04 11:25:50 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=42
+ [Sat 2019-05-04 11:25:50 AM] [client 127.0.0.1] Select * from site_category where attraction_site=43
+ [Sat 2019-05-04 11:25:50 AM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Sat 2019-05-04 11:25:50 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:25:50 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:25:50 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=43
+ [Sat 2019-05-04 11:25:50 AM] [client 127.0.0.1] Select * from site_category where attraction_site=44
+ [Sat 2019-05-04 11:25:50 AM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Sat 2019-05-04 11:25:50 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:25:50 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:25:50 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=44
+ [Sat 2019-05-04 11:25:50 AM] [client 127.0.0.1] Select * from site_category where attraction_site=45
+ [Sat 2019-05-04 11:25:50 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=45
+ [Sat 2019-05-04 11:25:50 AM] [client 127.0.0.1] Select * from site_category where attraction_site=46
+ [Sat 2019-05-04 11:25:50 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=46
+ [Sat 2019-05-04 11:25:50 AM] [client 127.0.0.1] Select * from site_category where attraction_site=47
+ [Sat 2019-05-04 11:25:50 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=47
+ [Sat 2019-05-04 11:25:50 AM] [client 127.0.0.1] Select * from site_category where attraction_site=48
+ [Sat 2019-05-04 11:25:50 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=48
+ [Sat 2019-05-04 11:25:50 AM] [client 127.0.0.1] Select * from site_category where attraction_site=49
+ [Sat 2019-05-04 11:25:50 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=49
+ [Sat 2019-05-04 11:25:50 AM] [client 127.0.0.1] Select * from site_category where attraction_site=50
+ [Sat 2019-05-04 11:25:50 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=50
+ [Sat 2019-05-04 11:25:50 AM] [client 127.0.0.1] Select * from site_category where attraction_site=51
+ [Sat 2019-05-04 11:25:50 AM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Sat 2019-05-04 11:25:50 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:25:50 AM] [client 127.0.0.1] Select * from category where code='CAT002'
+ [Sat 2019-05-04 11:25:50 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:25:50 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:25:50 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:25:50 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=51
+ [Sat 2019-05-04 11:25:50 AM] [client 127.0.0.1] Select * from site_category where attraction_site=52
+ [Sat 2019-05-04 11:25:50 AM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Sat 2019-05-04 11:25:50 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:25:50 AM] [client 127.0.0.1] Select * from category where code='CAT002'
+ [Sat 2019-05-04 11:25:50 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:25:50 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:25:50 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:25:50 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=52
+ [Sat 2019-05-04 11:25:50 AM] [client 127.0.0.1] Select * from site_category where attraction_site=53
+ [Sat 2019-05-04 11:25:50 AM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Sat 2019-05-04 11:25:50 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:25:50 AM] [client 127.0.0.1] Select * from category where code='CAT002'
+ [Sat 2019-05-04 11:25:50 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:25:50 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:25:50 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:25:50 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=53
+ [Sat 2019-05-04 11:41:10 AM] [client 127.0.0.1] Select * from attraction_site
+ [Sat 2019-05-04 11:41:10 AM] [client 127.0.0.1] Select * from site_category where attraction_site=2
+ [Sat 2019-05-04 11:41:10 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=2
+ [Sat 2019-05-04 11:41:10 AM] [client 127.0.0.1] Select * from site_category where attraction_site=3
+ [Sat 2019-05-04 11:41:10 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=3
+ [Sat 2019-05-04 11:41:10 AM] [client 127.0.0.1] Select * from site_category where attraction_site=4
+ [Sat 2019-05-04 11:41:10 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=4
+ [Sat 2019-05-04 11:41:10 AM] [client 127.0.0.1] Select * from site_category where attraction_site=5
+ [Sat 2019-05-04 11:41:10 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=5
+ [Sat 2019-05-04 11:41:10 AM] [client 127.0.0.1] Select * from site_category where attraction_site=6
+ [Sat 2019-05-04 11:41:10 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=6
+ [Sat 2019-05-04 11:41:10 AM] [client 127.0.0.1] Select * from site_category where attraction_site=7
+ [Sat 2019-05-04 11:41:10 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=7
+ [Sat 2019-05-04 11:41:10 AM] [client 127.0.0.1] Select * from site_category where attraction_site=8
+ [Sat 2019-05-04 11:41:10 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=8
+ [Sat 2019-05-04 11:41:10 AM] [client 127.0.0.1] Select * from site_category where attraction_site=9
+ [Sat 2019-05-04 11:41:10 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=9
+ [Sat 2019-05-04 11:41:10 AM] [client 127.0.0.1] Select * from site_category where attraction_site=10
+ [Sat 2019-05-04 11:41:10 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=10
+ [Sat 2019-05-04 11:41:10 AM] [client 127.0.0.1] Select * from site_category where attraction_site=11
+ [Sat 2019-05-04 11:41:10 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=11
+ [Sat 2019-05-04 11:41:10 AM] [client 127.0.0.1] Select * from site_category where attraction_site=12
+ [Sat 2019-05-04 11:41:10 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=12
+ [Sat 2019-05-04 11:41:10 AM] [client 127.0.0.1] Select * from site_category where attraction_site=13
+ [Sat 2019-05-04 11:41:10 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=13
+ [Sat 2019-05-04 11:41:10 AM] [client 127.0.0.1] Select * from site_category where attraction_site=14
+ [Sat 2019-05-04 11:41:10 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=14
+ [Sat 2019-05-04 11:41:10 AM] [client 127.0.0.1] Select * from site_category where attraction_site=15
+ [Sat 2019-05-04 11:41:10 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=15
+ [Sat 2019-05-04 11:41:10 AM] [client 127.0.0.1] Select * from site_category where attraction_site=16
+ [Sat 2019-05-04 11:41:10 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=16
+ [Sat 2019-05-04 11:41:10 AM] [client 127.0.0.1] Select * from site_category where attraction_site=17
+ [Sat 2019-05-04 11:41:10 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=17
+ [Sat 2019-05-04 11:41:10 AM] [client 127.0.0.1] Select * from site_category where attraction_site=18
+ [Sat 2019-05-04 11:41:10 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=18
+ [Sat 2019-05-04 11:41:10 AM] [client 127.0.0.1] Select * from site_category where attraction_site=19
+ [Sat 2019-05-04 11:41:10 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=19
+ [Sat 2019-05-04 11:41:10 AM] [client 127.0.0.1] Select * from site_category where attraction_site=20
+ [Sat 2019-05-04 11:41:10 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=20
+ [Sat 2019-05-04 11:41:10 AM] [client 127.0.0.1] Select * from site_category where attraction_site=21
+ [Sat 2019-05-04 11:41:10 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=21
+ [Sat 2019-05-04 11:41:10 AM] [client 127.0.0.1] Select * from site_category where attraction_site=22
+ [Sat 2019-05-04 11:41:10 AM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Sat 2019-05-04 11:41:10 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:41:10 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:41:10 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=22
+ [Sat 2019-05-04 11:41:10 AM] [client 127.0.0.1] Select * from site_category where attraction_site=23
+ [Sat 2019-05-04 11:41:10 AM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Sat 2019-05-04 11:41:10 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=23
+ [Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] Select * from site_category where attraction_site=24
+ [Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=24
+ [Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] Select * from site_category where attraction_site=25
+ [Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=25
+ [Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] Select * from site_category where attraction_site=26
+ [Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=26
+ [Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] Select * from site_category where attraction_site=27
+ [Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=27
+ [Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] Select * from site_category where attraction_site=28
+ [Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=28
+ [Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] Select * from site_category where attraction_site=29
+ [Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=29
+ [Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] Select * from site_category where attraction_site=30
+ [Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=30
+ [Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] Select * from site_category where attraction_site=31
+ [Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=31
+ [Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] Select * from site_category where attraction_site=32
+ [Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=32
+ [Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] Select * from site_category where attraction_site=33
+ [Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=33
+ [Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] Select * from site_category where attraction_site=34
+ [Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=34
+ [Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] Select * from site_category where attraction_site=35
+ [Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=35
+ [Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] Select * from site_category where attraction_site=36
+ [Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=36
+ [Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] Select * from site_category where attraction_site=37
+ [Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=37
+ [Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] Select * from site_category where attraction_site=38
+ [Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=38
+ [Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] Select * from site_category where attraction_site=39
+ [Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=39
+ [Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] Select * from site_category where attraction_site=40
+ [Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=40
+ [Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] Select * from site_category where attraction_site=41
+ [Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=41
+ [Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] Select * from site_category where attraction_site=42
+ [Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=42
+ [Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] Select * from site_category where attraction_site=43
+ [Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=43
+ [Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] Select * from site_category where attraction_site=44
+ [Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=44
+ [Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] Select * from site_category where attraction_site=45
+ [Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=45
+ [Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] Select * from site_category where attraction_site=46
+ [Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=46
+ [Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] Select * from site_category where attraction_site=47
+ [Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=47
+ [Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] Select * from site_category where attraction_site=48
+ [Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=48
+ [Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] Select * from site_category where attraction_site=49
+ [Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=49
+ [Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] Select * from site_category where attraction_site=50
+ [Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=50
+ [Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] Select * from site_category where attraction_site=51
+ [Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] Select * from category where code='CAT002'
+ [Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=51
+ [Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] Select * from site_category where attraction_site=52
+ [Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] Select * from category where code='CAT002'
+ [Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=52
+ [Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] Select * from site_category where attraction_site=53
+ [Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] Select * from category where code='CAT002'
+ [Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] 
+ [Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] Array
+[Sat 2019-05-04 11:41:11 AM] [client 127.0.0.1] Select * from site_activity where attraction_site=53
+ [Sat 2019-05-04 07:23:02 PM] [client 127.0.0.1] Select * from attraction_site
+ [Sat 2019-05-04 07:23:02 PM] [client 127.0.0.1] Select * from site_category where attraction_site=2
+ [Sat 2019-05-04 07:23:02 PM] [client 127.0.0.1] Select * from site_activity where attraction_site=2
+ [Sat 2019-05-04 07:23:02 PM] [client 127.0.0.1] Select * from site_category where attraction_site=3
+ [Sat 2019-05-04 07:23:02 PM] [client 127.0.0.1] Select * from site_activity where attraction_site=3
+ [Sat 2019-05-04 07:23:02 PM] [client 127.0.0.1] Select * from site_category where attraction_site=4
+ [Sat 2019-05-04 07:23:02 PM] [client 127.0.0.1] Select * from site_activity where attraction_site=4
+ [Sat 2019-05-04 07:23:02 PM] [client 127.0.0.1] Select * from site_category where attraction_site=5
+ [Sat 2019-05-04 07:23:02 PM] [client 127.0.0.1] Select * from site_activity where attraction_site=5
+ [Sat 2019-05-04 07:23:02 PM] [client 127.0.0.1] Select * from site_category where attraction_site=6
+ [Sat 2019-05-04 07:23:02 PM] [client 127.0.0.1] Select * from site_activity where attraction_site=6
+ [Sat 2019-05-04 07:23:02 PM] [client 127.0.0.1] Select * from site_category where attraction_site=7
+ [Sat 2019-05-04 07:23:02 PM] [client 127.0.0.1] Select * from site_activity where attraction_site=7
+ [Sat 2019-05-04 07:23:02 PM] [client 127.0.0.1] Select * from site_category where attraction_site=8
+ [Sat 2019-05-04 07:23:02 PM] [client 127.0.0.1] Select * from site_activity where attraction_site=8
+ [Sat 2019-05-04 07:23:02 PM] [client 127.0.0.1] Select * from site_category where attraction_site=9
+ [Sat 2019-05-04 07:23:02 PM] [client 127.0.0.1] Select * from site_activity where attraction_site=9
+ [Sat 2019-05-04 07:23:02 PM] [client 127.0.0.1] Select * from site_category where attraction_site=10
+ [Sat 2019-05-04 07:23:02 PM] [client 127.0.0.1] Select * from site_activity where attraction_site=10
+ [Sat 2019-05-04 07:23:02 PM] [client 127.0.0.1] Select * from site_category where attraction_site=11
+ [Sat 2019-05-04 07:23:02 PM] [client 127.0.0.1] Select * from site_activity where attraction_site=11
+ [Sat 2019-05-04 07:23:02 PM] [client 127.0.0.1] Select * from site_category where attraction_site=12
+ [Sat 2019-05-04 07:23:02 PM] [client 127.0.0.1] Select * from site_activity where attraction_site=12
+ [Sat 2019-05-04 07:23:02 PM] [client 127.0.0.1] Select * from site_category where attraction_site=13
+ [Sat 2019-05-04 07:23:02 PM] [client 127.0.0.1] Select * from site_activity where attraction_site=13
+ [Sat 2019-05-04 07:23:02 PM] [client 127.0.0.1] Select * from site_category where attraction_site=14
+ [Sat 2019-05-04 07:23:02 PM] [client 127.0.0.1] Select * from site_activity where attraction_site=14
+ [Sat 2019-05-04 07:23:03 PM] [client 127.0.0.1] Select * from site_category where attraction_site=15
+ [Sat 2019-05-04 07:23:03 PM] [client 127.0.0.1] Select * from site_activity where attraction_site=15
+ [Sat 2019-05-04 07:23:03 PM] [client 127.0.0.1] Select * from site_category where attraction_site=16
+ [Sat 2019-05-04 07:23:03 PM] [client 127.0.0.1] Select * from site_activity where attraction_site=16
+ [Sat 2019-05-04 07:23:03 PM] [client 127.0.0.1] Select * from site_category where attraction_site=17
+ [Sat 2019-05-04 07:23:03 PM] [client 127.0.0.1] Select * from site_activity where attraction_site=17
+ [Sat 2019-05-04 07:23:03 PM] [client 127.0.0.1] Select * from site_category where attraction_site=18
+ [Sat 2019-05-04 07:23:03 PM] [client 127.0.0.1] Select * from site_activity where attraction_site=18
+ [Sat 2019-05-04 07:23:03 PM] [client 127.0.0.1] Select * from site_category where attraction_site=19
+ [Sat 2019-05-04 07:23:03 PM] [client 127.0.0.1] Select * from site_activity where attraction_site=19
+ [Sat 2019-05-04 07:23:03 PM] [client 127.0.0.1] Select * from site_category where attraction_site=20
+ [Sat 2019-05-04 07:23:03 PM] [client 127.0.0.1] Select * from site_activity where attraction_site=20
+ [Sat 2019-05-04 07:23:03 PM] [client 127.0.0.1] Select * from site_category where attraction_site=21
+ [Sat 2019-05-04 07:23:03 PM] [client 127.0.0.1] Select * from site_activity where attraction_site=21
+ [Sat 2019-05-04 07:23:03 PM] [client 127.0.0.1] Select * from site_category where attraction_site=22
+ [Sat 2019-05-04 07:23:03 PM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Sat 2019-05-04 07:23:25 PM] [client 127.0.0.1] Select * from attraction_site
+ [Sat 2019-05-04 07:23:25 PM] [client 127.0.0.1] Select * from site_category where attraction_site=2
+ [Sat 2019-05-04 07:23:25 PM] [client 127.0.0.1] Select * from site_activity where attraction_site=2
+ [Sat 2019-05-04 07:23:25 PM] [client 127.0.0.1] Select * from site_category where attraction_site=3
+ [Sat 2019-05-04 07:23:25 PM] [client 127.0.0.1] Select * from site_activity where attraction_site=3
+ [Sat 2019-05-04 07:23:25 PM] [client 127.0.0.1] Select * from site_category where attraction_site=4
+ [Sat 2019-05-04 07:23:25 PM] [client 127.0.0.1] Select * from site_activity where attraction_site=4
+ [Sat 2019-05-04 07:23:25 PM] [client 127.0.0.1] Select * from site_category where attraction_site=5
+ [Sat 2019-05-04 07:23:25 PM] [client 127.0.0.1] Select * from site_activity where attraction_site=5
+ [Sat 2019-05-04 07:23:25 PM] [client 127.0.0.1] Select * from site_category where attraction_site=6
+ [Sat 2019-05-04 07:23:25 PM] [client 127.0.0.1] Select * from site_activity where attraction_site=6
+ [Sat 2019-05-04 07:23:25 PM] [client 127.0.0.1] Select * from site_category where attraction_site=7
+ [Sat 2019-05-04 07:23:25 PM] [client 127.0.0.1] Select * from site_activity where attraction_site=7
+ [Sat 2019-05-04 07:23:25 PM] [client 127.0.0.1] Select * from site_category where attraction_site=8
+ [Sat 2019-05-04 07:23:25 PM] [client 127.0.0.1] Select * from site_activity where attraction_site=8
+ [Sat 2019-05-04 07:23:25 PM] [client 127.0.0.1] Select * from site_category where attraction_site=9
+ [Sat 2019-05-04 07:23:25 PM] [client 127.0.0.1] Select * from site_activity where attraction_site=9
+ [Sat 2019-05-04 07:23:25 PM] [client 127.0.0.1] Select * from site_category where attraction_site=10
+ [Sat 2019-05-04 07:23:25 PM] [client 127.0.0.1] Select * from site_activity where attraction_site=10
+ [Sat 2019-05-04 07:23:25 PM] [client 127.0.0.1] Select * from site_category where attraction_site=11
+ [Sat 2019-05-04 07:23:25 PM] [client 127.0.0.1] Select * from site_activity where attraction_site=11
+ [Sat 2019-05-04 07:23:25 PM] [client 127.0.0.1] Select * from site_category where attraction_site=12
+ [Sat 2019-05-04 07:23:25 PM] [client 127.0.0.1] Select * from site_activity where attraction_site=12
+ [Sat 2019-05-04 07:23:25 PM] [client 127.0.0.1] Select * from site_category where attraction_site=13
+ [Sat 2019-05-04 07:23:25 PM] [client 127.0.0.1] Select * from site_activity where attraction_site=13
+ [Sat 2019-05-04 07:23:25 PM] [client 127.0.0.1] Select * from site_category where attraction_site=14
+ [Sat 2019-05-04 07:23:25 PM] [client 127.0.0.1] Select * from site_activity where attraction_site=14
+ [Sat 2019-05-04 07:23:25 PM] [client 127.0.0.1] Select * from site_category where attraction_site=15
+ [Sat 2019-05-04 07:23:25 PM] [client 127.0.0.1] Select * from site_activity where attraction_site=15
+ [Sat 2019-05-04 07:23:25 PM] [client 127.0.0.1] Select * from site_category where attraction_site=16
+ [Sat 2019-05-04 07:23:25 PM] [client 127.0.0.1] Select * from site_activity where attraction_site=16
+ [Sat 2019-05-04 07:23:25 PM] [client 127.0.0.1] Select * from site_category where attraction_site=17
+ [Sat 2019-05-04 07:23:25 PM] [client 127.0.0.1] Select * from site_activity where attraction_site=17
+ [Sat 2019-05-04 07:23:25 PM] [client 127.0.0.1] Select * from site_category where attraction_site=18
+ [Sat 2019-05-04 07:23:25 PM] [client 127.0.0.1] Select * from site_activity where attraction_site=18
+ [Sat 2019-05-04 07:23:25 PM] [client 127.0.0.1] Select * from site_category where attraction_site=19
+ [Sat 2019-05-04 07:23:25 PM] [client 127.0.0.1] Select * from site_activity where attraction_site=19
+ [Sat 2019-05-04 07:23:25 PM] [client 127.0.0.1] Select * from site_category where attraction_site=20
+ [Sat 2019-05-04 07:23:25 PM] [client 127.0.0.1] Select * from site_activity where attraction_site=20
+ [Sat 2019-05-04 07:23:25 PM] [client 127.0.0.1] Select * from site_category where attraction_site=21
+ [Sat 2019-05-04 07:23:25 PM] [client 127.0.0.1] Select * from site_activity where attraction_site=21
+ [Sat 2019-05-04 07:23:25 PM] [client 127.0.0.1] Select * from site_category where attraction_site=22
+ [Sat 2019-05-04 07:23:25 PM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Sat 2019-05-04 07:23:25 PM] [client 127.0.0.1] 
+ [Sat 2019-05-04 07:23:25 PM] [client 127.0.0.1] Array
+[Sat 2019-05-04 07:23:25 PM] [client 127.0.0.1] Select * from site_activity where attraction_site=22
+ [Sat 2019-05-04 07:23:25 PM] [client 127.0.0.1] Select * from site_category where attraction_site=23
+ [Sat 2019-05-04 07:23:25 PM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Sat 2019-05-04 07:23:25 PM] [client 127.0.0.1] 
+ [Sat 2019-05-04 07:23:25 PM] [client 127.0.0.1] Array
+[Sat 2019-05-04 07:23:25 PM] [client 127.0.0.1] Select * from site_activity where attraction_site=23
+ [Sat 2019-05-04 07:23:25 PM] [client 127.0.0.1] Select * from site_category where attraction_site=24
+ [Sat 2019-05-04 07:23:25 PM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Sat 2019-05-04 07:23:25 PM] [client 127.0.0.1] 
+ [Sat 2019-05-04 07:23:25 PM] [client 127.0.0.1] Array
+[Sat 2019-05-04 07:23:25 PM] [client 127.0.0.1] Select * from site_activity where attraction_site=24
+ [Sat 2019-05-04 07:23:25 PM] [client 127.0.0.1] Select * from site_category where attraction_site=25
+ [Sat 2019-05-04 07:23:25 PM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Sat 2019-05-04 07:23:25 PM] [client 127.0.0.1] 
+ [Sat 2019-05-04 07:23:25 PM] [client 127.0.0.1] Array
+[Sat 2019-05-04 07:23:26 PM] [client 127.0.0.1] Select * from site_activity where attraction_site=25
+ [Sat 2019-05-04 07:23:26 PM] [client 127.0.0.1] Select * from site_category where attraction_site=26
+ [Sat 2019-05-04 07:23:26 PM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Sat 2019-05-04 07:23:26 PM] [client 127.0.0.1] 
+ [Sat 2019-05-04 07:23:26 PM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Sat 2019-05-04 07:23:26 PM] [client 127.0.0.1] 
+ [Sat 2019-05-04 07:23:26 PM] [client 127.0.0.1] Array
+[Sat 2019-05-04 07:23:26 PM] [client 127.0.0.1] Array
+[Sat 2019-05-04 07:23:26 PM] [client 127.0.0.1] Select * from site_activity where attraction_site=26
+ [Sat 2019-05-04 07:23:26 PM] [client 127.0.0.1] Select * from site_category where attraction_site=27
+ [Sat 2019-05-04 07:23:26 PM] [client 127.0.0.1] Select * from site_activity where attraction_site=27
+ [Sat 2019-05-04 07:23:26 PM] [client 127.0.0.1] Select * from site_category where attraction_site=28
+ [Sat 2019-05-04 07:23:26 PM] [client 127.0.0.1] Select * from site_activity where attraction_site=28
+ [Sat 2019-05-04 07:23:26 PM] [client 127.0.0.1] Select * from site_category where attraction_site=29
+ [Sat 2019-05-04 07:23:26 PM] [client 127.0.0.1] Select * from site_activity where attraction_site=29
+ [Sat 2019-05-04 07:23:26 PM] [client 127.0.0.1] Select * from site_category where attraction_site=30
+ [Sat 2019-05-04 07:23:26 PM] [client 127.0.0.1] Select * from site_activity where attraction_site=30
+ [Sat 2019-05-04 07:23:26 PM] [client 127.0.0.1] Select * from site_category where attraction_site=31
+ [Sat 2019-05-04 07:23:26 PM] [client 127.0.0.1] Select * from site_activity where attraction_site=31
+ [Sat 2019-05-04 07:23:26 PM] [client 127.0.0.1] Select * from site_category where attraction_site=32
+ [Sat 2019-05-04 07:23:26 PM] [client 127.0.0.1] Select * from site_activity where attraction_site=32
+ [Sat 2019-05-04 07:23:26 PM] [client 127.0.0.1] Select * from site_category where attraction_site=33
+ [Sat 2019-05-04 07:23:26 PM] [client 127.0.0.1] Select * from site_activity where attraction_site=33
+ [Sat 2019-05-04 07:23:26 PM] [client 127.0.0.1] Select * from site_category where attraction_site=34
+ [Sat 2019-05-04 07:23:26 PM] [client 127.0.0.1] Select * from site_activity where attraction_site=34
+ [Sat 2019-05-04 07:23:26 PM] [client 127.0.0.1] Select * from site_category where attraction_site=35
+ [Sat 2019-05-04 07:23:26 PM] [client 127.0.0.1] Select * from site_activity where attraction_site=35
+ [Sat 2019-05-04 07:23:26 PM] [client 127.0.0.1] Select * from site_category where attraction_site=36
+ [Sat 2019-05-04 07:23:26 PM] [client 127.0.0.1] Select * from site_activity where attraction_site=36
+ [Sat 2019-05-04 07:23:26 PM] [client 127.0.0.1] Select * from site_category where attraction_site=37
+ [Sat 2019-05-04 07:23:26 PM] [client 127.0.0.1] Select * from site_activity where attraction_site=37
+ [Sat 2019-05-04 07:23:26 PM] [client 127.0.0.1] Select * from site_category where attraction_site=38
+ [Sat 2019-05-04 07:23:26 PM] [client 127.0.0.1] Select * from site_activity where attraction_site=38
+ [Sat 2019-05-04 07:23:26 PM] [client 127.0.0.1] Select * from site_category where attraction_site=39
+ [Sat 2019-05-04 07:23:26 PM] [client 127.0.0.1] Select * from site_activity where attraction_site=39
+ [Sat 2019-05-04 07:23:26 PM] [client 127.0.0.1] Select * from site_category where attraction_site=40
+ [Sat 2019-05-04 07:23:26 PM] [client 127.0.0.1] Select * from site_activity where attraction_site=40
+ [Sat 2019-05-04 07:23:26 PM] [client 127.0.0.1] Select * from site_category where attraction_site=41
+ [Sat 2019-05-04 07:23:26 PM] [client 127.0.0.1] Select * from site_activity where attraction_site=41
+ [Sat 2019-05-04 07:23:26 PM] [client 127.0.0.1] Select * from site_category where attraction_site=42
+ [Sat 2019-05-04 07:23:26 PM] [client 127.0.0.1] Select * from site_activity where attraction_site=42
+ [Sat 2019-05-04 07:23:26 PM] [client 127.0.0.1] Select * from site_category where attraction_site=43
+ [Sat 2019-05-04 07:23:26 PM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Sat 2019-05-04 07:23:26 PM] [client 127.0.0.1] 
+ [Sat 2019-05-04 07:23:26 PM] [client 127.0.0.1] Array
+[Sat 2019-05-04 07:23:26 PM] [client 127.0.0.1] Select * from site_activity where attraction_site=43
+ [Sat 2019-05-04 07:23:26 PM] [client 127.0.0.1] Select * from site_category where attraction_site=44
+ [Sat 2019-05-04 07:23:26 PM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Sat 2019-05-04 07:23:26 PM] [client 127.0.0.1] 
+ [Sat 2019-05-04 07:23:26 PM] [client 127.0.0.1] Array
+[Sat 2019-05-04 07:23:26 PM] [client 127.0.0.1] Select * from site_activity where attraction_site=44
+ [Sat 2019-05-04 07:23:26 PM] [client 127.0.0.1] Select * from site_category where attraction_site=45
+ [Sat 2019-05-04 07:23:26 PM] [client 127.0.0.1] Select * from site_activity where attraction_site=45
+ [Sat 2019-05-04 07:23:26 PM] [client 127.0.0.1] Select * from site_category where attraction_site=46
+ [Sat 2019-05-04 07:23:26 PM] [client 127.0.0.1] Select * from site_activity where attraction_site=46
+ [Sat 2019-05-04 07:23:26 PM] [client 127.0.0.1] Select * from site_category where attraction_site=47
+ [Sat 2019-05-04 07:23:26 PM] [client 127.0.0.1] Select * from site_activity where attraction_site=47
+ [Sat 2019-05-04 07:23:26 PM] [client 127.0.0.1] Select * from site_category where attraction_site=48
+ [Sat 2019-05-04 07:23:26 PM] [client 127.0.0.1] Select * from site_activity where attraction_site=48
+ [Sat 2019-05-04 07:23:26 PM] [client 127.0.0.1] Select * from site_category where attraction_site=49
+ [Sat 2019-05-04 07:23:26 PM] [client 127.0.0.1] Select * from site_activity where attraction_site=49
+ [Sat 2019-05-04 07:23:26 PM] [client 127.0.0.1] Select * from site_category where attraction_site=50
+ [Sat 2019-05-04 07:23:26 PM] [client 127.0.0.1] Select * from site_activity where attraction_site=50
+ [Sat 2019-05-04 07:23:26 PM] [client 127.0.0.1] Select * from site_category where attraction_site=51
+ [Sat 2019-05-04 07:23:26 PM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Sat 2019-05-04 07:23:26 PM] [client 127.0.0.1] 
+ [Sat 2019-05-04 07:23:26 PM] [client 127.0.0.1] Select * from category where code='CAT002'
+ [Sat 2019-05-04 07:23:26 PM] [client 127.0.0.1] 
+ [Sat 2019-05-04 07:23:26 PM] [client 127.0.0.1] Array
+[Sat 2019-05-04 07:23:26 PM] [client 127.0.0.1] Array
+[Sat 2019-05-04 07:23:26 PM] [client 127.0.0.1] Select * from site_activity where attraction_site=51
+ [Sat 2019-05-04 07:23:26 PM] [client 127.0.0.1] Select * from site_category where attraction_site=52
+ [Sat 2019-05-04 07:23:26 PM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Sat 2019-05-04 07:23:26 PM] [client 127.0.0.1] 
+ [Sat 2019-05-04 07:23:26 PM] [client 127.0.0.1] Select * from category where code='CAT002'
+ [Sat 2019-05-04 07:23:26 PM] [client 127.0.0.1] 
+ [Sat 2019-05-04 07:23:26 PM] [client 127.0.0.1] Array
+[Sat 2019-05-04 07:23:26 PM] [client 127.0.0.1] Array
+[Sat 2019-05-04 07:23:26 PM] [client 127.0.0.1] Select * from site_activity where attraction_site=52
+ [Sat 2019-05-04 07:23:26 PM] [client 127.0.0.1] Select * from site_category where attraction_site=53
+ [Sat 2019-05-04 07:23:26 PM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Sat 2019-05-04 07:23:26 PM] [client 127.0.0.1] 
+ [Sat 2019-05-04 07:23:26 PM] [client 127.0.0.1] Select * from category where code='CAT002'
+ [Sat 2019-05-04 07:23:26 PM] [client 127.0.0.1] 
+ [Sat 2019-05-04 07:23:26 PM] [client 127.0.0.1] Array
+[Sat 2019-05-04 07:23:26 PM] [client 127.0.0.1] Array
+[Sat 2019-05-04 07:23:26 PM] [client 127.0.0.1] Select * from site_activity where attraction_site=53
+ 

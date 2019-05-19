@@ -1,0 +1,45 @@
+[Fri 2019-05-03 08:02:02 PM] [client 127.0.0.1] 
+ [Fri 2019-05-03 08:02:02 PM] [client 127.0.0.1] Wildlife
+ [Fri 2019-05-03 08:02:23 PM] [client 127.0.0.1] 
+ [Fri 2019-05-03 08:02:24 PM] [client 127.0.0.1] Wildlife
+ [Fri 2019-05-03 08:09:04 PM] [client 127.0.0.1] Bird Watching
+ [Fri 2019-05-03 08:09:04 PM] [client 127.0.0.1] Game Drive
+ [Fri 2019-05-03 08:11:07 PM] [client 127.0.0.1] 
+ [Fri 2019-05-03 08:11:07 PM] [client 127.0.0.1] 
+ [Fri 2019-05-03 08:12:01 PM] [client 127.0.0.1] 
+ [Fri 2019-05-03 08:12:01 PM] [client 127.0.0.1] 
+ [Fri 2019-05-03 08:13:06 PM] [client 127.0.0.1] 
+ [Fri 2019-05-03 08:13:06 PM] [client 127.0.0.1] 
+ [Fri 2019-05-03 08:13:19 PM] [client 127.0.0.1] 
+ [Fri 2019-05-03 08:13:19 PM] [client 127.0.0.1] 
+ [Fri 2019-05-03 08:13:53 PM] [client 127.0.0.1] 
+ [Fri 2019-05-03 08:13:53 PM] [client 127.0.0.1] 
+ [Fri 2019-05-03 08:13:53 PM] [client 127.0.0.1] Wildlife
+ [Fri 2019-05-03 08:14:09 PM] [client 127.0.0.1] 
+ [Fri 2019-05-03 08:14:09 PM] [client 127.0.0.1] 
+ [Fri 2019-05-03 08:14:09 PM] [client 127.0.0.1] Wildlife
+ [Fri 2019-05-03 08:14:09 PM] [client 127.0.0.1] Nature
+ [Fri 2019-05-03 08:49:11 PM] [client 127.0.0.1] 
+ [Fri 2019-05-03 08:49:11 PM] [client 127.0.0.1] 
+ [Fri 2019-05-03 08:49:11 PM] [client 127.0.0.1] Wildlife
+ [Fri 2019-05-03 08:49:11 PM] [client 127.0.0.1] Nature
+ [Fri 2019-05-03 08:49:13 PM] [client 127.0.0.1] 
+ [Fri 2019-05-03 08:49:13 PM] [client 127.0.0.1] 
+ [Fri 2019-05-03 08:49:13 PM] [client 127.0.0.1] Wildlife
+ [Fri 2019-05-03 08:49:13 PM] [client 127.0.0.1] Nature
+ [Fri 2019-05-03 08:49:19 PM] [client 127.0.0.1] Select * from attraction_site where reference='bebb3694-88ad-43cd-b4bd-c1a90e49dfea'
+ [Fri 2019-05-03 08:49:19 PM] [client 127.0.0.1] Select * from site_category where attraction_site=41
+ [Fri 2019-05-03 08:49:19 PM] [client 127.0.0.1] Select * from site_activity where attraction_site=41
+ [Fri 2019-05-03 08:49:21 PM] [client 127.0.0.1] Select * from attraction_site where reference='bebb3694-88ad-43cd-b4bd-c1a90e49dfea'
+ [Fri 2019-05-03 08:49:21 PM] [client 127.0.0.1] Select * from site_category where attraction_site=41
+ [Fri 2019-05-03 08:49:21 PM] [client 127.0.0.1] Select * from site_activity where attraction_site=41
+ [Fri 2019-05-03 08:50:13 PM] [client 127.0.0.1] Select * from attraction_site where reference='bebb3694-88ad-43cd-b4bd-c1a90e49dfea'
+ [Fri 2019-05-03 08:50:13 PM] [client 127.0.0.1] Select * from site_category where attraction_site=41
+ [Fri 2019-05-03 08:50:13 PM] [client 127.0.0.1] Select * from site_activity where attraction_site=41
+ [Fri 2019-05-03 08:50:54 PM] [client 127.0.0.1] Select * from attraction_site where reference='bebb3694-88ad-43cd-b4bd-c1a90e49dfea'
+ [Fri 2019-05-03 08:50:54 PM] [client 127.0.0.1] Select * from site_category where attraction_site=41
+ [Fri 2019-05-03 08:51:36 PM] [client 127.0.0.1] Select * from attraction_site where 
+ [Fri 2019-05-03 08:52:03 PM] [client 127.0.0.1] Select * from attraction_site where 
+ [Fri 2019-05-03 08:52:14 PM] [client 127.0.0.1] Select * from attraction_site where 
+ [Fri 2019-05-03 08:52:15 PM] [client 127.0.0.1] Select * from attraction_site where 
+ 

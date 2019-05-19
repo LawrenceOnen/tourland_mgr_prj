@@ -1,0 +1,1275 @@
+[Thu 2019-05-16 01:48:25 PM] [client ::1] Select * from attraction_site where location='entebbe'
+ [Thu 2019-05-16 01:48:25 PM] [client ::1] Select * from site_category where attraction_site=4
+ [Thu 2019-05-16 01:48:25 PM] [client ::1] Select * from category where code='CAT002'
+ [Thu 2019-05-16 01:48:25 PM] [client ::1] 
+ [Thu 2019-05-16 01:48:25 PM] [client ::1] Array
+[Thu 2019-05-16 01:48:25 PM] [client ::1] Select * from site_activity where attraction_site=4
+ [Thu 2019-05-16 01:48:25 PM] [client ::1] Select * from site_rating where attraction_reference="b0ec1bbb-b304-4c3b-9c34-7230c1581dc6"
+ [Thu 2019-05-16 01:48:25 PM] [client ::1] Select * from site_category where attraction_site=6
+ [Thu 2019-05-16 01:48:25 PM] [client ::1] Select * from category where code='CAT001'
+ [Thu 2019-05-16 01:48:25 PM] [client ::1] 
+ [Thu 2019-05-16 01:48:25 PM] [client ::1] Array
+[Thu 2019-05-16 01:48:25 PM] [client ::1] Select * from site_activity where attraction_site=6
+ [Thu 2019-05-16 01:48:25 PM] [client ::1] Select * from site_rating where attraction_reference="871400e4-a9c8-4321-8c73-0e3ed63f4760"
+ [Thu 2019-05-16 01:48:25 PM] [client ::1] 0Rate0
+ [Thu 2019-05-16 01:48:25 PM] [client ::1] 1Rate0
+ [Thu 2019-05-16 01:48:25 PM] [client ::1] 2Rate4
+ [Thu 2019-05-16 01:48:25 PM] [client ::1] Select * from category
+ [Thu 2019-05-16 01:48:25 PM] [client ::1] Get service provider data
+ [Thu 2019-05-16 01:48:25 PM] [client ::1] Select * from service_provider
+ [Thu 2019-05-16 01:49:41 PM] [client ::1] Select * from attraction_site where location='entebbe'
+ [Thu 2019-05-16 01:49:41 PM] [client ::1] Select * from site_category where attraction_site=4
+ [Thu 2019-05-16 01:49:41 PM] [client ::1] Select * from category where code='CAT002'
+ [Thu 2019-05-16 01:49:41 PM] [client ::1] 
+ [Thu 2019-05-16 01:49:41 PM] [client ::1] Array
+[Thu 2019-05-16 01:49:41 PM] [client ::1] Select * from site_activity where attraction_site=4
+ [Thu 2019-05-16 01:49:41 PM] [client ::1] Select * from site_rating where attraction_reference="b0ec1bbb-b304-4c3b-9c34-7230c1581dc6"
+ [Thu 2019-05-16 01:49:41 PM] [client ::1] Select * from site_category where attraction_site=6
+ [Thu 2019-05-16 01:49:41 PM] [client ::1] Select * from category where code='CAT001'
+ [Thu 2019-05-16 01:49:41 PM] [client ::1] 
+ [Thu 2019-05-16 01:49:41 PM] [client ::1] Array
+[Thu 2019-05-16 01:49:41 PM] [client ::1] Select * from site_activity where attraction_site=6
+ [Thu 2019-05-16 01:49:41 PM] [client ::1] Select * from site_rating where attraction_reference="871400e4-a9c8-4321-8c73-0e3ed63f4760"
+ [Thu 2019-05-16 01:49:41 PM] [client ::1] 0Rate0
+ [Thu 2019-05-16 01:49:41 PM] [client ::1] 1Rate0
+ [Thu 2019-05-16 01:49:41 PM] [client ::1] 2Rate4
+ [Thu 2019-05-16 01:50:36 PM] [client ::1] Select * from attraction_site where location='entebbe'
+ [Thu 2019-05-16 01:50:36 PM] [client ::1] Select * from site_category where attraction_site=4
+ [Thu 2019-05-16 01:50:36 PM] [client ::1] Select * from category where code='CAT002'
+ [Thu 2019-05-16 01:50:36 PM] [client ::1] 
+ [Thu 2019-05-16 01:50:36 PM] [client ::1] Array
+[Thu 2019-05-16 01:50:36 PM] [client ::1] Select * from site_activity where attraction_site=4
+ [Thu 2019-05-16 01:50:36 PM] [client ::1] Select * from site_rating where attraction_reference="b0ec1bbb-b304-4c3b-9c34-7230c1581dc6"
+ [Thu 2019-05-16 01:50:36 PM] [client ::1] Select * from site_category where attraction_site=6
+ [Thu 2019-05-16 01:50:36 PM] [client ::1] Select * from category where code='CAT001'
+ [Thu 2019-05-16 01:50:36 PM] [client ::1] 
+ [Thu 2019-05-16 01:50:36 PM] [client ::1] Array
+[Thu 2019-05-16 01:50:36 PM] [client ::1] Select * from site_activity where attraction_site=6
+ [Thu 2019-05-16 01:50:36 PM] [client ::1] Select * from site_rating where attraction_reference="871400e4-a9c8-4321-8c73-0e3ed63f4760"
+ [Thu 2019-05-16 01:50:36 PM] [client ::1] 0Rate0
+ [Thu 2019-05-16 01:50:36 PM] [client ::1] 1Rate0
+ [Thu 2019-05-16 01:50:36 PM] [client ::1] 2Rate4
+ [Thu 2019-05-16 01:50:36 PM] [client ::1] Select * from category
+ [Thu 2019-05-16 01:50:36 PM] [client ::1] Get service provider data
+ [Thu 2019-05-16 01:50:36 PM] [client ::1] Select * from service_provider
+ [Thu 2019-05-16 01:50:55 PM] [client ::1] Select * from attraction_site where location='entebbe'
+ [Thu 2019-05-16 01:50:55 PM] [client ::1] Select * from site_category where attraction_site=4
+ [Thu 2019-05-16 01:50:55 PM] [client ::1] Select * from category where code='CAT002'
+ [Thu 2019-05-16 01:50:55 PM] [client ::1] 
+ [Thu 2019-05-16 01:50:55 PM] [client ::1] Array
+[Thu 2019-05-16 01:50:55 PM] [client ::1] Select * from site_activity where attraction_site=4
+ [Thu 2019-05-16 01:50:55 PM] [client ::1] Select * from site_rating where attraction_reference="b0ec1bbb-b304-4c3b-9c34-7230c1581dc6"
+ [Thu 2019-05-16 01:50:55 PM] [client ::1] Select * from site_category where attraction_site=6
+ [Thu 2019-05-16 01:50:55 PM] [client ::1] Select * from category where code='CAT001'
+ [Thu 2019-05-16 01:50:55 PM] [client ::1] 
+ [Thu 2019-05-16 01:50:55 PM] [client ::1] Array
+[Thu 2019-05-16 01:50:55 PM] [client ::1] Select * from site_activity where attraction_site=6
+ [Thu 2019-05-16 01:50:55 PM] [client ::1] Select * from site_rating where attraction_reference="871400e4-a9c8-4321-8c73-0e3ed63f4760"
+ [Thu 2019-05-16 01:50:55 PM] [client ::1] 0Rate0
+ [Thu 2019-05-16 01:50:55 PM] [client ::1] 1Rate0
+ [Thu 2019-05-16 01:50:55 PM] [client ::1] 2Rate4
+ [Thu 2019-05-16 01:50:55 PM] [client ::1] Select * from category
+ [Thu 2019-05-16 01:50:55 PM] [client ::1] Get service provider data
+ [Thu 2019-05-16 01:50:55 PM] [client ::1] Select * from service_provider
+ [Thu 2019-05-16 01:51:18 PM] [client ::1] Select * from attraction_site where location='entebbe'
+ [Thu 2019-05-16 01:51:18 PM] [client ::1] Select * from site_category where attraction_site=4
+ [Thu 2019-05-16 01:51:18 PM] [client ::1] Select * from category where code='CAT002'
+ [Thu 2019-05-16 01:51:18 PM] [client ::1] 
+ [Thu 2019-05-16 01:51:18 PM] [client ::1] Array
+[Thu 2019-05-16 01:51:18 PM] [client ::1] Select * from site_activity where attraction_site=4
+ [Thu 2019-05-16 01:51:18 PM] [client ::1] Select * from site_rating where attraction_reference="b0ec1bbb-b304-4c3b-9c34-7230c1581dc6"
+ [Thu 2019-05-16 01:51:18 PM] [client ::1] Select * from site_category where attraction_site=6
+ [Thu 2019-05-16 01:51:18 PM] [client ::1] Select * from category where code='CAT001'
+ [Thu 2019-05-16 01:51:18 PM] [client ::1] 
+ [Thu 2019-05-16 01:51:18 PM] [client ::1] Array
+[Thu 2019-05-16 01:51:18 PM] [client ::1] Select * from site_activity where attraction_site=6
+ [Thu 2019-05-16 01:51:18 PM] [client ::1] Select * from site_rating where attraction_reference="871400e4-a9c8-4321-8c73-0e3ed63f4760"
+ [Thu 2019-05-16 01:51:18 PM] [client ::1] 0Rate0
+ [Thu 2019-05-16 01:51:18 PM] [client ::1] 1Rate0
+ [Thu 2019-05-16 01:51:18 PM] [client ::1] 2Rate4
+ [Thu 2019-05-16 01:51:34 PM] [client ::1] Select * from attraction_site where location='entebbe'
+ [Thu 2019-05-16 01:51:34 PM] [client ::1] Select * from site_category where attraction_site=4
+ [Thu 2019-05-16 01:51:34 PM] [client ::1] Select * from category where code='CAT002'
+ [Thu 2019-05-16 01:51:34 PM] [client ::1] 
+ [Thu 2019-05-16 01:51:34 PM] [client ::1] Array
+[Thu 2019-05-16 01:51:34 PM] [client ::1] Select * from site_activity where attraction_site=4
+ [Thu 2019-05-16 01:51:34 PM] [client ::1] Select * from site_rating where attraction_reference="b0ec1bbb-b304-4c3b-9c34-7230c1581dc6"
+ [Thu 2019-05-16 01:51:34 PM] [client ::1] Select * from site_category where attraction_site=6
+ [Thu 2019-05-16 01:51:34 PM] [client ::1] Select * from category where code='CAT001'
+ [Thu 2019-05-16 01:51:34 PM] [client ::1] 
+ [Thu 2019-05-16 01:51:34 PM] [client ::1] Array
+[Thu 2019-05-16 01:51:34 PM] [client ::1] Select * from site_activity where attraction_site=6
+ [Thu 2019-05-16 01:51:34 PM] [client ::1] Select * from site_rating where attraction_reference="871400e4-a9c8-4321-8c73-0e3ed63f4760"
+ [Thu 2019-05-16 01:51:34 PM] [client ::1] 0Rate0
+ [Thu 2019-05-16 01:51:34 PM] [client ::1] 1Rate0
+ [Thu 2019-05-16 01:51:34 PM] [client ::1] 2Rate4
+ [Thu 2019-05-16 01:51:50 PM] [client ::1] Select * from attraction_site where location='entebbe'
+ [Thu 2019-05-16 01:51:50 PM] [client ::1] Select * from site_category where attraction_site=4
+ [Thu 2019-05-16 01:51:50 PM] [client ::1] Select * from category where code='CAT002'
+ [Thu 2019-05-16 01:51:50 PM] [client ::1] 
+ [Thu 2019-05-16 01:51:50 PM] [client ::1] Array
+[Thu 2019-05-16 01:51:50 PM] [client ::1] Select * from site_activity where attraction_site=4
+ [Thu 2019-05-16 01:51:50 PM] [client ::1] Select * from site_rating where attraction_reference="b0ec1bbb-b304-4c3b-9c34-7230c1581dc6"
+ [Thu 2019-05-16 01:51:50 PM] [client ::1] Select * from site_category where attraction_site=6
+ [Thu 2019-05-16 01:51:50 PM] [client ::1] Select * from category where code='CAT001'
+ [Thu 2019-05-16 01:51:50 PM] [client ::1] 
+ [Thu 2019-05-16 01:51:50 PM] [client ::1] Array
+[Thu 2019-05-16 01:51:50 PM] [client ::1] Select * from site_activity where attraction_site=6
+ [Thu 2019-05-16 01:51:50 PM] [client ::1] Select * from site_rating where attraction_reference="871400e4-a9c8-4321-8c73-0e3ed63f4760"
+ [Thu 2019-05-16 01:51:50 PM] [client ::1] 0Rate0
+ [Thu 2019-05-16 01:51:50 PM] [client ::1] 1Rate0
+ [Thu 2019-05-16 01:51:50 PM] [client ::1] 2Rate4
+ [Thu 2019-05-16 01:52:07 PM] [client ::1] Select * from attraction_site where location='entebbe'
+ [Thu 2019-05-16 01:52:07 PM] [client ::1] Select * from site_category where attraction_site=4
+ [Thu 2019-05-16 01:52:07 PM] [client ::1] Select * from category where code='CAT002'
+ [Thu 2019-05-16 01:52:07 PM] [client ::1] 
+ [Thu 2019-05-16 01:52:07 PM] [client ::1] Array
+[Thu 2019-05-16 01:52:07 PM] [client ::1] Select * from site_activity where attraction_site=4
+ [Thu 2019-05-16 01:52:07 PM] [client ::1] Select * from site_rating where attraction_reference="b0ec1bbb-b304-4c3b-9c34-7230c1581dc6"
+ [Thu 2019-05-16 01:52:07 PM] [client ::1] Select * from site_category where attraction_site=6
+ [Thu 2019-05-16 01:52:07 PM] [client ::1] Select * from category where code='CAT001'
+ [Thu 2019-05-16 01:52:07 PM] [client ::1] 
+ [Thu 2019-05-16 01:52:07 PM] [client ::1] Array
+[Thu 2019-05-16 01:52:07 PM] [client ::1] Select * from site_activity where attraction_site=6
+ [Thu 2019-05-16 01:52:07 PM] [client ::1] Select * from site_rating where attraction_reference="871400e4-a9c8-4321-8c73-0e3ed63f4760"
+ [Thu 2019-05-16 01:52:07 PM] [client ::1] 0Rate0
+ [Thu 2019-05-16 01:52:07 PM] [client ::1] 1Rate0
+ [Thu 2019-05-16 01:52:07 PM] [client ::1] 2Rate4
+ [Thu 2019-05-16 01:52:07 PM] [client ::1] Select * from category
+ [Thu 2019-05-16 01:52:07 PM] [client ::1] Get service provider data
+ [Thu 2019-05-16 01:52:07 PM] [client ::1] Select * from service_provider
+ [Thu 2019-05-16 01:52:27 PM] [client ::1] Select * from attraction_site where location='entebbe'
+ [Thu 2019-05-16 01:52:27 PM] [client ::1] Select * from site_category where attraction_site=4
+ [Thu 2019-05-16 01:52:27 PM] [client ::1] Select * from category where code='CAT002'
+ [Thu 2019-05-16 01:52:27 PM] [client ::1] 
+ [Thu 2019-05-16 01:52:27 PM] [client ::1] Array
+[Thu 2019-05-16 01:52:27 PM] [client ::1] Select * from site_activity where attraction_site=4
+ [Thu 2019-05-16 01:52:27 PM] [client ::1] Select * from site_rating where attraction_reference="b0ec1bbb-b304-4c3b-9c34-7230c1581dc6"
+ [Thu 2019-05-16 01:52:27 PM] [client ::1] Select * from site_category where attraction_site=6
+ [Thu 2019-05-16 01:52:27 PM] [client ::1] Select * from category where code='CAT001'
+ [Thu 2019-05-16 01:52:27 PM] [client ::1] 
+ [Thu 2019-05-16 01:52:27 PM] [client ::1] Array
+[Thu 2019-05-16 01:52:27 PM] [client ::1] Select * from site_activity where attraction_site=6
+ [Thu 2019-05-16 01:52:27 PM] [client ::1] Select * from site_rating where attraction_reference="871400e4-a9c8-4321-8c73-0e3ed63f4760"
+ [Thu 2019-05-16 01:52:27 PM] [client ::1] 0Rate0
+ [Thu 2019-05-16 01:52:27 PM] [client ::1] 1Rate0
+ [Thu 2019-05-16 01:52:27 PM] [client ::1] 2Rate4
+ [Thu 2019-05-16 01:52:27 PM] [client ::1] Select * from category
+ [Thu 2019-05-16 01:52:27 PM] [client ::1] Get service provider data
+ [Thu 2019-05-16 01:52:27 PM] [client ::1] Select * from service_provider
+ [Thu 2019-05-16 01:52:54 PM] [client ::1] Select * from attraction_site where location='entebbe'
+ [Thu 2019-05-16 01:52:54 PM] [client ::1] Select * from site_category where attraction_site=4
+ [Thu 2019-05-16 01:52:54 PM] [client ::1] Select * from category where code='CAT002'
+ [Thu 2019-05-16 01:52:54 PM] [client ::1] 
+ [Thu 2019-05-16 01:52:54 PM] [client ::1] Array
+[Thu 2019-05-16 01:52:54 PM] [client ::1] Select * from site_activity where attraction_site=4
+ [Thu 2019-05-16 01:52:54 PM] [client ::1] Select * from site_rating where attraction_reference="b0ec1bbb-b304-4c3b-9c34-7230c1581dc6"
+ [Thu 2019-05-16 01:52:54 PM] [client ::1] Select * from site_category where attraction_site=6
+ [Thu 2019-05-16 01:52:54 PM] [client ::1] Select * from category where code='CAT001'
+ [Thu 2019-05-16 01:52:54 PM] [client ::1] 
+ [Thu 2019-05-16 01:52:54 PM] [client ::1] Array
+[Thu 2019-05-16 01:52:54 PM] [client ::1] Select * from site_activity where attraction_site=6
+ [Thu 2019-05-16 01:52:54 PM] [client ::1] Select * from site_rating where attraction_reference="871400e4-a9c8-4321-8c73-0e3ed63f4760"
+ [Thu 2019-05-16 01:52:54 PM] [client ::1] 0Rate0
+ [Thu 2019-05-16 01:52:54 PM] [client ::1] 1Rate0
+ [Thu 2019-05-16 01:52:54 PM] [client ::1] 2Rate4
+ [Thu 2019-05-16 01:53:05 PM] [client ::1] Select * from attraction_site where location='entebbe'
+ [Thu 2019-05-16 01:53:05 PM] [client ::1] Select * from site_category where attraction_site=4
+ [Thu 2019-05-16 01:53:05 PM] [client ::1] Select * from category where code='CAT002'
+ [Thu 2019-05-16 01:53:05 PM] [client ::1] 
+ [Thu 2019-05-16 01:53:05 PM] [client ::1] Array
+[Thu 2019-05-16 01:53:05 PM] [client ::1] Select * from site_activity where attraction_site=4
+ [Thu 2019-05-16 01:53:05 PM] [client ::1] Select * from site_rating where attraction_reference="b0ec1bbb-b304-4c3b-9c34-7230c1581dc6"
+ [Thu 2019-05-16 01:53:05 PM] [client ::1] Select * from site_category where attraction_site=6
+ [Thu 2019-05-16 01:53:05 PM] [client ::1] Select * from category where code='CAT001'
+ [Thu 2019-05-16 01:53:05 PM] [client ::1] 
+ [Thu 2019-05-16 01:53:05 PM] [client ::1] Array
+[Thu 2019-05-16 01:53:05 PM] [client ::1] Select * from site_activity where attraction_site=6
+ [Thu 2019-05-16 01:53:05 PM] [client ::1] Select * from site_rating where attraction_reference="871400e4-a9c8-4321-8c73-0e3ed63f4760"
+ [Thu 2019-05-16 01:53:05 PM] [client ::1] 0Rate0
+ [Thu 2019-05-16 01:53:05 PM] [client ::1] 1Rate0
+ [Thu 2019-05-16 01:53:05 PM] [client ::1] 2Rate4
+ [Thu 2019-05-16 01:53:15 PM] [client ::1] Select * from attraction_site where location='entebbe'
+ [Thu 2019-05-16 01:53:15 PM] [client ::1] Select * from site_category where attraction_site=4
+ [Thu 2019-05-16 01:53:15 PM] [client ::1] Select * from category where code='CAT002'
+ [Thu 2019-05-16 01:53:15 PM] [client ::1] 
+ [Thu 2019-05-16 01:53:15 PM] [client ::1] Array
+[Thu 2019-05-16 01:53:15 PM] [client ::1] Select * from site_activity where attraction_site=4
+ [Thu 2019-05-16 01:53:15 PM] [client ::1] Select * from site_rating where attraction_reference="b0ec1bbb-b304-4c3b-9c34-7230c1581dc6"
+ [Thu 2019-05-16 01:53:15 PM] [client ::1] Select * from site_category where attraction_site=6
+ [Thu 2019-05-16 01:53:15 PM] [client ::1] Select * from category where code='CAT001'
+ [Thu 2019-05-16 01:53:15 PM] [client ::1] 
+ [Thu 2019-05-16 01:53:15 PM] [client ::1] Array
+[Thu 2019-05-16 01:53:15 PM] [client ::1] Select * from site_activity where attraction_site=6
+ [Thu 2019-05-16 01:53:15 PM] [client ::1] Select * from site_rating where attraction_reference="871400e4-a9c8-4321-8c73-0e3ed63f4760"
+ [Thu 2019-05-16 01:53:15 PM] [client ::1] 0Rate0
+ [Thu 2019-05-16 01:53:15 PM] [client ::1] 1Rate0
+ [Thu 2019-05-16 01:53:15 PM] [client ::1] 2Rate4
+ [Thu 2019-05-16 01:53:50 PM] [client ::1] Select * from attraction_site where location='entebbe'
+ [Thu 2019-05-16 01:53:50 PM] [client ::1] Select * from site_category where attraction_site=4
+ [Thu 2019-05-16 01:53:50 PM] [client ::1] Select * from category where code='CAT002'
+ [Thu 2019-05-16 01:53:50 PM] [client ::1] 
+ [Thu 2019-05-16 01:53:50 PM] [client ::1] Array
+[Thu 2019-05-16 01:53:50 PM] [client ::1] Select * from site_activity where attraction_site=4
+ [Thu 2019-05-16 01:53:50 PM] [client ::1] Select * from site_rating where attraction_reference="b0ec1bbb-b304-4c3b-9c34-7230c1581dc6"
+ [Thu 2019-05-16 01:53:50 PM] [client ::1] Select * from site_category where attraction_site=6
+ [Thu 2019-05-16 01:53:50 PM] [client ::1] Select * from category where code='CAT001'
+ [Thu 2019-05-16 01:53:50 PM] [client ::1] 
+ [Thu 2019-05-16 01:53:50 PM] [client ::1] Array
+[Thu 2019-05-16 01:53:50 PM] [client ::1] Select * from site_activity where attraction_site=6
+ [Thu 2019-05-16 01:53:50 PM] [client ::1] Select * from site_rating where attraction_reference="871400e4-a9c8-4321-8c73-0e3ed63f4760"
+ [Thu 2019-05-16 01:53:50 PM] [client ::1] 0Rate0
+ [Thu 2019-05-16 01:53:50 PM] [client ::1] 1Rate0
+ [Thu 2019-05-16 01:53:50 PM] [client ::1] 2Rate4
+ [Thu 2019-05-16 01:53:50 PM] [client ::1] Select * from category
+ [Thu 2019-05-16 01:53:50 PM] [client ::1] Get service provider data
+ [Thu 2019-05-16 01:53:50 PM] [client ::1] Select * from service_provider
+ [Thu 2019-05-16 01:53:50 PM] [client ::1] Select * from attraction_site
+ [Thu 2019-05-16 01:53:50 PM] [client ::1] Select * from site_category where attraction_site=1
+ [Thu 2019-05-16 01:53:50 PM] [client ::1] Select * from category where code='CAT001'
+ [Thu 2019-05-16 01:53:50 PM] [client ::1] 
+ [Thu 2019-05-16 01:53:50 PM] [client ::1] Select * from category where code='CAT004'
+ [Thu 2019-05-16 01:53:50 PM] [client ::1] 
+ [Thu 2019-05-16 01:53:50 PM] [client ::1] Array
+[Thu 2019-05-16 01:53:50 PM] [client ::1] Array
+[Thu 2019-05-16 01:53:50 PM] [client ::1] Select * from site_activity where attraction_site=1
+ [Thu 2019-05-16 01:53:50 PM] [client ::1] Select * from site_rating where attraction_reference="43a3a526-4a62-495b-97eb-6a0a5fe3b4d0"
+ [Thu 2019-05-16 01:53:50 PM] [client ::1] Select * from site_category where attraction_site=3
+ [Thu 2019-05-16 01:53:50 PM] [client ::1] Select * from site_activity where attraction_site=3
+ [Thu 2019-05-16 01:53:50 PM] [client ::1] Select * from site_rating where attraction_reference="1ad9662f-4785-4093-8496-d6142d7004c9"
+ [Thu 2019-05-16 01:53:50 PM] [client ::1] Select * from site_category where attraction_site=4
+ [Thu 2019-05-16 01:53:50 PM] [client ::1] Select * from category where code='CAT002'
+ [Thu 2019-05-16 01:53:50 PM] [client ::1] 
+ [Thu 2019-05-16 01:53:50 PM] [client ::1] Array
+[Thu 2019-05-16 01:53:50 PM] [client ::1] Select * from site_activity where attraction_site=4
+ [Thu 2019-05-16 01:53:50 PM] [client ::1] Select * from site_rating where attraction_reference="b0ec1bbb-b304-4c3b-9c34-7230c1581dc6"
+ [Thu 2019-05-16 01:53:50 PM] [client ::1] Select * from site_category where attraction_site=6
+ [Thu 2019-05-16 01:53:50 PM] [client ::1] Select * from category where code='CAT001'
+ [Thu 2019-05-16 01:53:50 PM] [client ::1] 
+ [Thu 2019-05-16 01:53:50 PM] [client ::1] Array
+[Thu 2019-05-16 01:53:50 PM] [client ::1] Select * from site_activity where attraction_site=6
+ [Thu 2019-05-16 01:53:50 PM] [client ::1] Select * from site_rating where attraction_reference="871400e4-a9c8-4321-8c73-0e3ed63f4760"
+ [Thu 2019-05-16 01:53:50 PM] [client ::1] 0Rate0
+ [Thu 2019-05-16 01:53:50 PM] [client ::1] 1Rate0
+ [Thu 2019-05-16 01:53:50 PM] [client ::1] 2Rate4
+ [Thu 2019-05-16 01:53:50 PM] [client ::1] Select * from category
+ [Thu 2019-05-16 01:53:50 PM] [client ::1] Get service provider data
+ [Thu 2019-05-16 01:53:50 PM] [client ::1] Select * from service_provider
+ [Thu 2019-05-16 01:53:55 PM] [client ::1] Select * from attraction_site where location='kampala'
+ [Thu 2019-05-16 01:53:55 PM] [client ::1] Select * from category
+ [Thu 2019-05-16 01:53:55 PM] [client ::1] Get service provider data
+ [Thu 2019-05-16 01:53:55 PM] [client ::1] Select * from service_provider
+ [Thu 2019-05-16 01:54:44 PM] [client ::1] Select * from attraction_site where location='kampala'
+ [Thu 2019-05-16 01:54:44 PM] [client ::1] Select * from category
+ [Thu 2019-05-16 01:54:44 PM] [client ::1] Get service provider data
+ [Thu 2019-05-16 01:54:44 PM] [client ::1] Select * from service_provider
+ [Thu 2019-05-16 01:55:04 PM] [client ::1] Select * from attraction_site where location='kampala'
+ [Thu 2019-05-16 01:55:04 PM] [client ::1] Select * from category
+ [Thu 2019-05-16 01:55:04 PM] [client ::1] Get service provider data
+ [Thu 2019-05-16 01:55:04 PM] [client ::1] Select * from service_provider
+ [Thu 2019-05-16 01:55:33 PM] [client ::1] Select * from attraction_site where location='kampala'
+ [Thu 2019-05-16 01:55:33 PM] [client ::1] Select * from category
+ [Thu 2019-05-16 01:55:33 PM] [client ::1] Get service provider data
+ [Thu 2019-05-16 01:55:33 PM] [client ::1] Select * from service_provider
+ [Thu 2019-05-16 01:55:51 PM] [client ::1] Select * from attraction_site where location='kampala'
+ [Thu 2019-05-16 01:55:51 PM] [client ::1] Select * from category
+ [Thu 2019-05-16 01:55:51 PM] [client ::1] Get service provider data
+ [Thu 2019-05-16 01:55:51 PM] [client ::1] Select * from service_provider
+ [Thu 2019-05-16 01:56:59 PM] [client ::1] Select * from attraction_site
+ [Thu 2019-05-16 01:56:59 PM] [client ::1] Select * from site_category where attraction_site=1
+ [Thu 2019-05-16 01:56:59 PM] [client ::1] Select * from category where code='CAT001'
+ [Thu 2019-05-16 01:56:59 PM] [client ::1] 
+ [Thu 2019-05-16 01:56:59 PM] [client ::1] Select * from category where code='CAT004'
+ [Thu 2019-05-16 01:56:59 PM] [client ::1] 
+ [Thu 2019-05-16 01:56:59 PM] [client ::1] Array
+[Thu 2019-05-16 01:56:59 PM] [client ::1] Array
+[Thu 2019-05-16 01:56:59 PM] [client ::1] Select * from site_activity where attraction_site=1
+ [Thu 2019-05-16 01:56:59 PM] [client ::1] Select * from site_rating where attraction_reference="43a3a526-4a62-495b-97eb-6a0a5fe3b4d0"
+ [Thu 2019-05-16 01:56:59 PM] [client ::1] Select * from site_category where attraction_site=3
+ [Thu 2019-05-16 01:56:59 PM] [client ::1] Select * from site_activity where attraction_site=3
+ [Thu 2019-05-16 01:56:59 PM] [client ::1] Select * from site_rating where attraction_reference="1ad9662f-4785-4093-8496-d6142d7004c9"
+ [Thu 2019-05-16 01:56:59 PM] [client ::1] Select * from site_category where attraction_site=4
+ [Thu 2019-05-16 01:56:59 PM] [client ::1] Select * from category where code='CAT002'
+ [Thu 2019-05-16 01:56:59 PM] [client ::1] 
+ [Thu 2019-05-16 01:56:59 PM] [client ::1] Array
+[Thu 2019-05-16 01:56:59 PM] [client ::1] Select * from site_activity where attraction_site=4
+ [Thu 2019-05-16 01:56:59 PM] [client ::1] Select * from site_rating where attraction_reference="b0ec1bbb-b304-4c3b-9c34-7230c1581dc6"
+ [Thu 2019-05-16 01:56:59 PM] [client ::1] Select * from site_category where attraction_site=6
+ [Thu 2019-05-16 01:56:59 PM] [client ::1] Select * from category where code='CAT001'
+ [Thu 2019-05-16 01:56:59 PM] [client ::1] 
+ [Thu 2019-05-16 01:56:59 PM] [client ::1] Array
+[Thu 2019-05-16 01:56:59 PM] [client ::1] Select * from site_activity where attraction_site=6
+ [Thu 2019-05-16 01:56:59 PM] [client ::1] Select * from site_rating where attraction_reference="871400e4-a9c8-4321-8c73-0e3ed63f4760"
+ [Thu 2019-05-16 01:56:59 PM] [client ::1] 0Rate0
+ [Thu 2019-05-16 01:56:59 PM] [client ::1] 1Rate0
+ [Thu 2019-05-16 01:56:59 PM] [client ::1] 2Rate4
+ [Thu 2019-05-16 01:56:59 PM] [client ::1] Select * from category
+ [Thu 2019-05-16 01:56:59 PM] [client ::1] Get service provider data
+ [Thu 2019-05-16 01:56:59 PM] [client ::1] Select * from service_provider
+ [Thu 2019-05-16 01:56:59 PM] [client ::1] Select * from attraction_site
+ [Thu 2019-05-16 01:56:59 PM] [client ::1] Select * from site_category where attraction_site=1
+ [Thu 2019-05-16 01:56:59 PM] [client ::1] Select * from category where code='CAT001'
+ [Thu 2019-05-16 01:56:59 PM] [client ::1] 
+ [Thu 2019-05-16 01:56:59 PM] [client ::1] Select * from category where code='CAT004'
+ [Thu 2019-05-16 01:56:59 PM] [client ::1] 
+ [Thu 2019-05-16 01:56:59 PM] [client ::1] Array
+[Thu 2019-05-16 01:56:59 PM] [client ::1] Array
+[Thu 2019-05-16 01:56:59 PM] [client ::1] Select * from site_activity where attraction_site=1
+ [Thu 2019-05-16 01:56:59 PM] [client ::1] Select * from site_rating where attraction_reference="43a3a526-4a62-495b-97eb-6a0a5fe3b4d0"
+ [Thu 2019-05-16 01:56:59 PM] [client ::1] Select * from site_category where attraction_site=3
+ [Thu 2019-05-16 01:56:59 PM] [client ::1] Select * from site_activity where attraction_site=3
+ [Thu 2019-05-16 01:56:59 PM] [client ::1] Select * from site_rating where attraction_reference="1ad9662f-4785-4093-8496-d6142d7004c9"
+ [Thu 2019-05-16 01:56:59 PM] [client ::1] Select * from site_category where attraction_site=4
+ [Thu 2019-05-16 01:56:59 PM] [client ::1] Select * from category where code='CAT002'
+ [Thu 2019-05-16 01:56:59 PM] [client ::1] 
+ [Thu 2019-05-16 01:56:59 PM] [client ::1] Array
+[Thu 2019-05-16 01:56:59 PM] [client ::1] Select * from site_activity where attraction_site=4
+ [Thu 2019-05-16 01:56:59 PM] [client ::1] Select * from site_rating where attraction_reference="b0ec1bbb-b304-4c3b-9c34-7230c1581dc6"
+ [Thu 2019-05-16 01:56:59 PM] [client ::1] Select * from site_category where attraction_site=6
+ [Thu 2019-05-16 01:56:59 PM] [client ::1] Select * from category where code='CAT001'
+ [Thu 2019-05-16 01:56:59 PM] [client ::1] 
+ [Thu 2019-05-16 01:56:59 PM] [client ::1] Array
+[Thu 2019-05-16 01:56:59 PM] [client ::1] Select * from site_activity where attraction_site=6
+ [Thu 2019-05-16 01:56:59 PM] [client ::1] Select * from site_rating where attraction_reference="871400e4-a9c8-4321-8c73-0e3ed63f4760"
+ [Thu 2019-05-16 01:56:59 PM] [client ::1] 0Rate0
+ [Thu 2019-05-16 01:57:00 PM] [client ::1] 1Rate0
+ [Thu 2019-05-16 01:57:00 PM] [client ::1] 2Rate4
+ [Thu 2019-05-16 01:57:00 PM] [client ::1] Select * from category
+ [Thu 2019-05-16 01:57:00 PM] [client ::1] Get service provider data
+ [Thu 2019-05-16 01:57:00 PM] [client ::1] Select * from service_provider
+ [Thu 2019-05-16 01:57:05 PM] [client ::1] Select * from attraction_site where location='entebbe'
+ [Thu 2019-05-16 01:57:05 PM] [client ::1] Select * from site_category where attraction_site=4
+ [Thu 2019-05-16 01:57:05 PM] [client ::1] Select * from category where code='CAT002'
+ [Thu 2019-05-16 01:57:05 PM] [client ::1] 
+ [Thu 2019-05-16 01:57:05 PM] [client ::1] Array
+[Thu 2019-05-16 01:57:05 PM] [client ::1] Select * from site_activity where attraction_site=4
+ [Thu 2019-05-16 01:57:05 PM] [client ::1] Select * from site_rating where attraction_reference="b0ec1bbb-b304-4c3b-9c34-7230c1581dc6"
+ [Thu 2019-05-16 01:57:05 PM] [client ::1] Select * from site_category where attraction_site=6
+ [Thu 2019-05-16 01:57:05 PM] [client ::1] Select * from category where code='CAT001'
+ [Thu 2019-05-16 01:57:05 PM] [client ::1] 
+ [Thu 2019-05-16 01:57:05 PM] [client ::1] Array
+[Thu 2019-05-16 01:57:05 PM] [client ::1] Select * from site_activity where attraction_site=6
+ [Thu 2019-05-16 01:57:05 PM] [client ::1] Select * from site_rating where attraction_reference="871400e4-a9c8-4321-8c73-0e3ed63f4760"
+ [Thu 2019-05-16 01:57:05 PM] [client ::1] 0Rate0
+ [Thu 2019-05-16 01:57:05 PM] [client ::1] 1Rate0
+ [Thu 2019-05-16 01:57:05 PM] [client ::1] 2Rate4
+ [Thu 2019-05-16 01:57:05 PM] [client ::1] Select * from category
+ [Thu 2019-05-16 01:57:05 PM] [client ::1] Get service provider data
+ [Thu 2019-05-16 01:57:05 PM] [client ::1] Select * from service_provider
+ [Thu 2019-05-16 01:57:05 PM] [client ::1] Select * from attraction_site
+ [Thu 2019-05-16 01:57:05 PM] [client ::1] Select * from site_category where attraction_site=1
+ [Thu 2019-05-16 01:57:05 PM] [client ::1] Select * from category where code='CAT001'
+ [Thu 2019-05-16 01:57:05 PM] [client ::1] 
+ [Thu 2019-05-16 01:57:05 PM] [client ::1] Select * from category where code='CAT004'
+ [Thu 2019-05-16 01:57:05 PM] [client ::1] 
+ [Thu 2019-05-16 01:57:05 PM] [client ::1] Array
+[Thu 2019-05-16 01:57:05 PM] [client ::1] Array
+[Thu 2019-05-16 01:57:05 PM] [client ::1] Select * from site_activity where attraction_site=1
+ [Thu 2019-05-16 01:57:05 PM] [client ::1] Select * from site_rating where attraction_reference="43a3a526-4a62-495b-97eb-6a0a5fe3b4d0"
+ [Thu 2019-05-16 01:57:06 PM] [client ::1] Select * from site_category where attraction_site=3
+ [Thu 2019-05-16 01:57:06 PM] [client ::1] Select * from site_activity where attraction_site=3
+ [Thu 2019-05-16 01:57:06 PM] [client ::1] Select * from site_rating where attraction_reference="1ad9662f-4785-4093-8496-d6142d7004c9"
+ [Thu 2019-05-16 01:57:06 PM] [client ::1] Select * from site_category where attraction_site=4
+ [Thu 2019-05-16 01:57:06 PM] [client ::1] Select * from category where code='CAT002'
+ [Thu 2019-05-16 01:57:06 PM] [client ::1] 
+ [Thu 2019-05-16 01:57:06 PM] [client ::1] Array
+[Thu 2019-05-16 01:57:06 PM] [client ::1] Select * from site_activity where attraction_site=4
+ [Thu 2019-05-16 01:57:06 PM] [client ::1] Select * from site_rating where attraction_reference="b0ec1bbb-b304-4c3b-9c34-7230c1581dc6"
+ [Thu 2019-05-16 01:57:06 PM] [client ::1] Select * from site_category where attraction_site=6
+ [Thu 2019-05-16 01:57:06 PM] [client ::1] Select * from category where code='CAT001'
+ [Thu 2019-05-16 01:57:06 PM] [client ::1] 
+ [Thu 2019-05-16 01:57:06 PM] [client ::1] Array
+[Thu 2019-05-16 01:57:06 PM] [client ::1] Select * from site_activity where attraction_site=6
+ [Thu 2019-05-16 01:57:06 PM] [client ::1] Select * from site_rating where attraction_reference="871400e4-a9c8-4321-8c73-0e3ed63f4760"
+ [Thu 2019-05-16 01:57:06 PM] [client ::1] 0Rate0
+ [Thu 2019-05-16 01:57:06 PM] [client ::1] 1Rate0
+ [Thu 2019-05-16 01:57:06 PM] [client ::1] 2Rate4
+ [Thu 2019-05-16 01:57:06 PM] [client ::1] Select * from category
+ [Thu 2019-05-16 01:57:06 PM] [client ::1] Get service provider data
+ [Thu 2019-05-16 01:57:06 PM] [client ::1] Select * from service_provider
+ [Thu 2019-05-16 01:57:09 PM] [client ::1] Select * from site_category where category_code='CAT002'
+ [Thu 2019-05-16 01:57:09 PM] [client ::1] Where or  where location='entebbe' or id=4
+ [Thu 2019-05-16 01:57:09 PM] [client ::1] Select * from attraction_site where location='entebbe' or id=4
+ [Thu 2019-05-16 01:57:09 PM] [client ::1] Select * from site_category where attraction_site=4
+ [Thu 2019-05-16 01:57:09 PM] [client ::1] Select * from category where code='CAT002'
+ [Thu 2019-05-16 01:57:09 PM] [client ::1] 
+ [Thu 2019-05-16 01:57:09 PM] [client ::1] Array
+[Thu 2019-05-16 01:57:09 PM] [client ::1] Select * from site_activity where attraction_site=4
+ [Thu 2019-05-16 01:57:09 PM] [client ::1] Select * from site_rating where attraction_reference="b0ec1bbb-b304-4c3b-9c34-7230c1581dc6"
+ [Thu 2019-05-16 01:57:09 PM] [client ::1] Select * from site_category where attraction_site=6
+ [Thu 2019-05-16 01:57:09 PM] [client ::1] Select * from category where code='CAT001'
+ [Thu 2019-05-16 01:57:09 PM] [client ::1] 
+ [Thu 2019-05-16 01:57:09 PM] [client ::1] Array
+[Thu 2019-05-16 01:57:09 PM] [client ::1] Select * from site_activity where attraction_site=6
+ [Thu 2019-05-16 01:57:09 PM] [client ::1] Select * from site_rating where attraction_reference="871400e4-a9c8-4321-8c73-0e3ed63f4760"
+ [Thu 2019-05-16 01:57:09 PM] [client ::1] 0Rate0
+ [Thu 2019-05-16 01:57:09 PM] [client ::1] 1Rate0
+ [Thu 2019-05-16 01:57:09 PM] [client ::1] 2Rate4
+ [Thu 2019-05-16 01:57:09 PM] [client ::1] Select * from category
+ [Thu 2019-05-16 01:57:09 PM] [client ::1] Get service provider data
+ [Thu 2019-05-16 01:57:09 PM] [client ::1] Select * from service_provider
+ [Thu 2019-05-16 01:57:10 PM] [client ::1] Select * from attraction_site
+ [Thu 2019-05-16 01:57:10 PM] [client ::1] Select * from site_category where attraction_site=1
+ [Thu 2019-05-16 01:57:10 PM] [client ::1] Select * from category where code='CAT001'
+ [Thu 2019-05-16 01:57:10 PM] [client ::1] 
+ [Thu 2019-05-16 01:57:10 PM] [client ::1] Select * from category where code='CAT004'
+ [Thu 2019-05-16 01:57:10 PM] [client ::1] 
+ [Thu 2019-05-16 01:57:10 PM] [client ::1] Array
+[Thu 2019-05-16 01:57:10 PM] [client ::1] Array
+[Thu 2019-05-16 01:57:10 PM] [client ::1] Select * from site_activity where attraction_site=1
+ [Thu 2019-05-16 01:57:10 PM] [client ::1] Select * from site_rating where attraction_reference="43a3a526-4a62-495b-97eb-6a0a5fe3b4d0"
+ [Thu 2019-05-16 01:57:10 PM] [client ::1] Select * from site_category where attraction_site=3
+ [Thu 2019-05-16 01:57:10 PM] [client ::1] Select * from site_activity where attraction_site=3
+ [Thu 2019-05-16 01:57:10 PM] [client ::1] Select * from site_rating where attraction_reference="1ad9662f-4785-4093-8496-d6142d7004c9"
+ [Thu 2019-05-16 01:57:10 PM] [client ::1] Select * from site_category where attraction_site=4
+ [Thu 2019-05-16 01:57:10 PM] [client ::1] Select * from category where code='CAT002'
+ [Thu 2019-05-16 01:57:10 PM] [client ::1] 
+ [Thu 2019-05-16 01:57:10 PM] [client ::1] Array
+[Thu 2019-05-16 01:57:10 PM] [client ::1] Select * from site_activity where attraction_site=4
+ [Thu 2019-05-16 01:57:10 PM] [client ::1] Select * from site_rating where attraction_reference="b0ec1bbb-b304-4c3b-9c34-7230c1581dc6"
+ [Thu 2019-05-16 01:57:10 PM] [client ::1] Select * from site_category where attraction_site=6
+ [Thu 2019-05-16 01:57:10 PM] [client ::1] Select * from category where code='CAT001'
+ [Thu 2019-05-16 01:57:10 PM] [client ::1] 
+ [Thu 2019-05-16 01:57:10 PM] [client ::1] Array
+[Thu 2019-05-16 01:57:10 PM] [client ::1] Select * from site_activity where attraction_site=6
+ [Thu 2019-05-16 01:57:10 PM] [client ::1] Select * from site_rating where attraction_reference="871400e4-a9c8-4321-8c73-0e3ed63f4760"
+ [Thu 2019-05-16 01:57:10 PM] [client ::1] 0Rate0
+ [Thu 2019-05-16 01:57:10 PM] [client ::1] 1Rate0
+ [Thu 2019-05-16 01:57:10 PM] [client ::1] 2Rate4
+ [Thu 2019-05-16 01:57:10 PM] [client ::1] Select * from category
+ [Thu 2019-05-16 01:57:10 PM] [client ::1] Get service provider data
+ [Thu 2019-05-16 01:57:10 PM] [client ::1] Select * from service_provider
+ [Thu 2019-05-16 01:57:14 PM] [client ::1] Select * from site_category where category_code='CAT002'
+ [Thu 2019-05-16 01:57:14 PM] [client ::1] Where or  where id=4
+ [Thu 2019-05-16 01:57:14 PM] [client ::1] Select * from attraction_site where id=4
+ [Thu 2019-05-16 01:57:14 PM] [client ::1] Select * from site_category where attraction_site=4
+ [Thu 2019-05-16 01:57:14 PM] [client ::1] Select * from category where code='CAT002'
+ [Thu 2019-05-16 01:57:14 PM] [client ::1] 
+ [Thu 2019-05-16 01:57:14 PM] [client ::1] Array
+[Thu 2019-05-16 01:57:14 PM] [client ::1] Select * from site_activity where attraction_site=4
+ [Thu 2019-05-16 01:57:14 PM] [client ::1] Select * from site_rating where attraction_reference="b0ec1bbb-b304-4c3b-9c34-7230c1581dc6"
+ [Thu 2019-05-16 01:57:14 PM] [client ::1] Select * from category
+ [Thu 2019-05-16 01:57:14 PM] [client ::1] Get service provider data
+ [Thu 2019-05-16 01:57:14 PM] [client ::1] Select * from service_provider
+ [Thu 2019-05-16 02:11:14 PM] [client ::1] Select * from site_category where category_code='CAT002'
+ [Thu 2019-05-16 02:11:14 PM] [client ::1] Where or  where id=4
+ [Thu 2019-05-16 02:11:14 PM] [client ::1] Select * from attraction_site where id=4
+ [Thu 2019-05-16 02:11:14 PM] [client ::1] Select * from site_category where attraction_site=4
+ [Thu 2019-05-16 02:11:14 PM] [client ::1] Select * from category where code='CAT002'
+ [Thu 2019-05-16 02:11:14 PM] [client ::1] 
+ [Thu 2019-05-16 02:11:14 PM] [client ::1] Array
+[Thu 2019-05-16 02:11:14 PM] [client ::1] Select * from site_activity where attraction_site=4
+ [Thu 2019-05-16 02:11:14 PM] [client ::1] Select * from site_rating where attraction_reference="b0ec1bbb-b304-4c3b-9c34-7230c1581dc6"
+ [Thu 2019-05-16 02:11:14 PM] [client ::1] Select * from category
+ [Thu 2019-05-16 02:11:14 PM] [client ::1] Get service provider data
+ [Thu 2019-05-16 02:11:15 PM] [client ::1] Select * from service_provider
+ [Thu 2019-05-16 02:11:21 PM] [client ::1] Select * from attraction_site
+ [Thu 2019-05-16 02:11:21 PM] [client ::1] Select * from site_category where attraction_site=1
+ [Thu 2019-05-16 02:11:21 PM] [client ::1] Select * from category where code='CAT001'
+ [Thu 2019-05-16 02:11:21 PM] [client ::1] 
+ [Thu 2019-05-16 02:11:21 PM] [client ::1] Select * from category where code='CAT004'
+ [Thu 2019-05-16 02:11:21 PM] [client ::1] 
+ [Thu 2019-05-16 02:11:21 PM] [client ::1] Array
+[Thu 2019-05-16 02:11:21 PM] [client ::1] Array
+[Thu 2019-05-16 02:11:21 PM] [client ::1] Select * from site_activity where attraction_site=1
+ [Thu 2019-05-16 02:11:21 PM] [client ::1] Select * from site_rating where attraction_reference="43a3a526-4a62-495b-97eb-6a0a5fe3b4d0"
+ [Thu 2019-05-16 02:11:21 PM] [client ::1] Select * from site_category where attraction_site=3
+ [Thu 2019-05-16 02:11:21 PM] [client ::1] Select * from site_activity where attraction_site=3
+ [Thu 2019-05-16 02:11:21 PM] [client ::1] Select * from site_rating where attraction_reference="1ad9662f-4785-4093-8496-d6142d7004c9"
+ [Thu 2019-05-16 02:11:21 PM] [client ::1] Select * from site_category where attraction_site=4
+ [Thu 2019-05-16 02:11:21 PM] [client ::1] Select * from category where code='CAT002'
+ [Thu 2019-05-16 02:11:21 PM] [client ::1] 
+ [Thu 2019-05-16 02:11:21 PM] [client ::1] Array
+[Thu 2019-05-16 02:11:21 PM] [client ::1] Select * from site_activity where attraction_site=4
+ [Thu 2019-05-16 02:11:21 PM] [client ::1] Select * from site_rating where attraction_reference="b0ec1bbb-b304-4c3b-9c34-7230c1581dc6"
+ [Thu 2019-05-16 02:11:21 PM] [client ::1] Select * from site_category where attraction_site=6
+ [Thu 2019-05-16 02:11:21 PM] [client ::1] Select * from category where code='CAT001'
+ [Thu 2019-05-16 02:11:21 PM] [client ::1] 
+ [Thu 2019-05-16 02:11:21 PM] [client ::1] Array
+[Thu 2019-05-16 02:11:21 PM] [client ::1] Select * from site_activity where attraction_site=6
+ [Thu 2019-05-16 02:11:21 PM] [client ::1] Select * from site_rating where attraction_reference="871400e4-a9c8-4321-8c73-0e3ed63f4760"
+ [Thu 2019-05-16 02:11:21 PM] [client ::1] 0Rate0
+ [Thu 2019-05-16 02:11:21 PM] [client ::1] 1Rate0
+ [Thu 2019-05-16 02:11:21 PM] [client ::1] 2Rate4
+ [Thu 2019-05-16 02:11:21 PM] [client ::1] Select * from category
+ [Thu 2019-05-16 02:11:22 PM] [client ::1] Get service provider data
+ [Thu 2019-05-16 02:11:22 PM] [client ::1] Select * from service_provider
+ [Thu 2019-05-16 02:11:22 PM] [client ::1] Select * from attraction_site
+ [Thu 2019-05-16 02:11:22 PM] [client ::1] Select * from site_category where attraction_site=1
+ [Thu 2019-05-16 02:11:22 PM] [client ::1] Select * from category where code='CAT001'
+ [Thu 2019-05-16 02:11:22 PM] [client ::1] 
+ [Thu 2019-05-16 02:11:22 PM] [client ::1] Select * from category where code='CAT004'
+ [Thu 2019-05-16 02:11:22 PM] [client ::1] 
+ [Thu 2019-05-16 02:11:22 PM] [client ::1] Array
+[Thu 2019-05-16 02:11:22 PM] [client ::1] Array
+[Thu 2019-05-16 02:11:22 PM] [client ::1] Select * from site_activity where attraction_site=1
+ [Thu 2019-05-16 02:11:22 PM] [client ::1] Select * from site_rating where attraction_reference="43a3a526-4a62-495b-97eb-6a0a5fe3b4d0"
+ [Thu 2019-05-16 02:11:22 PM] [client ::1] Select * from site_category where attraction_site=3
+ [Thu 2019-05-16 02:11:22 PM] [client ::1] Select * from site_activity where attraction_site=3
+ [Thu 2019-05-16 02:11:22 PM] [client ::1] Select * from site_rating where attraction_reference="1ad9662f-4785-4093-8496-d6142d7004c9"
+ [Thu 2019-05-16 02:11:22 PM] [client ::1] Select * from site_category where attraction_site=4
+ [Thu 2019-05-16 02:11:22 PM] [client ::1] Select * from category where code='CAT002'
+ [Thu 2019-05-16 02:11:22 PM] [client ::1] 
+ [Thu 2019-05-16 02:11:22 PM] [client ::1] Array
+[Thu 2019-05-16 02:11:22 PM] [client ::1] Select * from site_activity where attraction_site=4
+ [Thu 2019-05-16 02:11:22 PM] [client ::1] Select * from site_rating where attraction_reference="b0ec1bbb-b304-4c3b-9c34-7230c1581dc6"
+ [Thu 2019-05-16 02:11:22 PM] [client ::1] Select * from site_category where attraction_site=6
+ [Thu 2019-05-16 02:11:22 PM] [client ::1] Select * from category where code='CAT001'
+ [Thu 2019-05-16 02:11:22 PM] [client ::1] 
+ [Thu 2019-05-16 02:11:22 PM] [client ::1] Array
+[Thu 2019-05-16 02:11:22 PM] [client ::1] Select * from site_activity where attraction_site=6
+ [Thu 2019-05-16 02:11:22 PM] [client ::1] Select * from site_rating where attraction_reference="871400e4-a9c8-4321-8c73-0e3ed63f4760"
+ [Thu 2019-05-16 02:11:22 PM] [client ::1] 0Rate0
+ [Thu 2019-05-16 02:11:22 PM] [client ::1] 1Rate0
+ [Thu 2019-05-16 02:11:22 PM] [client ::1] 2Rate4
+ [Thu 2019-05-16 02:11:22 PM] [client ::1] Select * from category
+ [Thu 2019-05-16 02:11:22 PM] [client ::1] Get service provider data
+ [Thu 2019-05-16 02:11:22 PM] [client ::1] Select * from service_provider
+ [Thu 2019-05-16 02:11:40 PM] [client ::1] Select * from attraction_site
+ [Thu 2019-05-16 02:11:40 PM] [client ::1] Select * from site_category where attraction_site=1
+ [Thu 2019-05-16 02:11:40 PM] [client ::1] Select * from category where code='CAT001'
+ [Thu 2019-05-16 02:11:40 PM] [client ::1] 
+ [Thu 2019-05-16 02:11:40 PM] [client ::1] Select * from category where code='CAT004'
+ [Thu 2019-05-16 02:11:40 PM] [client ::1] 
+ [Thu 2019-05-16 02:11:40 PM] [client ::1] Array
+[Thu 2019-05-16 02:11:40 PM] [client ::1] Array
+[Thu 2019-05-16 02:11:40 PM] [client ::1] Select * from site_activity where attraction_site=1
+ [Thu 2019-05-16 02:11:40 PM] [client ::1] Select * from site_rating where attraction_reference="43a3a526-4a62-495b-97eb-6a0a5fe3b4d0"
+ [Thu 2019-05-16 02:11:40 PM] [client ::1] Select * from site_category where attraction_site=3
+ [Thu 2019-05-16 02:11:40 PM] [client ::1] Select * from site_activity where attraction_site=3
+ [Thu 2019-05-16 02:11:40 PM] [client ::1] Select * from site_rating where attraction_reference="1ad9662f-4785-4093-8496-d6142d7004c9"
+ [Thu 2019-05-16 02:11:40 PM] [client ::1] Select * from site_category where attraction_site=4
+ [Thu 2019-05-16 02:11:40 PM] [client ::1] Select * from category where code='CAT002'
+ [Thu 2019-05-16 02:11:40 PM] [client ::1] 
+ [Thu 2019-05-16 02:11:40 PM] [client ::1] Array
+[Thu 2019-05-16 02:11:40 PM] [client ::1] Select * from site_activity where attraction_site=4
+ [Thu 2019-05-16 02:11:40 PM] [client ::1] Select * from site_rating where attraction_reference="b0ec1bbb-b304-4c3b-9c34-7230c1581dc6"
+ [Thu 2019-05-16 02:11:40 PM] [client ::1] Select * from site_category where attraction_site=6
+ [Thu 2019-05-16 02:11:40 PM] [client ::1] Select * from category where code='CAT001'
+ [Thu 2019-05-16 02:11:40 PM] [client ::1] 
+ [Thu 2019-05-16 02:11:40 PM] [client ::1] Array
+[Thu 2019-05-16 02:11:40 PM] [client ::1] Select * from site_activity where attraction_site=6
+ [Thu 2019-05-16 02:11:40 PM] [client ::1] Select * from site_rating where attraction_reference="871400e4-a9c8-4321-8c73-0e3ed63f4760"
+ [Thu 2019-05-16 02:11:40 PM] [client ::1] 0Rate0
+ [Thu 2019-05-16 02:11:40 PM] [client ::1] 1Rate0
+ [Thu 2019-05-16 02:11:40 PM] [client ::1] 2Rate4
+ [Thu 2019-05-16 02:11:40 PM] [client ::1] Select * from category
+ [Thu 2019-05-16 02:11:40 PM] [client ::1] Get service provider data
+ [Thu 2019-05-16 02:11:40 PM] [client ::1] Select * from service_provider
+ [Thu 2019-05-16 02:11:43 PM] [client ::1] Select * from attraction_site
+ [Thu 2019-05-16 02:11:43 PM] [client ::1] Select * from site_category where attraction_site=1
+ [Thu 2019-05-16 02:11:43 PM] [client ::1] Select * from category where code='CAT001'
+ [Thu 2019-05-16 02:11:43 PM] [client ::1] 
+ [Thu 2019-05-16 02:11:43 PM] [client ::1] Select * from category where code='CAT004'
+ [Thu 2019-05-16 02:11:43 PM] [client ::1] 
+ [Thu 2019-05-16 02:11:43 PM] [client ::1] Array
+[Thu 2019-05-16 02:11:43 PM] [client ::1] Array
+[Thu 2019-05-16 02:11:43 PM] [client ::1] Select * from site_activity where attraction_site=1
+ [Thu 2019-05-16 02:11:43 PM] [client ::1] Select * from site_rating where attraction_reference="43a3a526-4a62-495b-97eb-6a0a5fe3b4d0"
+ [Thu 2019-05-16 02:11:43 PM] [client ::1] Select * from site_category where attraction_site=3
+ [Thu 2019-05-16 02:11:43 PM] [client ::1] Select * from site_activity where attraction_site=3
+ [Thu 2019-05-16 02:11:43 PM] [client ::1] Select * from site_rating where attraction_reference="1ad9662f-4785-4093-8496-d6142d7004c9"
+ [Thu 2019-05-16 02:11:43 PM] [client ::1] Select * from site_category where attraction_site=4
+ [Thu 2019-05-16 02:11:43 PM] [client ::1] Select * from category where code='CAT002'
+ [Thu 2019-05-16 02:11:43 PM] [client ::1] 
+ [Thu 2019-05-16 02:11:43 PM] [client ::1] Array
+[Thu 2019-05-16 02:11:43 PM] [client ::1] Select * from site_activity where attraction_site=4
+ [Thu 2019-05-16 02:11:43 PM] [client ::1] Select * from site_rating where attraction_reference="b0ec1bbb-b304-4c3b-9c34-7230c1581dc6"
+ [Thu 2019-05-16 02:11:43 PM] [client ::1] Select * from site_category where attraction_site=6
+ [Thu 2019-05-16 02:11:43 PM] [client ::1] Select * from category where code='CAT001'
+ [Thu 2019-05-16 02:11:43 PM] [client ::1] 
+ [Thu 2019-05-16 02:11:43 PM] [client ::1] Array
+[Thu 2019-05-16 02:11:43 PM] [client ::1] Select * from site_activity where attraction_site=6
+ [Thu 2019-05-16 02:11:43 PM] [client ::1] Select * from site_rating where attraction_reference="871400e4-a9c8-4321-8c73-0e3ed63f4760"
+ [Thu 2019-05-16 02:11:43 PM] [client ::1] 0Rate0
+ [Thu 2019-05-16 02:11:43 PM] [client ::1] 1Rate0
+ [Thu 2019-05-16 02:11:43 PM] [client ::1] 2Rate4
+ [Thu 2019-05-16 02:11:43 PM] [client ::1] Select * from category
+ [Thu 2019-05-16 02:11:43 PM] [client ::1] Get service provider data
+ [Thu 2019-05-16 02:11:43 PM] [client ::1] Select * from service_provider
+ [Thu 2019-05-16 02:12:16 PM] [client ::1] Select * from attraction_site
+ [Thu 2019-05-16 02:12:16 PM] [client ::1] Select * from site_category where attraction_site=1
+ [Thu 2019-05-16 02:12:16 PM] [client ::1] Select * from category where code='CAT001'
+ [Thu 2019-05-16 02:12:16 PM] [client ::1] 
+ [Thu 2019-05-16 02:12:16 PM] [client ::1] Select * from category where code='CAT004'
+ [Thu 2019-05-16 02:12:16 PM] [client ::1] 
+ [Thu 2019-05-16 02:12:16 PM] [client ::1] Array
+[Thu 2019-05-16 02:12:16 PM] [client ::1] Array
+[Thu 2019-05-16 02:12:16 PM] [client ::1] Select * from site_activity where attraction_site=1
+ [Thu 2019-05-16 02:12:16 PM] [client ::1] Select * from site_rating where attraction_reference="43a3a526-4a62-495b-97eb-6a0a5fe3b4d0"
+ [Thu 2019-05-16 02:12:16 PM] [client ::1] Select * from site_category where attraction_site=3
+ [Thu 2019-05-16 02:12:16 PM] [client ::1] Select * from site_activity where attraction_site=3
+ [Thu 2019-05-16 02:12:16 PM] [client ::1] Select * from site_rating where attraction_reference="1ad9662f-4785-4093-8496-d6142d7004c9"
+ [Thu 2019-05-16 02:12:16 PM] [client ::1] Select * from site_category where attraction_site=4
+ [Thu 2019-05-16 02:12:16 PM] [client ::1] Select * from category where code='CAT002'
+ [Thu 2019-05-16 02:12:16 PM] [client ::1] 
+ [Thu 2019-05-16 02:12:16 PM] [client ::1] Array
+[Thu 2019-05-16 02:12:16 PM] [client ::1] Select * from site_activity where attraction_site=4
+ [Thu 2019-05-16 02:12:16 PM] [client ::1] Select * from site_rating where attraction_reference="b0ec1bbb-b304-4c3b-9c34-7230c1581dc6"
+ [Thu 2019-05-16 02:12:16 PM] [client ::1] Select * from site_category where attraction_site=6
+ [Thu 2019-05-16 02:12:16 PM] [client ::1] Select * from category where code='CAT001'
+ [Thu 2019-05-16 02:12:16 PM] [client ::1] 
+ [Thu 2019-05-16 02:12:16 PM] [client ::1] Array
+[Thu 2019-05-16 02:12:16 PM] [client ::1] Select * from site_activity where attraction_site=6
+ [Thu 2019-05-16 02:12:16 PM] [client ::1] Select * from site_rating where attraction_reference="871400e4-a9c8-4321-8c73-0e3ed63f4760"
+ [Thu 2019-05-16 02:12:16 PM] [client ::1] 0Rate0
+ [Thu 2019-05-16 02:12:16 PM] [client ::1] 1Rate0
+ [Thu 2019-05-16 02:12:16 PM] [client ::1] 2Rate4
+ [Thu 2019-05-16 02:12:16 PM] [client ::1] Select * from category
+ [Thu 2019-05-16 02:12:16 PM] [client ::1] Get service provider data
+ [Thu 2019-05-16 02:12:16 PM] [client ::1] Select * from service_provider
+ [Thu 2019-05-16 02:12:17 PM] [client ::1] Select * from attraction_site
+ [Thu 2019-05-16 02:12:17 PM] [client ::1] Select * from site_category where attraction_site=1
+ [Thu 2019-05-16 02:12:17 PM] [client ::1] Select * from category where code='CAT001'
+ [Thu 2019-05-16 02:12:17 PM] [client ::1] 
+ [Thu 2019-05-16 02:12:17 PM] [client ::1] Select * from category where code='CAT004'
+ [Thu 2019-05-16 02:12:17 PM] [client ::1] 
+ [Thu 2019-05-16 02:12:17 PM] [client ::1] Array
+[Thu 2019-05-16 02:12:17 PM] [client ::1] Array
+[Thu 2019-05-16 02:12:17 PM] [client ::1] Select * from site_activity where attraction_site=1
+ [Thu 2019-05-16 02:12:17 PM] [client ::1] Select * from site_rating where attraction_reference="43a3a526-4a62-495b-97eb-6a0a5fe3b4d0"
+ [Thu 2019-05-16 02:12:17 PM] [client ::1] Select * from site_category where attraction_site=3
+ [Thu 2019-05-16 02:12:17 PM] [client ::1] Select * from site_activity where attraction_site=3
+ [Thu 2019-05-16 02:12:17 PM] [client ::1] Select * from site_rating where attraction_reference="1ad9662f-4785-4093-8496-d6142d7004c9"
+ [Thu 2019-05-16 02:12:17 PM] [client ::1] Select * from site_category where attraction_site=4
+ [Thu 2019-05-16 02:12:17 PM] [client ::1] Select * from category where code='CAT002'
+ [Thu 2019-05-16 02:12:17 PM] [client ::1] 
+ [Thu 2019-05-16 02:12:17 PM] [client ::1] Array
+[Thu 2019-05-16 02:12:17 PM] [client ::1] Select * from site_activity where attraction_site=4
+ [Thu 2019-05-16 02:12:17 PM] [client ::1] Select * from site_rating where attraction_reference="b0ec1bbb-b304-4c3b-9c34-7230c1581dc6"
+ [Thu 2019-05-16 02:12:17 PM] [client ::1] Select * from site_category where attraction_site=6
+ [Thu 2019-05-16 02:12:17 PM] [client ::1] Select * from category where code='CAT001'
+ [Thu 2019-05-16 02:12:17 PM] [client ::1] 
+ [Thu 2019-05-16 02:12:17 PM] [client ::1] Array
+[Thu 2019-05-16 02:12:17 PM] [client ::1] Select * from site_activity where attraction_site=6
+ [Thu 2019-05-16 02:12:17 PM] [client ::1] Select * from site_rating where attraction_reference="871400e4-a9c8-4321-8c73-0e3ed63f4760"
+ [Thu 2019-05-16 02:12:17 PM] [client ::1] 0Rate0
+ [Thu 2019-05-16 02:12:17 PM] [client ::1] 1Rate0
+ [Thu 2019-05-16 02:12:17 PM] [client ::1] 2Rate4
+ [Thu 2019-05-16 02:12:17 PM] [client ::1] Select * from category
+ [Thu 2019-05-16 02:12:17 PM] [client ::1] Get service provider data
+ [Thu 2019-05-16 02:12:17 PM] [client ::1] Select * from service_provider
+ [Thu 2019-05-16 02:48:57 PM] [client ::1] Select * from category
+ [Thu 2019-05-16 02:49:13 PM] [client ::1] Select * from category
+ [Thu 2019-05-16 02:52:31 PM] [client ::1] Select * from attraction_site
+ [Thu 2019-05-16 02:52:31 PM] [client ::1] Select * from site_category where attraction_site=1
+ [Thu 2019-05-16 02:52:31 PM] [client ::1] Select * from category where code='CAT001'
+ [Thu 2019-05-16 02:52:31 PM] [client ::1] 
+ [Thu 2019-05-16 02:52:31 PM] [client ::1] Select * from category where code='CAT004'
+ [Thu 2019-05-16 02:52:31 PM] [client ::1] 
+ [Thu 2019-05-16 02:52:31 PM] [client ::1] Array
+[Thu 2019-05-16 02:52:31 PM] [client ::1] Array
+[Thu 2019-05-16 02:52:31 PM] [client ::1] Select * from site_activity where attraction_site=1
+ [Thu 2019-05-16 02:52:31 PM] [client ::1] Select * from site_rating where attraction_reference="43a3a526-4a62-495b-97eb-6a0a5fe3b4d0"
+ [Thu 2019-05-16 02:52:31 PM] [client ::1] Select * from site_category where attraction_site=3
+ [Thu 2019-05-16 02:52:31 PM] [client ::1] Select * from site_activity where attraction_site=3
+ [Thu 2019-05-16 02:52:31 PM] [client ::1] Select * from site_rating where attraction_reference="1ad9662f-4785-4093-8496-d6142d7004c9"
+ [Thu 2019-05-16 02:52:31 PM] [client ::1] Select * from site_category where attraction_site=4
+ [Thu 2019-05-16 02:52:31 PM] [client ::1] Select * from category where code='CAT002'
+ [Thu 2019-05-16 02:52:31 PM] [client ::1] 
+ [Thu 2019-05-16 02:52:31 PM] [client ::1] Array
+[Thu 2019-05-16 02:52:31 PM] [client ::1] Select * from site_activity where attraction_site=4
+ [Thu 2019-05-16 02:52:31 PM] [client ::1] Select * from site_rating where attraction_reference="b0ec1bbb-b304-4c3b-9c34-7230c1581dc6"
+ [Thu 2019-05-16 02:52:31 PM] [client ::1] Select * from site_category where attraction_site=6
+ [Thu 2019-05-16 02:52:31 PM] [client ::1] Select * from category where code='CAT001'
+ [Thu 2019-05-16 02:52:31 PM] [client ::1] 
+ [Thu 2019-05-16 02:52:31 PM] [client ::1] Array
+[Thu 2019-05-16 02:52:31 PM] [client ::1] Select * from site_activity where attraction_site=6
+ [Thu 2019-05-16 02:52:31 PM] [client ::1] Select * from site_rating where attraction_reference="871400e4-a9c8-4321-8c73-0e3ed63f4760"
+ [Thu 2019-05-16 02:52:31 PM] [client ::1] 0Rate0
+ [Thu 2019-05-16 02:52:31 PM] [client ::1] 1Rate0
+ [Thu 2019-05-16 02:52:31 PM] [client ::1] 2Rate4
+ [Thu 2019-05-16 02:52:31 PM] [client ::1] Select * from category
+ [Thu 2019-05-16 02:52:31 PM] [client ::1] Get service provider data
+ [Thu 2019-05-16 02:52:31 PM] [client ::1] Select * from service_provider
+ [Thu 2019-05-16 02:52:32 PM] [client ::1] Select * from attraction_site
+ [Thu 2019-05-16 02:52:32 PM] [client ::1] Select * from site_category where attraction_site=1
+ [Thu 2019-05-16 02:52:32 PM] [client ::1] Select * from category where code='CAT001'
+ [Thu 2019-05-16 02:52:32 PM] [client ::1] 
+ [Thu 2019-05-16 02:52:32 PM] [client ::1] Select * from category where code='CAT004'
+ [Thu 2019-05-16 02:52:32 PM] [client ::1] 
+ [Thu 2019-05-16 02:52:32 PM] [client ::1] Array
+[Thu 2019-05-16 02:52:32 PM] [client ::1] Array
+[Thu 2019-05-16 02:52:32 PM] [client ::1] Select * from site_activity where attraction_site=1
+ [Thu 2019-05-16 02:52:32 PM] [client ::1] Select * from site_rating where attraction_reference="43a3a526-4a62-495b-97eb-6a0a5fe3b4d0"
+ [Thu 2019-05-16 02:52:32 PM] [client ::1] Select * from site_category where attraction_site=3
+ [Thu 2019-05-16 02:52:32 PM] [client ::1] Select * from site_activity where attraction_site=3
+ [Thu 2019-05-16 02:52:32 PM] [client ::1] Select * from site_rating where attraction_reference="1ad9662f-4785-4093-8496-d6142d7004c9"
+ [Thu 2019-05-16 02:52:32 PM] [client ::1] Select * from site_category where attraction_site=4
+ [Thu 2019-05-16 02:52:32 PM] [client ::1] Select * from category where code='CAT002'
+ [Thu 2019-05-16 02:52:32 PM] [client ::1] 
+ [Thu 2019-05-16 02:52:32 PM] [client ::1] Array
+[Thu 2019-05-16 02:52:32 PM] [client ::1] Select * from site_activity where attraction_site=4
+ [Thu 2019-05-16 02:52:32 PM] [client ::1] Select * from site_rating where attraction_reference="b0ec1bbb-b304-4c3b-9c34-7230c1581dc6"
+ [Thu 2019-05-16 02:52:32 PM] [client ::1] Select * from site_category where attraction_site=6
+ [Thu 2019-05-16 02:52:32 PM] [client ::1] Select * from category where code='CAT001'
+ [Thu 2019-05-16 02:52:32 PM] [client ::1] 
+ [Thu 2019-05-16 02:52:32 PM] [client ::1] Array
+[Thu 2019-05-16 02:52:32 PM] [client ::1] Select * from site_activity where attraction_site=6
+ [Thu 2019-05-16 02:52:32 PM] [client ::1] Select * from site_rating where attraction_reference="871400e4-a9c8-4321-8c73-0e3ed63f4760"
+ [Thu 2019-05-16 02:52:32 PM] [client ::1] 0Rate0
+ [Thu 2019-05-16 02:52:32 PM] [client ::1] 1Rate0
+ [Thu 2019-05-16 02:52:32 PM] [client ::1] 2Rate4
+ [Thu 2019-05-16 02:52:32 PM] [client ::1] Select * from category
+ [Thu 2019-05-16 02:52:32 PM] [client ::1] Get service provider data
+ [Thu 2019-05-16 02:52:32 PM] [client ::1] Select * from service_provider
+ [Thu 2019-05-16 03:21:22 PM] [client ::1] Select * from attraction_site
+ [Thu 2019-05-16 03:21:22 PM] [client ::1] Select * from site_category where attraction_site=1
+ [Thu 2019-05-16 03:21:22 PM] [client ::1] Select * from category where code='CAT001'
+ [Thu 2019-05-16 03:21:22 PM] [client ::1] 
+ [Thu 2019-05-16 03:21:22 PM] [client ::1] Select * from category where code='CAT004'
+ [Thu 2019-05-16 03:21:22 PM] [client ::1] 
+ [Thu 2019-05-16 03:21:22 PM] [client ::1] Array
+[Thu 2019-05-16 03:21:22 PM] [client ::1] Array
+[Thu 2019-05-16 03:21:22 PM] [client ::1] Select * from site_activity where attraction_site=1
+ [Thu 2019-05-16 03:21:22 PM] [client ::1] Select * from site_rating where attraction_reference="43a3a526-4a62-495b-97eb-6a0a5fe3b4d0"
+ [Thu 2019-05-16 03:21:23 PM] [client ::1] Select * from site_category where attraction_site=3
+ [Thu 2019-05-16 03:21:23 PM] [client ::1] Select * from site_activity where attraction_site=3
+ [Thu 2019-05-16 03:21:23 PM] [client ::1] Select * from site_rating where attraction_reference="1ad9662f-4785-4093-8496-d6142d7004c9"
+ [Thu 2019-05-16 03:21:23 PM] [client ::1] Select * from site_category where attraction_site=4
+ [Thu 2019-05-16 03:21:23 PM] [client ::1] Select * from category where code='CAT002'
+ [Thu 2019-05-16 03:21:23 PM] [client ::1] 
+ [Thu 2019-05-16 03:21:23 PM] [client ::1] Array
+[Thu 2019-05-16 03:21:23 PM] [client ::1] Select * from site_activity where attraction_site=4
+ [Thu 2019-05-16 03:21:23 PM] [client ::1] Select * from site_rating where attraction_reference="b0ec1bbb-b304-4c3b-9c34-7230c1581dc6"
+ [Thu 2019-05-16 03:21:23 PM] [client ::1] Select * from site_category where attraction_site=6
+ [Thu 2019-05-16 03:21:23 PM] [client ::1] Select * from category where code='CAT001'
+ [Thu 2019-05-16 03:21:23 PM] [client ::1] 
+ [Thu 2019-05-16 03:21:23 PM] [client ::1] Array
+[Thu 2019-05-16 03:21:23 PM] [client ::1] Select * from site_activity where attraction_site=6
+ [Thu 2019-05-16 03:21:23 PM] [client ::1] Select * from site_rating where attraction_reference="871400e4-a9c8-4321-8c73-0e3ed63f4760"
+ [Thu 2019-05-16 03:21:23 PM] [client ::1] 0Rate0
+ [Thu 2019-05-16 03:21:23 PM] [client ::1] 1Rate0
+ [Thu 2019-05-16 03:21:23 PM] [client ::1] 2Rate4
+ [Thu 2019-05-16 03:21:23 PM] [client ::1] Select * from category
+ [Thu 2019-05-16 03:21:23 PM] [client ::1] Get service provider data
+ [Thu 2019-05-16 03:21:23 PM] [client ::1] Select * from service_provider
+ [Thu 2019-05-16 03:21:23 PM] [client ::1] Select * from attraction_site
+ [Thu 2019-05-16 03:21:23 PM] [client ::1] Select * from site_category where attraction_site=1
+ [Thu 2019-05-16 03:21:23 PM] [client ::1] Select * from category where code='CAT001'
+ [Thu 2019-05-16 03:21:23 PM] [client ::1] 
+ [Thu 2019-05-16 03:21:23 PM] [client ::1] Select * from category where code='CAT004'
+ [Thu 2019-05-16 03:21:23 PM] [client ::1] 
+ [Thu 2019-05-16 03:21:23 PM] [client ::1] Array
+[Thu 2019-05-16 03:21:23 PM] [client ::1] Array
+[Thu 2019-05-16 03:21:23 PM] [client ::1] Select * from site_activity where attraction_site=1
+ [Thu 2019-05-16 03:21:23 PM] [client ::1] Select * from site_rating where attraction_reference="43a3a526-4a62-495b-97eb-6a0a5fe3b4d0"
+ [Thu 2019-05-16 03:21:23 PM] [client ::1] Select * from site_category where attraction_site=3
+ [Thu 2019-05-16 03:21:23 PM] [client ::1] Select * from site_activity where attraction_site=3
+ [Thu 2019-05-16 03:21:23 PM] [client ::1] Select * from site_rating where attraction_reference="1ad9662f-4785-4093-8496-d6142d7004c9"
+ [Thu 2019-05-16 03:21:23 PM] [client ::1] Select * from site_category where attraction_site=4
+ [Thu 2019-05-16 03:21:23 PM] [client ::1] Select * from category where code='CAT002'
+ [Thu 2019-05-16 03:21:23 PM] [client ::1] 
+ [Thu 2019-05-16 03:21:23 PM] [client ::1] Array
+[Thu 2019-05-16 03:21:23 PM] [client ::1] Select * from site_activity where attraction_site=4
+ [Thu 2019-05-16 03:21:23 PM] [client ::1] Select * from site_rating where attraction_reference="b0ec1bbb-b304-4c3b-9c34-7230c1581dc6"
+ [Thu 2019-05-16 03:21:23 PM] [client ::1] Select * from site_category where attraction_site=6
+ [Thu 2019-05-16 03:21:23 PM] [client ::1] Select * from category where code='CAT001'
+ [Thu 2019-05-16 03:21:23 PM] [client ::1] 
+ [Thu 2019-05-16 03:21:23 PM] [client ::1] Array
+[Thu 2019-05-16 03:21:23 PM] [client ::1] Select * from site_activity where attraction_site=6
+ [Thu 2019-05-16 03:21:23 PM] [client ::1] Select * from site_rating where attraction_reference="871400e4-a9c8-4321-8c73-0e3ed63f4760"
+ [Thu 2019-05-16 03:21:23 PM] [client ::1] 0Rate0
+ [Thu 2019-05-16 03:21:23 PM] [client ::1] 1Rate0
+ [Thu 2019-05-16 03:21:23 PM] [client ::1] 2Rate4
+ [Thu 2019-05-16 03:21:23 PM] [client ::1] Select * from category
+ [Thu 2019-05-16 03:21:23 PM] [client ::1] Get service provider data
+ [Thu 2019-05-16 03:21:23 PM] [client ::1] Select * from service_provider
+ [Thu 2019-05-16 03:21:30 PM] [client ::1] Select * from attraction_site where reference='871400e4-a9c8-4321-8c73-0e3ed63f4760'
+ [Thu 2019-05-16 03:21:30 PM] [client ::1] Select * from site_category where attraction_site=6
+ [Thu 2019-05-16 03:21:30 PM] [client ::1] Select * from category where code='CAT001'
+ [Thu 2019-05-16 03:21:30 PM] [client ::1] 
+ [Thu 2019-05-16 03:21:30 PM] [client ::1] Array
+[Thu 2019-05-16 03:21:30 PM] [client ::1] Select * from site_activity where attraction_site=6
+ [Thu 2019-05-16 03:21:30 PM] [client ::1] Select * from site_rating where attraction_reference="871400e4-a9c8-4321-8c73-0e3ed63f4760"
+ [Thu 2019-05-16 03:21:30 PM] [client ::1] 0Rate0
+ [Thu 2019-05-16 03:21:30 PM] [client ::1] 1Rate0
+ [Thu 2019-05-16 03:21:30 PM] [client ::1] 2Rate4
+ [Thu 2019-05-16 03:21:31 PM] [client ::1] Select * from attraction_site where reference='assets'
+ [Thu 2019-05-16 03:21:39 PM] [client ::1] Select * from site_category where category_code='CAT001'
+ [Thu 2019-05-16 03:21:39 PM] [client ::1] Where or  where id=1 or id=6
+ [Thu 2019-05-16 03:21:39 PM] [client ::1] Select * from attraction_site where id=1 or id=6
+ [Thu 2019-05-16 03:21:39 PM] [client ::1] Select * from site_category where attraction_site=1
+ [Thu 2019-05-16 03:21:39 PM] [client ::1] Select * from category where code='CAT001'
+ [Thu 2019-05-16 03:21:39 PM] [client ::1] 
+ [Thu 2019-05-16 03:21:39 PM] [client ::1] Select * from category where code='CAT004'
+ [Thu 2019-05-16 03:21:39 PM] [client ::1] 
+ [Thu 2019-05-16 03:21:39 PM] [client ::1] Array
+[Thu 2019-05-16 03:21:39 PM] [client ::1] Array
+[Thu 2019-05-16 03:21:39 PM] [client ::1] Select * from site_activity where attraction_site=1
+ [Thu 2019-05-16 03:21:39 PM] [client ::1] Select * from site_rating where attraction_reference="43a3a526-4a62-495b-97eb-6a0a5fe3b4d0"
+ [Thu 2019-05-16 03:21:39 PM] [client ::1] Select * from site_category where attraction_site=6
+ [Thu 2019-05-16 03:21:39 PM] [client ::1] Select * from category where code='CAT001'
+ [Thu 2019-05-16 03:21:39 PM] [client ::1] 
+ [Thu 2019-05-16 03:21:39 PM] [client ::1] Array
+[Thu 2019-05-16 03:21:39 PM] [client ::1] Select * from site_activity where attraction_site=6
+ [Thu 2019-05-16 03:21:39 PM] [client ::1] Select * from site_rating where attraction_reference="871400e4-a9c8-4321-8c73-0e3ed63f4760"
+ [Thu 2019-05-16 03:21:39 PM] [client ::1] 0Rate0
+ [Thu 2019-05-16 03:21:39 PM] [client ::1] 1Rate0
+ [Thu 2019-05-16 03:21:39 PM] [client ::1] 2Rate4
+ [Thu 2019-05-16 03:21:39 PM] [client ::1] Select * from category
+ [Thu 2019-05-16 03:21:39 PM] [client ::1] Get service provider data
+ [Thu 2019-05-16 03:21:39 PM] [client ::1] Select * from service_provider
+ [Thu 2019-05-16 03:21:40 PM] [client ::1] Select * from attraction_site
+ [Thu 2019-05-16 03:21:40 PM] [client ::1] Select * from site_category where attraction_site=1
+ [Thu 2019-05-16 03:21:40 PM] [client ::1] Select * from category where code='CAT001'
+ [Thu 2019-05-16 03:21:40 PM] [client ::1] 
+ [Thu 2019-05-16 03:21:40 PM] [client ::1] Select * from category where code='CAT004'
+ [Thu 2019-05-16 03:21:40 PM] [client ::1] 
+ [Thu 2019-05-16 03:21:40 PM] [client ::1] Array
+[Thu 2019-05-16 03:21:40 PM] [client ::1] Array
+[Thu 2019-05-16 03:21:40 PM] [client ::1] Select * from site_activity where attraction_site=1
+ [Thu 2019-05-16 03:21:40 PM] [client ::1] Select * from site_rating where attraction_reference="43a3a526-4a62-495b-97eb-6a0a5fe3b4d0"
+ [Thu 2019-05-16 03:21:40 PM] [client ::1] Select * from site_category where attraction_site=3
+ [Thu 2019-05-16 03:21:40 PM] [client ::1] Select * from site_activity where attraction_site=3
+ [Thu 2019-05-16 03:21:40 PM] [client ::1] Select * from site_rating where attraction_reference="1ad9662f-4785-4093-8496-d6142d7004c9"
+ [Thu 2019-05-16 03:21:40 PM] [client ::1] Select * from site_category where attraction_site=4
+ [Thu 2019-05-16 03:21:40 PM] [client ::1] Select * from category where code='CAT002'
+ [Thu 2019-05-16 03:21:40 PM] [client ::1] 
+ [Thu 2019-05-16 03:21:40 PM] [client ::1] Array
+[Thu 2019-05-16 03:21:40 PM] [client ::1] Select * from site_activity where attraction_site=4
+ [Thu 2019-05-16 03:21:40 PM] [client ::1] Select * from site_rating where attraction_reference="b0ec1bbb-b304-4c3b-9c34-7230c1581dc6"
+ [Thu 2019-05-16 03:21:40 PM] [client ::1] Select * from site_category where attraction_site=6
+ [Thu 2019-05-16 03:21:40 PM] [client ::1] Select * from category where code='CAT001'
+ [Thu 2019-05-16 03:21:40 PM] [client ::1] 
+ [Thu 2019-05-16 03:21:40 PM] [client ::1] Array
+[Thu 2019-05-16 03:21:40 PM] [client ::1] Select * from site_activity where attraction_site=6
+ [Thu 2019-05-16 03:21:40 PM] [client ::1] Select * from site_rating where attraction_reference="871400e4-a9c8-4321-8c73-0e3ed63f4760"
+ [Thu 2019-05-16 03:21:40 PM] [client ::1] 0Rate0
+ [Thu 2019-05-16 03:21:40 PM] [client ::1] 1Rate0
+ [Thu 2019-05-16 03:21:40 PM] [client ::1] 2Rate4
+ [Thu 2019-05-16 03:21:40 PM] [client ::1] Select * from category
+ [Thu 2019-05-16 03:21:40 PM] [client ::1] Get service provider data
+ [Thu 2019-05-16 03:21:40 PM] [client ::1] Select * from service_provider
+ [Thu 2019-05-16 03:21:43 PM] [client ::1] Select * from attraction_site
+ [Thu 2019-05-16 03:21:43 PM] [client ::1] Select * from site_category where attraction_site=1
+ [Thu 2019-05-16 03:21:43 PM] [client ::1] Select * from category where code='CAT001'
+ [Thu 2019-05-16 03:21:43 PM] [client ::1] 
+ [Thu 2019-05-16 03:21:43 PM] [client ::1] Select * from category where code='CAT004'
+ [Thu 2019-05-16 03:21:43 PM] [client ::1] 
+ [Thu 2019-05-16 03:21:43 PM] [client ::1] Array
+[Thu 2019-05-16 03:21:43 PM] [client ::1] Array
+[Thu 2019-05-16 03:21:43 PM] [client ::1] Select * from site_activity where attraction_site=1
+ [Thu 2019-05-16 03:21:43 PM] [client ::1] Select * from site_rating where attraction_reference="43a3a526-4a62-495b-97eb-6a0a5fe3b4d0"
+ [Thu 2019-05-16 03:21:43 PM] [client ::1] Select * from site_category where attraction_site=3
+ [Thu 2019-05-16 03:21:43 PM] [client ::1] Select * from site_activity where attraction_site=3
+ [Thu 2019-05-16 03:21:43 PM] [client ::1] Select * from site_rating where attraction_reference="1ad9662f-4785-4093-8496-d6142d7004c9"
+ [Thu 2019-05-16 03:21:43 PM] [client ::1] Select * from site_category where attraction_site=4
+ [Thu 2019-05-16 03:21:43 PM] [client ::1] Select * from category where code='CAT002'
+ [Thu 2019-05-16 03:21:43 PM] [client ::1] 
+ [Thu 2019-05-16 03:21:43 PM] [client ::1] Array
+[Thu 2019-05-16 03:21:43 PM] [client ::1] Select * from site_activity where attraction_site=4
+ [Thu 2019-05-16 03:21:43 PM] [client ::1] Select * from site_rating where attraction_reference="b0ec1bbb-b304-4c3b-9c34-7230c1581dc6"
+ [Thu 2019-05-16 03:21:43 PM] [client ::1] Select * from site_category where attraction_site=6
+ [Thu 2019-05-16 03:21:43 PM] [client ::1] Select * from category where code='CAT001'
+ [Thu 2019-05-16 03:21:43 PM] [client ::1] 
+ [Thu 2019-05-16 03:21:43 PM] [client ::1] Array
+[Thu 2019-05-16 03:21:43 PM] [client ::1] Select * from site_activity where attraction_site=6
+ [Thu 2019-05-16 03:21:43 PM] [client ::1] Select * from site_rating where attraction_reference="871400e4-a9c8-4321-8c73-0e3ed63f4760"
+ [Thu 2019-05-16 03:21:43 PM] [client ::1] 0Rate0
+ [Thu 2019-05-16 03:21:43 PM] [client ::1] 1Rate0
+ [Thu 2019-05-16 03:21:43 PM] [client ::1] 2Rate4
+ [Thu 2019-05-16 03:21:43 PM] [client ::1] Select * from category
+ [Thu 2019-05-16 03:21:44 PM] [client ::1] Get service provider data
+ [Thu 2019-05-16 03:21:44 PM] [client ::1] Select * from service_provider
+ [Thu 2019-05-16 03:21:44 PM] [client ::1] Select * from attraction_site
+ [Thu 2019-05-16 03:21:44 PM] [client ::1] Select * from site_category where attraction_site=1
+ [Thu 2019-05-16 03:21:44 PM] [client ::1] Select * from category where code='CAT001'
+ [Thu 2019-05-16 03:21:44 PM] [client ::1] 
+ [Thu 2019-05-16 03:21:44 PM] [client ::1] Select * from category where code='CAT004'
+ [Thu 2019-05-16 03:21:44 PM] [client ::1] 
+ [Thu 2019-05-16 03:21:44 PM] [client ::1] Array
+[Thu 2019-05-16 03:21:44 PM] [client ::1] Array
+[Thu 2019-05-16 03:21:44 PM] [client ::1] Select * from site_activity where attraction_site=1
+ [Thu 2019-05-16 03:21:44 PM] [client ::1] Select * from site_rating where attraction_reference="43a3a526-4a62-495b-97eb-6a0a5fe3b4d0"
+ [Thu 2019-05-16 03:21:44 PM] [client ::1] Select * from site_category where attraction_site=3
+ [Thu 2019-05-16 03:21:44 PM] [client ::1] Select * from site_activity where attraction_site=3
+ [Thu 2019-05-16 03:21:44 PM] [client ::1] Select * from site_rating where attraction_reference="1ad9662f-4785-4093-8496-d6142d7004c9"
+ [Thu 2019-05-16 03:21:44 PM] [client ::1] Select * from site_category where attraction_site=4
+ [Thu 2019-05-16 03:21:44 PM] [client ::1] Select * from category where code='CAT002'
+ [Thu 2019-05-16 03:21:44 PM] [client ::1] 
+ [Thu 2019-05-16 03:21:44 PM] [client ::1] Array
+[Thu 2019-05-16 03:21:44 PM] [client ::1] Select * from site_activity where attraction_site=4
+ [Thu 2019-05-16 03:21:44 PM] [client ::1] Select * from site_rating where attraction_reference="b0ec1bbb-b304-4c3b-9c34-7230c1581dc6"
+ [Thu 2019-05-16 03:21:44 PM] [client ::1] Select * from site_category where attraction_site=6
+ [Thu 2019-05-16 03:21:44 PM] [client ::1] Select * from category where code='CAT001'
+ [Thu 2019-05-16 03:21:44 PM] [client ::1] 
+ [Thu 2019-05-16 03:21:44 PM] [client ::1] Array
+[Thu 2019-05-16 03:21:44 PM] [client ::1] Select * from site_activity where attraction_site=6
+ [Thu 2019-05-16 03:21:44 PM] [client ::1] Select * from site_rating where attraction_reference="871400e4-a9c8-4321-8c73-0e3ed63f4760"
+ [Thu 2019-05-16 03:21:44 PM] [client ::1] 0Rate0
+ [Thu 2019-05-16 03:21:44 PM] [client ::1] 1Rate0
+ [Thu 2019-05-16 03:21:44 PM] [client ::1] 2Rate4
+ [Thu 2019-05-16 03:21:44 PM] [client ::1] Select * from category
+ [Thu 2019-05-16 03:21:44 PM] [client ::1] Get service provider data
+ [Thu 2019-05-16 03:21:44 PM] [client ::1] Select * from service_provider
+ [Thu 2019-05-16 03:28:38 PM] [client ::1] Select * from attraction_site where reference='1ad9662f-4785-4093-8496-d6142d7004c9'
+ [Thu 2019-05-16 03:28:38 PM] [client ::1] Select * from site_category where attraction_site=3
+ [Thu 2019-05-16 03:28:38 PM] [client ::1] Select * from site_activity where attraction_site=3
+ [Thu 2019-05-16 03:28:38 PM] [client ::1] Select * from site_rating where attraction_reference="1ad9662f-4785-4093-8496-d6142d7004c9"
+ [Thu 2019-05-16 03:28:38 PM] [client ::1] Select * from attraction_site where reference='assets'
+ [Thu 2019-05-16 03:36:56 PM] [client ::1] Select * from attraction_site
+ [Thu 2019-05-16 03:36:56 PM] [client ::1] Select * from site_category where attraction_site=1
+ [Thu 2019-05-16 03:36:56 PM] [client ::1] Select * from category where code='CAT001'
+ [Thu 2019-05-16 03:36:56 PM] [client ::1] 
+ [Thu 2019-05-16 03:36:56 PM] [client ::1] Select * from category where code='CAT004'
+ [Thu 2019-05-16 03:36:56 PM] [client ::1] 
+ [Thu 2019-05-16 03:36:56 PM] [client ::1] Array
+[Thu 2019-05-16 03:36:56 PM] [client ::1] Array
+[Thu 2019-05-16 03:36:56 PM] [client ::1] Select * from site_activity where attraction_site=1
+ [Thu 2019-05-16 03:36:56 PM] [client ::1] Select * from site_rating where attraction_reference="43a3a526-4a62-495b-97eb-6a0a5fe3b4d0"
+ [Thu 2019-05-16 03:36:56 PM] [client ::1] Select * from site_category where attraction_site=3
+ [Thu 2019-05-16 03:36:56 PM] [client ::1] Select * from site_activity where attraction_site=3
+ [Thu 2019-05-16 03:36:56 PM] [client ::1] Select * from site_rating where attraction_reference="1ad9662f-4785-4093-8496-d6142d7004c9"
+ [Thu 2019-05-16 03:36:56 PM] [client ::1] Select * from site_category where attraction_site=4
+ [Thu 2019-05-16 03:36:56 PM] [client ::1] Select * from category where code='CAT002'
+ [Thu 2019-05-16 03:36:56 PM] [client ::1] 
+ [Thu 2019-05-16 03:36:56 PM] [client ::1] Array
+[Thu 2019-05-16 03:36:56 PM] [client ::1] Select * from site_activity where attraction_site=4
+ [Thu 2019-05-16 03:36:56 PM] [client ::1] Select * from site_rating where attraction_reference="b0ec1bbb-b304-4c3b-9c34-7230c1581dc6"
+ [Thu 2019-05-16 03:36:56 PM] [client ::1] Select * from site_category where attraction_site=6
+ [Thu 2019-05-16 03:36:56 PM] [client ::1] Select * from category where code='CAT001'
+ [Thu 2019-05-16 03:36:56 PM] [client ::1] 
+ [Thu 2019-05-16 03:36:56 PM] [client ::1] Array
+[Thu 2019-05-16 03:36:56 PM] [client ::1] Select * from site_activity where attraction_site=6
+ [Thu 2019-05-16 03:36:56 PM] [client ::1] Select * from site_rating where attraction_reference="871400e4-a9c8-4321-8c73-0e3ed63f4760"
+ [Thu 2019-05-16 03:36:56 PM] [client ::1] 0Rate0
+ [Thu 2019-05-16 03:36:56 PM] [client ::1] 1Rate0
+ [Thu 2019-05-16 03:36:56 PM] [client ::1] 2Rate4
+ [Thu 2019-05-16 03:36:56 PM] [client ::1] Select * from category
+ [Thu 2019-05-16 03:36:56 PM] [client ::1] Get service provider data
+ [Thu 2019-05-16 03:36:56 PM] [client ::1] Select * from service_provider
+ [Thu 2019-05-16 03:38:32 PM] [client ::1] Select * from attraction_site
+ [Thu 2019-05-16 03:38:32 PM] [client ::1] Select * from site_category where attraction_site=1
+ [Thu 2019-05-16 03:38:32 PM] [client ::1] Select * from category where code='CAT001'
+ [Thu 2019-05-16 03:38:32 PM] [client ::1] 
+ [Thu 2019-05-16 03:38:32 PM] [client ::1] Select * from category where code='CAT004'
+ [Thu 2019-05-16 03:38:32 PM] [client ::1] 
+ [Thu 2019-05-16 03:38:32 PM] [client ::1] Array
+[Thu 2019-05-16 03:38:32 PM] [client ::1] Array
+[Thu 2019-05-16 03:38:32 PM] [client ::1] Select * from site_activity where attraction_site=1
+ [Thu 2019-05-16 03:38:32 PM] [client ::1] Select * from site_rating where attraction_reference="43a3a526-4a62-495b-97eb-6a0a5fe3b4d0"
+ [Thu 2019-05-16 03:38:32 PM] [client ::1] Select * from site_category where attraction_site=3
+ [Thu 2019-05-16 03:38:32 PM] [client ::1] Select * from site_activity where attraction_site=3
+ [Thu 2019-05-16 03:38:32 PM] [client ::1] Select * from site_rating where attraction_reference="1ad9662f-4785-4093-8496-d6142d7004c9"
+ [Thu 2019-05-16 03:38:32 PM] [client ::1] Select * from site_category where attraction_site=4
+ [Thu 2019-05-16 03:38:32 PM] [client ::1] Select * from category where code='CAT002'
+ [Thu 2019-05-16 03:38:32 PM] [client ::1] 
+ [Thu 2019-05-16 03:38:32 PM] [client ::1] Array
+[Thu 2019-05-16 03:38:32 PM] [client ::1] Select * from site_activity where attraction_site=4
+ [Thu 2019-05-16 03:38:32 PM] [client ::1] Select * from site_rating where attraction_reference="b0ec1bbb-b304-4c3b-9c34-7230c1581dc6"
+ [Thu 2019-05-16 03:38:32 PM] [client ::1] Select * from site_category where attraction_site=6
+ [Thu 2019-05-16 03:38:32 PM] [client ::1] Select * from category where code='CAT001'
+ [Thu 2019-05-16 03:38:32 PM] [client ::1] 
+ [Thu 2019-05-16 03:38:32 PM] [client ::1] Array
+[Thu 2019-05-16 03:38:32 PM] [client ::1] Select * from site_activity where attraction_site=6
+ [Thu 2019-05-16 03:38:32 PM] [client ::1] Select * from site_rating where attraction_reference="871400e4-a9c8-4321-8c73-0e3ed63f4760"
+ [Thu 2019-05-16 03:38:32 PM] [client ::1] 0Rate0
+ [Thu 2019-05-16 03:38:32 PM] [client ::1] 1Rate0
+ [Thu 2019-05-16 03:38:32 PM] [client ::1] 2Rate4
+ [Thu 2019-05-16 03:38:32 PM] [client ::1] Select * from category
+ [Thu 2019-05-16 03:38:32 PM] [client ::1] Get service provider data
+ [Thu 2019-05-16 03:38:32 PM] [client ::1] Select * from service_provider
+ [Thu 2019-05-16 03:38:33 PM] [client ::1] Select * from attraction_site
+ [Thu 2019-05-16 03:38:33 PM] [client ::1] Select * from site_category where attraction_site=1
+ [Thu 2019-05-16 03:38:33 PM] [client ::1] Select * from category where code='CAT001'
+ [Thu 2019-05-16 03:38:33 PM] [client ::1] 
+ [Thu 2019-05-16 03:38:33 PM] [client ::1] Select * from category where code='CAT004'
+ [Thu 2019-05-16 03:38:33 PM] [client ::1] 
+ [Thu 2019-05-16 03:38:33 PM] [client ::1] Array
+[Thu 2019-05-16 03:38:33 PM] [client ::1] Array
+[Thu 2019-05-16 03:38:33 PM] [client ::1] Select * from site_activity where attraction_site=1
+ [Thu 2019-05-16 03:38:34 PM] [client ::1] Select * from site_rating where attraction_reference="43a3a526-4a62-495b-97eb-6a0a5fe3b4d0"
+ [Thu 2019-05-16 03:38:34 PM] [client ::1] Select * from site_category where attraction_site=3
+ [Thu 2019-05-16 03:38:34 PM] [client ::1] Select * from site_activity where attraction_site=3
+ [Thu 2019-05-16 03:38:34 PM] [client ::1] Select * from site_rating where attraction_reference="1ad9662f-4785-4093-8496-d6142d7004c9"
+ [Thu 2019-05-16 03:38:34 PM] [client ::1] Select * from site_category where attraction_site=4
+ [Thu 2019-05-16 03:38:34 PM] [client ::1] Select * from category where code='CAT002'
+ [Thu 2019-05-16 03:38:34 PM] [client ::1] 
+ [Thu 2019-05-16 03:38:34 PM] [client ::1] Array
+[Thu 2019-05-16 03:38:34 PM] [client ::1] Select * from site_activity where attraction_site=4
+ [Thu 2019-05-16 03:38:34 PM] [client ::1] Select * from site_rating where attraction_reference="b0ec1bbb-b304-4c3b-9c34-7230c1581dc6"
+ [Thu 2019-05-16 03:38:34 PM] [client ::1] Select * from site_category where attraction_site=6
+ [Thu 2019-05-16 03:38:34 PM] [client ::1] Select * from category where code='CAT001'
+ [Thu 2019-05-16 03:38:34 PM] [client ::1] 
+ [Thu 2019-05-16 03:38:34 PM] [client ::1] Array
+[Thu 2019-05-16 03:38:34 PM] [client ::1] Select * from site_activity where attraction_site=6
+ [Thu 2019-05-16 03:38:34 PM] [client ::1] Select * from site_rating where attraction_reference="871400e4-a9c8-4321-8c73-0e3ed63f4760"
+ [Thu 2019-05-16 03:38:34 PM] [client ::1] 0Rate0
+ [Thu 2019-05-16 03:38:34 PM] [client ::1] 1Rate0
+ [Thu 2019-05-16 03:38:34 PM] [client ::1] 2Rate4
+ [Thu 2019-05-16 03:38:34 PM] [client ::1] Select * from category
+ [Thu 2019-05-16 03:38:34 PM] [client ::1] Get service provider data
+ [Thu 2019-05-16 03:38:34 PM] [client ::1] Select * from service_provider
+ [Thu 2019-05-16 03:38:44 PM] [client ::1] Select * from attraction_site
+ [Thu 2019-05-16 03:38:44 PM] [client ::1] Select * from site_category where attraction_site=1
+ [Thu 2019-05-16 03:38:44 PM] [client ::1] Select * from category where code='CAT001'
+ [Thu 2019-05-16 03:38:44 PM] [client ::1] 
+ [Thu 2019-05-16 03:38:44 PM] [client ::1] Select * from category where code='CAT004'
+ [Thu 2019-05-16 03:38:44 PM] [client ::1] 
+ [Thu 2019-05-16 03:38:44 PM] [client ::1] Array
+[Thu 2019-05-16 03:38:44 PM] [client ::1] Array
+[Thu 2019-05-16 03:38:44 PM] [client ::1] Select * from site_activity where attraction_site=1
+ [Thu 2019-05-16 03:38:44 PM] [client ::1] Select * from site_rating where attraction_reference="43a3a526-4a62-495b-97eb-6a0a5fe3b4d0"
+ [Thu 2019-05-16 03:38:44 PM] [client ::1] Select * from site_category where attraction_site=3
+ [Thu 2019-05-16 03:38:44 PM] [client ::1] Select * from site_activity where attraction_site=3
+ [Thu 2019-05-16 03:38:44 PM] [client ::1] Select * from site_rating where attraction_reference="1ad9662f-4785-4093-8496-d6142d7004c9"
+ [Thu 2019-05-16 03:38:44 PM] [client ::1] Select * from site_category where attraction_site=4
+ [Thu 2019-05-16 03:38:44 PM] [client ::1] Select * from category where code='CAT002'
+ [Thu 2019-05-16 03:38:44 PM] [client ::1] 
+ [Thu 2019-05-16 03:38:44 PM] [client ::1] Array
+[Thu 2019-05-16 03:38:44 PM] [client ::1] Select * from site_activity where attraction_site=4
+ [Thu 2019-05-16 03:38:44 PM] [client ::1] Select * from site_rating where attraction_reference="b0ec1bbb-b304-4c3b-9c34-7230c1581dc6"
+ [Thu 2019-05-16 03:38:44 PM] [client ::1] Select * from site_category where attraction_site=6
+ [Thu 2019-05-16 03:38:44 PM] [client ::1] Select * from category where code='CAT001'
+ [Thu 2019-05-16 03:38:44 PM] [client ::1] 
+ [Thu 2019-05-16 03:38:44 PM] [client ::1] Array
+[Thu 2019-05-16 03:38:44 PM] [client ::1] Select * from site_activity where attraction_site=6
+ [Thu 2019-05-16 03:38:44 PM] [client ::1] Select * from site_rating where attraction_reference="871400e4-a9c8-4321-8c73-0e3ed63f4760"
+ [Thu 2019-05-16 03:38:44 PM] [client ::1] 0Rate0
+ [Thu 2019-05-16 03:38:44 PM] [client ::1] 1Rate0
+ [Thu 2019-05-16 03:38:44 PM] [client ::1] 2Rate4
+ [Thu 2019-05-16 03:38:44 PM] [client ::1] Select * from category
+ [Thu 2019-05-16 03:38:44 PM] [client ::1] Get service provider data
+ [Thu 2019-05-16 03:38:44 PM] [client ::1] Select * from service_provider
+ [Thu 2019-05-16 03:38:44 PM] [client ::1] Select * from attraction_site
+ [Thu 2019-05-16 03:38:44 PM] [client ::1] Select * from site_category where attraction_site=1
+ [Thu 2019-05-16 03:38:44 PM] [client ::1] Select * from category where code='CAT001'
+ [Thu 2019-05-16 03:38:44 PM] [client ::1] 
+ [Thu 2019-05-16 03:38:44 PM] [client ::1] Select * from category where code='CAT004'
+ [Thu 2019-05-16 03:38:44 PM] [client ::1] 
+ [Thu 2019-05-16 03:38:44 PM] [client ::1] Array
+[Thu 2019-05-16 03:38:44 PM] [client ::1] Array
+[Thu 2019-05-16 03:38:44 PM] [client ::1] Select * from site_activity where attraction_site=1
+ [Thu 2019-05-16 03:38:44 PM] [client ::1] Select * from site_rating where attraction_reference="43a3a526-4a62-495b-97eb-6a0a5fe3b4d0"
+ [Thu 2019-05-16 03:38:44 PM] [client ::1] Select * from site_category where attraction_site=3
+ [Thu 2019-05-16 03:38:44 PM] [client ::1] Select * from site_activity where attraction_site=3
+ [Thu 2019-05-16 03:38:44 PM] [client ::1] Select * from site_rating where attraction_reference="1ad9662f-4785-4093-8496-d6142d7004c9"
+ [Thu 2019-05-16 03:38:44 PM] [client ::1] Select * from site_category where attraction_site=4
+ [Thu 2019-05-16 03:38:44 PM] [client ::1] Select * from category where code='CAT002'
+ [Thu 2019-05-16 03:38:44 PM] [client ::1] 
+ [Thu 2019-05-16 03:38:44 PM] [client ::1] Array
+[Thu 2019-05-16 03:38:44 PM] [client ::1] Select * from site_activity where attraction_site=4
+ [Thu 2019-05-16 03:38:44 PM] [client ::1] Select * from site_rating where attraction_reference="b0ec1bbb-b304-4c3b-9c34-7230c1581dc6"
+ [Thu 2019-05-16 03:38:44 PM] [client ::1] Select * from site_category where attraction_site=6
+ [Thu 2019-05-16 03:38:44 PM] [client ::1] Select * from category where code='CAT001'
+ [Thu 2019-05-16 03:38:44 PM] [client ::1] 
+ [Thu 2019-05-16 03:38:44 PM] [client ::1] Array
+[Thu 2019-05-16 03:38:44 PM] [client ::1] Select * from site_activity where attraction_site=6
+ [Thu 2019-05-16 03:38:44 PM] [client ::1] Select * from site_rating where attraction_reference="871400e4-a9c8-4321-8c73-0e3ed63f4760"
+ [Thu 2019-05-16 03:38:44 PM] [client ::1] 0Rate0
+ [Thu 2019-05-16 03:38:44 PM] [client ::1] 1Rate0
+ [Thu 2019-05-16 03:38:44 PM] [client ::1] 2Rate4
+ [Thu 2019-05-16 03:38:44 PM] [client ::1] Select * from category
+ [Thu 2019-05-16 03:38:44 PM] [client ::1] Get service provider data
+ [Thu 2019-05-16 03:38:44 PM] [client ::1] Select * from service_provider
+ [Thu 2019-05-16 03:57:49 PM] [client ::1] Select * from attraction_site where reference='43a3a526-4a62-495b-97eb-6a0a5fe3b4d0'
+ [Thu 2019-05-16 03:57:49 PM] [client ::1] Select * from site_category where attraction_site=1
+ [Thu 2019-05-16 03:57:49 PM] [client ::1] Select * from category where code='CAT001'
+ [Thu 2019-05-16 03:57:49 PM] [client ::1] 
+ [Thu 2019-05-16 03:57:49 PM] [client ::1] Select * from category where code='CAT004'
+ [Thu 2019-05-16 03:57:49 PM] [client ::1] 
+ [Thu 2019-05-16 03:57:49 PM] [client ::1] Array
+[Thu 2019-05-16 03:57:49 PM] [client ::1] Array
+[Thu 2019-05-16 03:57:49 PM] [client ::1] Select * from site_activity where attraction_site=1
+ [Thu 2019-05-16 03:57:49 PM] [client ::1] Select * from site_rating where attraction_reference="43a3a526-4a62-495b-97eb-6a0a5fe3b4d0"
+ [Thu 2019-05-16 03:57:49 PM] [client ::1] Select * from attraction_site where reference='assets'
+ [Thu 2019-05-16 03:59:16 PM] [client ::1] Select * from attraction_site
+ [Thu 2019-05-16 03:59:16 PM] [client ::1] Select * from site_category where attraction_site=1
+ [Thu 2019-05-16 03:59:16 PM] [client ::1] Select * from category where code='CAT001'
+ [Thu 2019-05-16 03:59:16 PM] [client ::1] 
+ [Thu 2019-05-16 03:59:16 PM] [client ::1] Select * from category where code='CAT004'
+ [Thu 2019-05-16 03:59:16 PM] [client ::1] 
+ [Thu 2019-05-16 03:59:16 PM] [client ::1] Array
+[Thu 2019-05-16 03:59:16 PM] [client ::1] Array
+[Thu 2019-05-16 03:59:16 PM] [client ::1] Select * from site_activity where attraction_site=1
+ [Thu 2019-05-16 03:59:16 PM] [client ::1] Select * from site_rating where attraction_reference="43a3a526-4a62-495b-97eb-6a0a5fe3b4d0"
+ [Thu 2019-05-16 03:59:16 PM] [client ::1] Select * from site_category where attraction_site=3
+ [Thu 2019-05-16 03:59:16 PM] [client ::1] Select * from site_activity where attraction_site=3
+ [Thu 2019-05-16 03:59:16 PM] [client ::1] Select * from site_rating where attraction_reference="1ad9662f-4785-4093-8496-d6142d7004c9"
+ [Thu 2019-05-16 03:59:16 PM] [client ::1] Select * from site_category where attraction_site=4
+ [Thu 2019-05-16 03:59:16 PM] [client ::1] Select * from category where code='CAT002'
+ [Thu 2019-05-16 03:59:16 PM] [client ::1] 
+ [Thu 2019-05-16 03:59:16 PM] [client ::1] Array
+[Thu 2019-05-16 03:59:16 PM] [client ::1] Select * from site_activity where attraction_site=4
+ [Thu 2019-05-16 03:59:16 PM] [client ::1] Select * from site_rating where attraction_reference="b0ec1bbb-b304-4c3b-9c34-7230c1581dc6"
+ [Thu 2019-05-16 03:59:16 PM] [client ::1] Select * from site_category where attraction_site=6
+ [Thu 2019-05-16 03:59:16 PM] [client ::1] Select * from category where code='CAT001'
+ [Thu 2019-05-16 03:59:16 PM] [client ::1] 
+ [Thu 2019-05-16 03:59:16 PM] [client ::1] Array
+[Thu 2019-05-16 03:59:16 PM] [client ::1] Select * from site_activity where attraction_site=6
+ [Thu 2019-05-16 03:59:16 PM] [client ::1] Select * from site_rating where attraction_reference="871400e4-a9c8-4321-8c73-0e3ed63f4760"
+ [Thu 2019-05-16 03:59:16 PM] [client ::1] 0Rate0
+ [Thu 2019-05-16 03:59:16 PM] [client ::1] 1Rate0
+ [Thu 2019-05-16 03:59:16 PM] [client ::1] 2Rate4
+ [Thu 2019-05-16 03:59:16 PM] [client ::1] Select * from category
+ [Thu 2019-05-16 03:59:16 PM] [client ::1] Get service provider data
+ [Thu 2019-05-16 03:59:16 PM] [client ::1] Select * from service_provider
+ [Thu 2019-05-16 03:59:16 PM] [client ::1] Select * from attraction_site
+ [Thu 2019-05-16 03:59:16 PM] [client ::1] Select * from site_category where attraction_site=1
+ [Thu 2019-05-16 03:59:16 PM] [client ::1] Select * from category where code='CAT001'
+ [Thu 2019-05-16 03:59:16 PM] [client ::1] 
+ [Thu 2019-05-16 03:59:16 PM] [client ::1] Select * from category where code='CAT004'
+ [Thu 2019-05-16 03:59:16 PM] [client ::1] 
+ [Thu 2019-05-16 03:59:16 PM] [client ::1] Array
+[Thu 2019-05-16 03:59:16 PM] [client ::1] Array
+[Thu 2019-05-16 03:59:16 PM] [client ::1] Select * from site_activity where attraction_site=1
+ [Thu 2019-05-16 03:59:16 PM] [client ::1] Select * from site_rating where attraction_reference="43a3a526-4a62-495b-97eb-6a0a5fe3b4d0"
+ [Thu 2019-05-16 03:59:16 PM] [client ::1] Select * from site_category where attraction_site=3
+ [Thu 2019-05-16 03:59:16 PM] [client ::1] Select * from site_activity where attraction_site=3
+ [Thu 2019-05-16 03:59:16 PM] [client ::1] Select * from site_rating where attraction_reference="1ad9662f-4785-4093-8496-d6142d7004c9"
+ [Thu 2019-05-16 03:59:16 PM] [client ::1] Select * from site_category where attraction_site=4
+ [Thu 2019-05-16 03:59:16 PM] [client ::1] Select * from category where code='CAT002'
+ [Thu 2019-05-16 03:59:16 PM] [client ::1] 
+ [Thu 2019-05-16 03:59:16 PM] [client ::1] Array
+[Thu 2019-05-16 03:59:16 PM] [client ::1] Select * from site_activity where attraction_site=4
+ [Thu 2019-05-16 03:59:16 PM] [client ::1] Select * from site_rating where attraction_reference="b0ec1bbb-b304-4c3b-9c34-7230c1581dc6"
+ [Thu 2019-05-16 03:59:16 PM] [client ::1] Select * from site_category where attraction_site=6
+ [Thu 2019-05-16 03:59:16 PM] [client ::1] Select * from category where code='CAT001'
+ [Thu 2019-05-16 03:59:16 PM] [client ::1] 
+ [Thu 2019-05-16 03:59:16 PM] [client ::1] Array
+[Thu 2019-05-16 03:59:16 PM] [client ::1] Select * from site_activity where attraction_site=6
+ [Thu 2019-05-16 03:59:16 PM] [client ::1] Select * from site_rating where attraction_reference="871400e4-a9c8-4321-8c73-0e3ed63f4760"
+ [Thu 2019-05-16 03:59:16 PM] [client ::1] 0Rate0
+ [Thu 2019-05-16 03:59:16 PM] [client ::1] 1Rate0
+ [Thu 2019-05-16 03:59:16 PM] [client ::1] 2Rate4
+ [Thu 2019-05-16 03:59:16 PM] [client ::1] Select * from category
+ [Thu 2019-05-16 03:59:16 PM] [client ::1] Get service provider data
+ [Thu 2019-05-16 03:59:16 PM] [client ::1] Select * from service_provider
+ [Thu 2019-05-16 03:59:22 PM] [client ::1] Select * from attraction_site where reference='1ad9662f-4785-4093-8496-d6142d7004c9'
+ [Thu 2019-05-16 03:59:22 PM] [client ::1] Select * from site_category where attraction_site=3
+ [Thu 2019-05-16 03:59:22 PM] [client ::1] Select * from site_activity where attraction_site=3
+ [Thu 2019-05-16 03:59:22 PM] [client ::1] Select * from site_rating where attraction_reference="1ad9662f-4785-4093-8496-d6142d7004c9"
+ [Thu 2019-05-16 03:59:22 PM] [client ::1] Select * from attraction_site where reference='assets'
+ [Thu 2019-05-16 03:59:43 PM] [client ::1] Select * from category
+ [Thu 2019-05-16 04:00:21 PM] [client ::1] Select * from category
+ [Thu 2019-05-16 04:00:38 PM] [client ::1] Select * from category
+ [Thu 2019-05-16 04:02:02 PM] [client ::1] Select * from attraction_site
+ [Thu 2019-05-16 04:02:02 PM] [client ::1] Select * from site_category where attraction_site=1
+ [Thu 2019-05-16 04:02:02 PM] [client ::1] Select * from category where code='CAT001'
+ [Thu 2019-05-16 04:02:02 PM] [client ::1] 
+ [Thu 2019-05-16 04:02:02 PM] [client ::1] Select * from category where code='CAT004'
+ [Thu 2019-05-16 04:02:02 PM] [client ::1] 
+ [Thu 2019-05-16 04:02:02 PM] [client ::1] Array
+[Thu 2019-05-16 04:02:02 PM] [client ::1] Array
+[Thu 2019-05-16 04:02:02 PM] [client ::1] Select * from site_activity where attraction_site=1
+ [Thu 2019-05-16 04:02:02 PM] [client ::1] Select * from site_rating where attraction_reference="43a3a526-4a62-495b-97eb-6a0a5fe3b4d0"
+ [Thu 2019-05-16 04:02:02 PM] [client ::1] Select * from site_category where attraction_site=3
+ [Thu 2019-05-16 04:02:02 PM] [client ::1] Select * from site_activity where attraction_site=3
+ [Thu 2019-05-16 04:02:02 PM] [client ::1] Select * from site_rating where attraction_reference="1ad9662f-4785-4093-8496-d6142d7004c9"
+ [Thu 2019-05-16 04:02:02 PM] [client ::1] Select * from site_category where attraction_site=4
+ [Thu 2019-05-16 04:02:02 PM] [client ::1] Select * from category where code='CAT002'
+ [Thu 2019-05-16 04:02:02 PM] [client ::1] 
+ [Thu 2019-05-16 04:02:02 PM] [client ::1] Array
+[Thu 2019-05-16 04:02:02 PM] [client ::1] Select * from site_activity where attraction_site=4
+ [Thu 2019-05-16 04:02:02 PM] [client ::1] Select * from site_rating where attraction_reference="b0ec1bbb-b304-4c3b-9c34-7230c1581dc6"
+ [Thu 2019-05-16 04:02:02 PM] [client ::1] Select * from site_category where attraction_site=6
+ [Thu 2019-05-16 04:02:02 PM] [client ::1] Select * from category where code='CAT001'
+ [Thu 2019-05-16 04:02:02 PM] [client ::1] 
+ [Thu 2019-05-16 04:02:02 PM] [client ::1] Array
+[Thu 2019-05-16 04:02:02 PM] [client ::1] Select * from site_activity where attraction_site=6
+ [Thu 2019-05-16 04:02:02 PM] [client ::1] Select * from site_rating where attraction_reference="871400e4-a9c8-4321-8c73-0e3ed63f4760"
+ [Thu 2019-05-16 04:02:02 PM] [client ::1] 0Rate0
+ [Thu 2019-05-16 04:02:02 PM] [client ::1] 1Rate0
+ [Thu 2019-05-16 04:02:02 PM] [client ::1] 2Rate4
+ [Thu 2019-05-16 04:02:02 PM] [client ::1] Select * from category
+ [Thu 2019-05-16 04:02:02 PM] [client ::1] Get service provider data
+ [Thu 2019-05-16 04:02:02 PM] [client ::1] Select * from service_provider
+ [Thu 2019-05-16 04:02:02 PM] [client ::1] Select * from attraction_site
+ [Thu 2019-05-16 04:02:02 PM] [client ::1] Select * from site_category where attraction_site=1
+ [Thu 2019-05-16 04:02:02 PM] [client ::1] Select * from category where code='CAT001'
+ [Thu 2019-05-16 04:02:02 PM] [client ::1] 
+ [Thu 2019-05-16 04:02:02 PM] [client ::1] Select * from category where code='CAT004'
+ [Thu 2019-05-16 04:02:02 PM] [client ::1] 
+ [Thu 2019-05-16 04:02:02 PM] [client ::1] Array
+[Thu 2019-05-16 04:02:02 PM] [client ::1] Array
+[Thu 2019-05-16 04:02:02 PM] [client ::1] Select * from site_activity where attraction_site=1
+ [Thu 2019-05-16 04:02:02 PM] [client ::1] Select * from site_rating where attraction_reference="43a3a526-4a62-495b-97eb-6a0a5fe3b4d0"
+ [Thu 2019-05-16 04:02:02 PM] [client ::1] Select * from site_category where attraction_site=3
+ [Thu 2019-05-16 04:02:02 PM] [client ::1] Select * from site_activity where attraction_site=3
+ [Thu 2019-05-16 04:02:02 PM] [client ::1] Select * from site_rating where attraction_reference="1ad9662f-4785-4093-8496-d6142d7004c9"
+ [Thu 2019-05-16 04:02:02 PM] [client ::1] Select * from site_category where attraction_site=4
+ [Thu 2019-05-16 04:02:02 PM] [client ::1] Select * from category where code='CAT002'
+ [Thu 2019-05-16 04:02:02 PM] [client ::1] 
+ [Thu 2019-05-16 04:02:02 PM] [client ::1] Array
+[Thu 2019-05-16 04:02:02 PM] [client ::1] Select * from site_activity where attraction_site=4
+ [Thu 2019-05-16 04:02:02 PM] [client ::1] Select * from site_rating where attraction_reference="b0ec1bbb-b304-4c3b-9c34-7230c1581dc6"
+ [Thu 2019-05-16 04:02:02 PM] [client ::1] Select * from site_category where attraction_site=6
+ [Thu 2019-05-16 04:02:03 PM] [client ::1] Select * from category where code='CAT001'
+ [Thu 2019-05-16 04:02:03 PM] [client ::1] 
+ [Thu 2019-05-16 04:02:03 PM] [client ::1] Array
+[Thu 2019-05-16 04:02:03 PM] [client ::1] Select * from site_activity where attraction_site=6
+ [Thu 2019-05-16 04:02:03 PM] [client ::1] Select * from site_rating where attraction_reference="871400e4-a9c8-4321-8c73-0e3ed63f4760"
+ [Thu 2019-05-16 04:02:03 PM] [client ::1] 0Rate0
+ [Thu 2019-05-16 04:02:03 PM] [client ::1] 1Rate0
+ [Thu 2019-05-16 04:02:03 PM] [client ::1] 2Rate4
+ [Thu 2019-05-16 04:02:03 PM] [client ::1] Select * from category
+ [Thu 2019-05-16 04:02:03 PM] [client ::1] Get service provider data
+ [Thu 2019-05-16 04:02:03 PM] [client ::1] Select * from service_provider
+ [Thu 2019-05-16 04:02:09 PM] [client ::1] Select * from attraction_site where location='entebbe'
+ [Thu 2019-05-16 04:02:09 PM] [client ::1] Select * from site_category where attraction_site=4
+ [Thu 2019-05-16 04:02:09 PM] [client ::1] Select * from category where code='CAT002'
+ [Thu 2019-05-16 04:02:09 PM] [client ::1] 
+ [Thu 2019-05-16 04:02:09 PM] [client ::1] Array
+[Thu 2019-05-16 04:02:09 PM] [client ::1] Select * from site_activity where attraction_site=4
+ [Thu 2019-05-16 04:02:09 PM] [client ::1] Select * from site_rating where attraction_reference="b0ec1bbb-b304-4c3b-9c34-7230c1581dc6"
+ [Thu 2019-05-16 04:02:09 PM] [client ::1] Select * from site_category where attraction_site=6
+ [Thu 2019-05-16 04:02:09 PM] [client ::1] Select * from category where code='CAT001'
+ [Thu 2019-05-16 04:02:09 PM] [client ::1] 
+ [Thu 2019-05-16 04:02:09 PM] [client ::1] Array
+[Thu 2019-05-16 04:02:09 PM] [client ::1] Select * from site_activity where attraction_site=6
+ [Thu 2019-05-16 04:02:09 PM] [client ::1] Select * from site_rating where attraction_reference="871400e4-a9c8-4321-8c73-0e3ed63f4760"
+ [Thu 2019-05-16 04:02:09 PM] [client ::1] 0Rate0
+ [Thu 2019-05-16 04:02:09 PM] [client ::1] 1Rate0
+ [Thu 2019-05-16 04:02:09 PM] [client ::1] 2Rate4
+ [Thu 2019-05-16 04:02:09 PM] [client ::1] Select * from category
+ [Thu 2019-05-16 04:02:09 PM] [client ::1] Get service provider data
+ [Thu 2019-05-16 04:02:09 PM] [client ::1] Select * from service_provider
+ [Thu 2019-05-16 04:02:09 PM] [client ::1] Select * from attraction_site
+ [Thu 2019-05-16 04:02:09 PM] [client ::1] Select * from site_category where attraction_site=1
+ [Thu 2019-05-16 04:02:09 PM] [client ::1] Select * from category where code='CAT001'
+ [Thu 2019-05-16 04:02:09 PM] [client ::1] 
+ [Thu 2019-05-16 04:02:09 PM] [client ::1] Select * from category where code='CAT004'
+ [Thu 2019-05-16 04:02:09 PM] [client ::1] 
+ [Thu 2019-05-16 04:02:09 PM] [client ::1] Array
+[Thu 2019-05-16 04:02:09 PM] [client ::1] Array
+[Thu 2019-05-16 04:02:09 PM] [client ::1] Select * from site_activity where attraction_site=1
+ [Thu 2019-05-16 04:02:09 PM] [client ::1] Select * from site_rating where attraction_reference="43a3a526-4a62-495b-97eb-6a0a5fe3b4d0"
+ [Thu 2019-05-16 04:02:09 PM] [client ::1] Select * from site_category where attraction_site=3
+ [Thu 2019-05-16 04:02:09 PM] [client ::1] Select * from site_activity where attraction_site=3
+ [Thu 2019-05-16 04:02:09 PM] [client ::1] Select * from site_rating where attraction_reference="1ad9662f-4785-4093-8496-d6142d7004c9"
+ [Thu 2019-05-16 04:02:09 PM] [client ::1] Select * from site_category where attraction_site=4
+ [Thu 2019-05-16 04:02:09 PM] [client ::1] Select * from category where code='CAT002'
+ [Thu 2019-05-16 04:02:09 PM] [client ::1] 
+ [Thu 2019-05-16 04:02:09 PM] [client ::1] Array
+[Thu 2019-05-16 04:02:09 PM] [client ::1] Select * from site_activity where attraction_site=4
+ [Thu 2019-05-16 04:02:09 PM] [client ::1] Select * from site_rating where attraction_reference="b0ec1bbb-b304-4c3b-9c34-7230c1581dc6"
+ [Thu 2019-05-16 04:02:09 PM] [client ::1] Select * from site_category where attraction_site=6
+ [Thu 2019-05-16 04:02:09 PM] [client ::1] Select * from category where code='CAT001'
+ [Thu 2019-05-16 04:02:09 PM] [client ::1] 
+ [Thu 2019-05-16 04:02:10 PM] [client ::1] Array
+[Thu 2019-05-16 04:02:10 PM] [client ::1] Select * from site_activity where attraction_site=6
+ [Thu 2019-05-16 04:02:10 PM] [client ::1] Select * from site_rating where attraction_reference="871400e4-a9c8-4321-8c73-0e3ed63f4760"
+ [Thu 2019-05-16 04:02:10 PM] [client ::1] 0Rate0
+ [Thu 2019-05-16 04:02:10 PM] [client ::1] 1Rate0
+ [Thu 2019-05-16 04:02:10 PM] [client ::1] 2Rate4
+ [Thu 2019-05-16 04:02:10 PM] [client ::1] Select * from category
+ [Thu 2019-05-16 04:02:10 PM] [client ::1] Get service provider data
+ [Thu 2019-05-16 04:02:10 PM] [client ::1] Select * from service_provider
+ [Thu 2019-05-16 04:02:19 PM] [client 127.0.0.1] Select * from attraction_site where location='entebbe'
+ [Thu 2019-05-16 04:02:19 PM] [client 127.0.0.1] Select * from site_category where attraction_site=4
+ [Thu 2019-05-16 04:02:19 PM] [client 127.0.0.1] Select * from category where code='CAT002'
+ [Thu 2019-05-16 04:02:19 PM] [client 127.0.0.1] 
+ [Thu 2019-05-16 04:02:19 PM] [client 127.0.0.1] Array
+[Thu 2019-05-16 04:02:19 PM] [client 127.0.0.1] Select * from site_activity where attraction_site=4
+ [Thu 2019-05-16 04:02:19 PM] [client 127.0.0.1] Select * from site_rating where attraction_reference="b0ec1bbb-b304-4c3b-9c34-7230c1581dc6"
+ [Thu 2019-05-16 04:02:19 PM] [client 127.0.0.1] Select * from site_category where attraction_site=6
+ [Thu 2019-05-16 04:02:19 PM] [client 127.0.0.1] Select * from category where code='CAT001'
+ [Thu 2019-05-16 04:02:19 PM] [client 127.0.0.1] 
+ [Thu 2019-05-16 04:02:19 PM] [client 127.0.0.1] Array
+[Thu 2019-05-16 04:02:19 PM] [client 127.0.0.1] Select * from site_activity where attraction_site=6
+ [Thu 2019-05-16 04:02:19 PM] [client 127.0.0.1] Select * from site_rating where attraction_reference="871400e4-a9c8-4321-8c73-0e3ed63f4760"
+ [Thu 2019-05-16 04:02:19 PM] [client 127.0.0.1] 0Rate0
+ [Thu 2019-05-16 04:02:19 PM] [client 127.0.0.1] 1Rate0
+ [Thu 2019-05-16 04:02:19 PM] [client 127.0.0.1] 2Rate4
+ 
